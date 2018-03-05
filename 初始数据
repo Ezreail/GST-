@@ -1,0 +1,18 @@
+glutathione S-transferase [Halomonas titanicae]
+1 atgcagctct atttaaatac ttcttctccc tatgcacgcg ttgtgcgcgt gtgcctctat
+61 gaaaagcaac tgattgagcg caccgagctt tgctggtgcg acccttgggc ggcagatagc
+121 gaactgttgc agattacgcc gctgagtcgt attccaacac tggtcacaga cgagggcgat
+181 gtactcaccg agtcgctgtt gattgctcac tatctggatg ccgtgggaga agggccatct
+241 ctggtaccca ataaggcatt agcggaaacc ctggcgctgg cagggttggg gcagggcttg
+301 atggacgctg cctttaatgt ggtgatcggc cgtaagtatg ctggtaatga agtggatacg
+361 acgctgttgg ggcagcgccg tttaaaagcg atcgaacgca ctttaataac actcaatgcg
+421 caccccagcg tgctggcagg cagtgcccag cgtaccctgg gggcgattac cgttgccgtt
+481 gcactggctt atatcagttt ccgcctaccg gcctttgatt ggcaaaaccg ctacccgacg
+541 ctacatgcct ggcaggcgaa ggtggtggag ggcgagagct ttgcgcttac cacgtttgaa
+601 tag
+上游引物：5’-ATAGGATCCATGCAGCTCTATTTAA-3’ (BamHI)
+Tm：59.2℃     GC%：36    ΔG：-44.0
+下游引物：5’-AGTAAGCTTGTTCAAACGTGGTAAG-3’ (HindIII)
+Tm：59.7℃     GC%：40    ΔG：-43.9
+aa序列：
+MQLYLNTSSPYARVVRVCLYEKQLIERTELCWCDPWAADSELLQITPLSRIPTLVTDEGDVLTESLLIAHYLDAVGEGPSLVPNKALAETLALAGLGQGLMDAAFNVVIGRKYAGNEVDTTLLGQRRLKAIERTLITLNAHPSVLAGSAQRTLGAITVAVALAYISFRLPAFDWQNRYPTLHAWQAKVVEGESFALTTFE
