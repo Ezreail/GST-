@@ -15,5 +15,3 @@
 (3)  打开MEGA软件，打开untitled.fas文件，确认进行分析。选择Nucleotide Sequences，并确认，不进行核苷酸序列的蛋白质编码。选择phylogeny，选择第二个Construct/Test Neighbor-Joining Tree即可。之后进行保存，并可用AI等软件进行修饰。
 13.  基因功能的预测与分析：应用在线软件InterPro (http://www.ebi.ac.uk/ interpro/search/)对目的蛋白参与的生物过程、分子功能进行预测与分析。
 
-
-增改时把网页提供的原始数据全部添加到master branch里，经过翻译或者删改的放到ver-cn branch里。
