@@ -1,0 +1,465 @@
+ >seq1	200 amino acids
+#
+# netphos-3.1b prediction results
+#
+# Sequence		   # x   Context     Score   Kinase    Answer
+# -------------------------------------------------------------------
+# seq1                     4 Y   -MQLYLNTS   0.744   unsp       YES
+# seq1                     4 Y   -MQLYLNTS   0.392   INSR        . 
+# seq1                     4 Y   -MQLYLNTS   0.345   EGFR        . 
+# seq1                     4 Y   -MQLYLNTS   0.310   SRC         . 
+#
+# seq1                     7 T   LYLNTSSPY   0.580   PKG        YES
+# seq1                     7 T   LYLNTSSPY   0.503   cdc2       YES
+# seq1                     7 T   LYLNTSSPY   0.444   CaM-II      . 
+# seq1                     7 T   LYLNTSSPY   0.428   GSK3        . 
+# seq1                     7 T   LYLNTSSPY   0.363   CKI         . 
+# seq1                     7 T   LYLNTSSPY   0.345   CKII        . 
+# seq1                     7 T   LYLNTSSPY   0.343   DNAPK       . 
+# seq1                     7 T   LYLNTSSPY   0.293   p38MAPK     . 
+# seq1                     7 T   LYLNTSSPY   0.233   ATM         . 
+# seq1                     7 T   LYLNTSSPY   0.213   RSK         . 
+# seq1                     7 T   LYLNTSSPY   0.184   PKA         . 
+# seq1                     7 T   LYLNTSSPY   0.145   cdk5        . 
+# seq1                     7 T   LYLNTSSPY   0.122   PKC         . 
+# seq1                     7 T   LYLNTSSPY   0.114   unsp        . 
+# seq1                     7 T   LYLNTSSPY   0.079   PKB         . 
+#
+# seq1                     8 S   YLNTSSPYA   0.513   cdc2       YES
+# seq1                     8 S   YLNTSSPYA   0.454   GSK3        . 
+# seq1                     8 S   YLNTSSPYA   0.446   CaM-II      . 
+# seq1                     8 S   YLNTSSPYA   0.370   CKI         . 
+# seq1                     8 S   YLNTSSPYA   0.362   DNAPK       . 
+# seq1                     8 S   YLNTSSPYA   0.312   PKG         . 
+# seq1                     8 S   YLNTSSPYA   0.310   CKII        . 
+# seq1                     8 S   YLNTSSPYA   0.301   ATM         . 
+# seq1                     8 S   YLNTSSPYA   0.286   p38MAPK     . 
+# seq1                     8 S   YLNTSSPYA   0.276   RSK         . 
+# seq1                     8 S   YLNTSSPYA   0.180   cdk5        . 
+# seq1                     8 S   YLNTSSPYA   0.173   PKC         . 
+# seq1                     8 S   YLNTSSPYA   0.150   PKA         . 
+# seq1                     8 S   YLNTSSPYA   0.081   PKB         . 
+# seq1                     8 S   YLNTSSPYA   0.024   unsp        . 
+#
+# seq1                     9 S   LNTSSPYAR   0.486   cdk5        . 
+# seq1                     9 S   LNTSSPYAR   0.473   GSK3        . 
+# seq1                     9 S   LNTSSPYAR   0.445   DNAPK       . 
+# seq1                     9 S   LNTSSPYAR   0.442   CaM-II      . 
+# seq1                     9 S   LNTSSPYAR   0.433   p38MAPK     . 
+# seq1                     9 S   LNTSSPYAR   0.386   cdc2        . 
+# seq1                     9 S   LNTSSPYAR   0.360   CKI         . 
+# seq1                     9 S   LNTSSPYAR   0.311   ATM         . 
+# seq1                     9 S   LNTSSPYAR   0.261   RSK         . 
+# seq1                     9 S   LNTSSPYAR   0.257   CKII        . 
+# seq1                     9 S   LNTSSPYAR   0.243   PKA         . 
+# seq1                     9 S   LNTSSPYAR   0.240   unsp        . 
+# seq1                     9 S   LNTSSPYAR   0.227   PKG         . 
+# seq1                     9 S   LNTSSPYAR   0.091   PKB         . 
+# seq1                     9 S   LNTSSPYAR   0.075   PKC         . 
+#
+# seq1                    11 Y   TSSPYARVV   0.644   unsp       YES
+# seq1                    11 Y   TSSPYARVV   0.468   INSR        . 
+# seq1                    11 Y   TSSPYARVV   0.441   SRC         . 
+# seq1                    11 Y   TSSPYARVV   0.349   EGFR        . 
+#
+# seq1                    20 Y   RVCLYEKQL   0.438   INSR        . 
+# seq1                    20 Y   RVCLYEKQL   0.417   EGFR        . 
+# seq1                    20 Y   RVCLYEKQL   0.313   SRC         . 
+# seq1                    20 Y   RVCLYEKQL   0.038   unsp        . 
+#
+# seq1                    28 T   LIERTELCW   0.448   CKII        . 
+# seq1                    28 T   LIERTELCW   0.435   CaM-II      . 
+# seq1                    28 T   LIERTELCW   0.432   GSK3        . 
+# seq1                    28 T   LIERTELCW   0.402   PKG         . 
+# seq1                    28 T   LIERTELCW   0.388   cdc2        . 
+# seq1                    28 T   LIERTELCW   0.370   CKI         . 
+# seq1                    28 T   LIERTELCW   0.339   DNAPK       . 
+# seq1                    28 T   LIERTELCW   0.305   p38MAPK     . 
+# seq1                    28 T   LIERTELCW   0.244   ATM         . 
+# seq1                    28 T   LIERTELCW   0.240   RSK         . 
+# seq1                    28 T   LIERTELCW   0.175   cdk5        . 
+# seq1                    28 T   LIERTELCW   0.150   PKA         . 
+# seq1                    28 T   LIERTELCW   0.075   PKB         . 
+# seq1                    28 T   LIERTELCW   0.059   PKC         . 
+# seq1                    28 T   LIERTELCW   0.013   unsp        . 
+#
+# seq1                    40 S   WAADSELLQ   0.493   CKI         . 
+# seq1                    40 S   WAADSELLQ   0.487   CKII        . 
+# seq1                    40 S   WAADSELLQ   0.453   cdc2        . 
+# seq1                    40 S   WAADSELLQ   0.436   CaM-II      . 
+# seq1                    40 S   WAADSELLQ   0.426   GSK3        . 
+# seq1                    40 S   WAADSELLQ   0.360   PKA         . 
+# seq1                    40 S   WAADSELLQ   0.339   DNAPK       . 
+# seq1                    40 S   WAADSELLQ   0.338   PKG         . 
+# seq1                    40 S   WAADSELLQ   0.303   ATM         . 
+# seq1                    40 S   WAADSELLQ   0.293   RSK         . 
+# seq1                    40 S   WAADSELLQ   0.292   p38MAPK     . 
+# seq1                    40 S   WAADSELLQ   0.180   cdk5        . 
+# seq1                    40 S   WAADSELLQ   0.077   PKB         . 
+# seq1                    40 S   WAADSELLQ   0.065   PKC         . 
+# seq1                    40 S   WAADSELLQ   0.014   unsp        . 
+#
+# seq1                    46 T   LLQITPLSR   0.548   cdk5       YES
+# seq1                    46 T   LLQITPLSR   0.475   GSK3        . 
+# seq1                    46 T   LLQITPLSR   0.467   p38MAPK     . 
+# seq1                    46 T   LLQITPLSR   0.463   CaM-II      . 
+# seq1                    46 T   LLQITPLSR   0.426   cdc2        . 
+# seq1                    46 T   LLQITPLSR   0.384   CKI         . 
+# seq1                    46 T   LLQITPLSR   0.337   DNAPK       . 
+# seq1                    46 T   LLQITPLSR   0.269   PKG         . 
+# seq1                    46 T   LLQITPLSR   0.265   CKII        . 
+# seq1                    46 T   LLQITPLSR   0.246   ATM         . 
+# seq1                    46 T   LLQITPLSR   0.184   RSK         . 
+# seq1                    46 T   LLQITPLSR   0.107   PKA         . 
+# seq1                    46 T   LLQITPLSR   0.076   PKB         . 
+# seq1                    46 T   LLQITPLSR   0.043   PKC         . 
+# seq1                    46 T   LLQITPLSR   0.036   unsp        . 
+#
+# seq1                    49 S   ITPLSRIPT   0.480   GSK3        . 
+# seq1                    49 S   ITPLSRIPT   0.462   cdc2        . 
+# seq1                    49 S   ITPLSRIPT   0.460   PKG         . 
+# seq1                    49 S   ITPLSRIPT   0.442   PKA         . 
+# seq1                    49 S   ITPLSRIPT   0.419   unsp        . 
+# seq1                    49 S   ITPLSRIPT   0.408   CaM-II      . 
+# seq1                    49 S   ITPLSRIPT   0.382   PKC         . 
+# seq1                    49 S   ITPLSRIPT   0.366   CKI         . 
+# seq1                    49 S   ITPLSRIPT   0.358   p38MAPK     . 
+# seq1                    49 S   ITPLSRIPT   0.344   DNAPK       . 
+# seq1                    49 S   ITPLSRIPT   0.295   ATM         . 
+# seq1                    49 S   ITPLSRIPT   0.261   CKII        . 
+# seq1                    49 S   ITPLSRIPT   0.237   RSK         . 
+# seq1                    49 S   ITPLSRIPT   0.145   cdk5        . 
+# seq1                    49 S   ITPLSRIPT   0.080   PKB         . 
+#
+# seq1                    53 T   SRIPTLVTD   0.640   unsp       YES
+# seq1                    53 T   SRIPTLVTD   0.463   GSK3        . 
+# seq1                    53 T   SRIPTLVTD   0.451   CaM-II      . 
+# seq1                    53 T   SRIPTLVTD   0.401   PKA         . 
+# seq1                    53 T   SRIPTLVTD   0.393   cdc2        . 
+# seq1                    53 T   SRIPTLVTD   0.379   DNAPK       . 
+# seq1                    53 T   SRIPTLVTD   0.375   CKI         . 
+# seq1                    53 T   SRIPTLVTD   0.373   RSK         . 
+# seq1                    53 T   SRIPTLVTD   0.325   PKG         . 
+# seq1                    53 T   SRIPTLVTD   0.300   CKII        . 
+# seq1                    53 T   SRIPTLVTD   0.271   p38MAPK     . 
+# seq1                    53 T   SRIPTLVTD   0.249   ATM         . 
+# seq1                    53 T   SRIPTLVTD   0.231   cdk5        . 
+# seq1                    53 T   SRIPTLVTD   0.113   PKB         . 
+# seq1                    53 T   SRIPTLVTD   0.096   PKC         . 
+#
+# seq1                    56 T   PTLVTDEGD   0.450   cdc2        . 
+# seq1                    56 T   PTLVTDEGD   0.439   CKII        . 
+# seq1                    56 T   PTLVTDEGD   0.430   CaM-II      . 
+# seq1                    56 T   PTLVTDEGD   0.411   GSK3        . 
+# seq1                    56 T   PTLVTDEGD   0.372   CKI         . 
+# seq1                    56 T   PTLVTDEGD   0.336   DNAPK       . 
+# seq1                    56 T   PTLVTDEGD   0.306   p38MAPK     . 
+# seq1                    56 T   PTLVTDEGD   0.253   ATM         . 
+# seq1                    56 T   PTLVTDEGD   0.234   PKG         . 
+# seq1                    56 T   PTLVTDEGD   0.229   RSK         . 
+# seq1                    56 T   PTLVTDEGD   0.216   cdk5        . 
+# seq1                    56 T   PTLVTDEGD   0.149   PKC         . 
+# seq1                    56 T   PTLVTDEGD   0.099   PKB         . 
+# seq1                    56 T   PTLVTDEGD   0.086   PKA         . 
+# seq1                    56 T   PTLVTDEGD   0.068   unsp        . 
+#
+# seq1                    63 T   GDVLTESLL   0.542   CKII       YES
+# seq1                    63 T   GDVLTESLL   0.452   cdc2        . 
+# seq1                    63 T   GDVLTESLL   0.449   CKI         . 
+# seq1                    63 T   GDVLTESLL   0.426   GSK3        . 
+# seq1                    63 T   GDVLTESLL   0.415   CaM-II      . 
+# seq1                    63 T   GDVLTESLL   0.396   p38MAPK     . 
+# seq1                    63 T   GDVLTESLL   0.345   DNAPK       . 
+# seq1                    63 T   GDVLTESLL   0.272   RSK         . 
+# seq1                    63 T   GDVLTESLL   0.246   ATM         . 
+# seq1                    63 T   GDVLTESLL   0.246   PKG         . 
+# seq1                    63 T   GDVLTESLL   0.178   PKA         . 
+# seq1                    63 T   GDVLTESLL   0.174   cdk5        . 
+# seq1                    63 T   GDVLTESLL   0.080   PKB         . 
+# seq1                    63 T   GDVLTESLL   0.074   PKC         . 
+# seq1                    63 T   GDVLTESLL   0.072   unsp        . 
+#
+# seq1                    65 S   VLTESLLIA   0.537   cdc2       YES
+# seq1                    65 S   VLTESLLIA   0.464   CaM-II      . 
+# seq1                    65 S   VLTESLLIA   0.456   GSK3        . 
+# seq1                    65 S   VLTESLLIA   0.415   DNAPK       . 
+# seq1                    65 S   VLTESLLIA   0.382   CKII        . 
+# seq1                    65 S   VLTESLLIA   0.377   CKI         . 
+# seq1                    65 S   VLTESLLIA   0.298   RSK         . 
+# seq1                    65 S   VLTESLLIA   0.295   ATM         . 
+# seq1                    65 S   VLTESLLIA   0.295   PKA         . 
+# seq1                    65 S   VLTESLLIA   0.266   p38MAPK     . 
+# seq1                    65 S   VLTESLLIA   0.251   PKG         . 
+# seq1                    65 S   VLTESLLIA   0.217   PKC         . 
+# seq1                    65 S   VLTESLLIA   0.149   cdk5        . 
+# seq1                    65 S   VLTESLLIA   0.077   PKB         . 
+# seq1                    65 S   VLTESLLIA   0.007   unsp        . 
+#
+# seq1                    71 Y   LIAHYLDAV   0.352   SRC         . 
+# seq1                    71 Y   LIAHYLDAV   0.350   INSR        . 
+# seq1                    71 Y   LIAHYLDAV   0.338   EGFR        . 
+# seq1                    71 Y   LIAHYLDAV   0.016   unsp        . 
+#
+# seq1                    80 S   GEGPSLVPN   0.501   cdc2       YES
+# seq1                    80 S   GEGPSLVPN   0.457   GSK3        . 
+# seq1                    80 S   GEGPSLVPN   0.414   CaM-II      . 
+# seq1                    80 S   GEGPSLVPN   0.363   CKI         . 
+# seq1                    80 S   GEGPSLVPN   0.356   DNAPK       . 
+# seq1                    80 S   GEGPSLVPN   0.293   p38MAPK     . 
+# seq1                    80 S   GEGPSLVPN   0.280   CKII        . 
+# seq1                    80 S   GEGPSLVPN   0.274   PKG         . 
+# seq1                    80 S   GEGPSLVPN   0.266   ATM         . 
+# seq1                    80 S   GEGPSLVPN   0.247   PKA         . 
+# seq1                    80 S   GEGPSLVPN   0.221   RSK         . 
+# seq1                    80 S   GEGPSLVPN   0.205   cdk5        . 
+# seq1                    80 S   GEGPSLVPN   0.186   PKC         . 
+# seq1                    80 S   GEGPSLVPN   0.081   PKB         . 
+# seq1                    80 S   GEGPSLVPN   0.033   unsp        . 
+#
+# seq1                    90 T   ALAETLALA   0.468   GSK3        . 
+# seq1                    90 T   ALAETLALA   0.432   CaM-II      . 
+# seq1                    90 T   ALAETLALA   0.400   DNAPK       . 
+# seq1                    90 T   ALAETLALA   0.381   CKII        . 
+# seq1                    90 T   ALAETLALA   0.372   PKG         . 
+# seq1                    90 T   ALAETLALA   0.369   CKI         . 
+# seq1                    90 T   ALAETLALA   0.342   cdc2        . 
+# seq1                    90 T   ALAETLALA   0.332   PKA         . 
+# seq1                    90 T   ALAETLALA   0.268   p38MAPK     . 
+# seq1                    90 T   ALAETLALA   0.239   ATM         . 
+# seq1                    90 T   ALAETLALA   0.239   RSK         . 
+# seq1                    90 T   ALAETLALA   0.239   PKC         . 
+# seq1                    90 T   ALAETLALA   0.157   cdk5        . 
+# seq1                    90 T   ALAETLALA   0.072   PKB         . 
+# seq1                    90 T   ALAETLALA   0.036   unsp        . 
+#
+# seq1                   113 Y   IGRKYAGNE   0.424   INSR        . 
+# seq1                   113 Y   IGRKYAGNE   0.337   EGFR        . 
+# seq1                   113 Y   IGRKYAGNE   0.332   SRC         . 
+# seq1                   113 Y   IGRKYAGNE   0.091   unsp        . 
+#
+# seq1                   120 T   NEVDTTLLG   0.487   CKII        . 
+# seq1                   120 T   NEVDTTLLG   0.454   cdc2        . 
+# seq1                   120 T   NEVDTTLLG   0.425   GSK3        . 
+# seq1                   120 T   NEVDTTLLG   0.407   CaM-II      . 
+# seq1                   120 T   NEVDTTLLG   0.359   p38MAPK     . 
+# seq1                   120 T   NEVDTTLLG   0.359   CKI         . 
+# seq1                   120 T   NEVDTTLLG   0.337   DNAPK       . 
+# seq1                   120 T   NEVDTTLLG   0.257   PKG         . 
+# seq1                   120 T   NEVDTTLLG   0.240   ATM         . 
+# seq1                   120 T   NEVDTTLLG   0.195   unsp        . 
+# seq1                   120 T   NEVDTTLLG   0.181   RSK         . 
+# seq1                   120 T   NEVDTTLLG   0.157   cdk5        . 
+# seq1                   120 T   NEVDTTLLG   0.105   PKA         . 
+# seq1                   120 T   NEVDTTLLG   0.080   PKB         . 
+# seq1                   120 T   NEVDTTLLG   0.069   PKC         . 
+#
+# seq1                   121 T   EVDTTLLGQ   0.449   CaM-II      . 
+# seq1                   121 T   EVDTTLLGQ   0.431   GSK3        . 
+# seq1                   121 T   EVDTTLLGQ   0.414   cdc2        . 
+# seq1                   121 T   EVDTTLLGQ   0.366   CKI         . 
+# seq1                   121 T   EVDTTLLGQ   0.359   DNAPK       . 
+# seq1                   121 T   EVDTTLLGQ   0.337   p38MAPK     . 
+# seq1                   121 T   EVDTTLLGQ   0.291   CKII        . 
+# seq1                   121 T   EVDTTLLGQ   0.275   PKG         . 
+# seq1                   121 T   EVDTTLLGQ   0.243   ATM         . 
+# seq1                   121 T   EVDTTLLGQ   0.219   RSK         . 
+# seq1                   121 T   EVDTTLLGQ   0.198   cdk5        . 
+# seq1                   121 T   EVDTTLLGQ   0.121   PKC         . 
+# seq1                   121 T   EVDTTLLGQ   0.107   PKA         . 
+# seq1                   121 T   EVDTTLLGQ   0.085   PKB         . 
+# seq1                   121 T   EVDTTLLGQ   0.072   unsp        . 
+#
+# seq1                   134 T   AIERTLITL   0.675   PKA        YES
+# seq1                   134 T   AIERTLITL   0.481   cdc2        . 
+# seq1                   134 T   AIERTLITL   0.457   GSK3        . 
+# seq1                   134 T   AIERTLITL   0.447   PKG         . 
+# seq1                   134 T   AIERTLITL   0.414   CaM-II      . 
+# seq1                   134 T   AIERTLITL   0.379   CKI         . 
+# seq1                   134 T   AIERTLITL   0.353   DNAPK       . 
+# seq1                   134 T   AIERTLITL   0.303   CKII        . 
+# seq1                   134 T   AIERTLITL   0.259   p38MAPK     . 
+# seq1                   134 T   AIERTLITL   0.233   RSK         . 
+# seq1                   134 T   AIERTLITL   0.232   ATM         . 
+# seq1                   134 T   AIERTLITL   0.174   cdk5        . 
+# seq1                   134 T   AIERTLITL   0.076   PKB         . 
+# seq1                   134 T   AIERTLITL   0.072   PKC         . 
+# seq1                   134 T   AIERTLITL   0.017   unsp        . 
+#
+# seq1                   137 T   RTLITLNAH   0.781   PKC        YES
+# seq1                   137 T   RTLITLNAH   0.444   GSK3        . 
+# seq1                   137 T   RTLITLNAH   0.441   CaM-II      . 
+# seq1                   137 T   RTLITLNAH   0.382   CKI         . 
+# seq1                   137 T   RTLITLNAH   0.365   cdc2        . 
+# seq1                   137 T   RTLITLNAH   0.345   DNAPK       . 
+# seq1                   137 T   RTLITLNAH   0.333   p38MAPK     . 
+# seq1                   137 T   RTLITLNAH   0.278   RSK         . 
+# seq1                   137 T   RTLITLNAH   0.277   PKG         . 
+# seq1                   137 T   RTLITLNAH   0.266   CKII        . 
+# seq1                   137 T   RTLITLNAH   0.254   PKA         . 
+# seq1                   137 T   RTLITLNAH   0.242   ATM         . 
+# seq1                   137 T   RTLITLNAH   0.166   cdk5        . 
+# seq1                   137 T   RTLITLNAH   0.104   PKB         . 
+# seq1                   137 T   RTLITLNAH   0.016   unsp        . 
+#
+# seq1                   143 S   NAHPSVLAG   0.538   cdc2       YES
+# seq1                   143 S   NAHPSVLAG   0.440   CaM-II      . 
+# seq1                   143 S   NAHPSVLAG   0.430   GSK3        . 
+# seq1                   143 S   NAHPSVLAG   0.373   PKC         . 
+# seq1                   143 S   NAHPSVLAG   0.367   CKI         . 
+# seq1                   143 S   NAHPSVLAG   0.339   DNAPK       . 
+# seq1                   143 S   NAHPSVLAG   0.313   ATM         . 
+# seq1                   143 S   NAHPSVLAG   0.300   p38MAPK     . 
+# seq1                   143 S   NAHPSVLAG   0.291   CKII        . 
+# seq1                   143 S   NAHPSVLAG   0.264   RSK         . 
+# seq1                   143 S   NAHPSVLAG   0.231   PKG         . 
+# seq1                   143 S   NAHPSVLAG   0.157   PKA         . 
+# seq1                   143 S   NAHPSVLAG   0.156   cdk5        . 
+# seq1                   143 S   NAHPSVLAG   0.075   PKB         . 
+# seq1                   143 S   NAHPSVLAG   0.019   unsp        . 
+#
+# seq1                   148 S   VLAGSAQRT   0.620   unsp       YES
+# seq1                   148 S   VLAGSAQRT   0.459   cdc2        . 
+# seq1                   148 S   VLAGSAQRT   0.458   GSK3        . 
+# seq1                   148 S   VLAGSAQRT   0.428   CaM-II      . 
+# seq1                   148 S   VLAGSAQRT   0.370   CKI         . 
+# seq1                   148 S   VLAGSAQRT   0.369   DNAPK       . 
+# seq1                   148 S   VLAGSAQRT   0.340   p38MAPK     . 
+# seq1                   148 S   VLAGSAQRT   0.281   ATM         . 
+# seq1                   148 S   VLAGSAQRT   0.259   PKG         . 
+# seq1                   148 S   VLAGSAQRT   0.255   CKII        . 
+# seq1                   148 S   VLAGSAQRT   0.254   PKC         . 
+# seq1                   148 S   VLAGSAQRT   0.237   RSK         . 
+# seq1                   148 S   VLAGSAQRT   0.205   PKA         . 
+# seq1                   148 S   VLAGSAQRT   0.199   cdk5        . 
+# seq1                   148 S   VLAGSAQRT   0.081   PKB         . 
+#
+# seq1                   152 T   SAQRTLGAI   0.553   PKC        YES
+# seq1                   152 T   SAQRTLGAI   0.452   GSK3        . 
+# seq1                   152 T   SAQRTLGAI   0.422   CaM-II      . 
+# seq1                   152 T   SAQRTLGAI   0.404   CKI         . 
+# seq1                   152 T   SAQRTLGAI   0.362   DNAPK       . 
+# seq1                   152 T   SAQRTLGAI   0.360   cdc2        . 
+# seq1                   152 T   SAQRTLGAI   0.326   p38MAPK     . 
+# seq1                   152 T   SAQRTLGAI   0.292   CKII        . 
+# seq1                   152 T   SAQRTLGAI   0.273   PKG         . 
+# seq1                   152 T   SAQRTLGAI   0.270   PKA         . 
+# seq1                   152 T   SAQRTLGAI   0.252   ATM         . 
+# seq1                   152 T   SAQRTLGAI   0.209   RSK         . 
+# seq1                   152 T   SAQRTLGAI   0.205   cdk5        . 
+# seq1                   152 T   SAQRTLGAI   0.075   PKB         . 
+# seq1                   152 T   SAQRTLGAI   0.037   unsp        . 
+#
+# seq1                   157 T   LGAITVAVA   0.449   cdc2        . 
+# seq1                   157 T   LGAITVAVA   0.442   CaM-II      . 
+# seq1                   157 T   LGAITVAVA   0.427   GSK3        . 
+# seq1                   157 T   LGAITVAVA   0.361   CKI         . 
+# seq1                   157 T   LGAITVAVA   0.339   DNAPK       . 
+# seq1                   157 T   LGAITVAVA   0.336   CKII        . 
+# seq1                   157 T   LGAITVAVA   0.317   p38MAPK     . 
+# seq1                   157 T   LGAITVAVA   0.301   PKC         . 
+# seq1                   157 T   LGAITVAVA   0.281   PKG         . 
+# seq1                   157 T   LGAITVAVA   0.279   PKA         . 
+# seq1                   157 T   LGAITVAVA   0.240   ATM         . 
+# seq1                   157 T   LGAITVAVA   0.178   RSK         . 
+# seq1                   157 T   LGAITVAVA   0.177   cdk5        . 
+# seq1                   157 T   LGAITVAVA   0.155   unsp        . 
+# seq1                   157 T   LGAITVAVA   0.073   PKB         . 
+#
+# seq1                   164 Y   VALAYISFR   0.421   EGFR        . 
+# seq1                   164 Y   VALAYISFR   0.411   INSR        . 
+# seq1                   164 Y   VALAYISFR   0.306   SRC         . 
+# seq1                   164 Y   VALAYISFR   0.189   unsp        . 
+#
+# seq1                   166 S   LAYISFRLP   0.443   CaM-II      . 
+# seq1                   166 S   LAYISFRLP   0.441   GSK3        . 
+# seq1                   166 S   LAYISFRLP   0.434   cdc2        . 
+# seq1                   166 S   LAYISFRLP   0.381   p38MAPK     . 
+# seq1                   166 S   LAYISFRLP   0.363   CKI         . 
+# seq1                   166 S   LAYISFRLP   0.341   DNAPK       . 
+# seq1                   166 S   LAYISFRLP   0.334   RSK         . 
+# seq1                   166 S   LAYISFRLP   0.319   PKG         . 
+# seq1                   166 S   LAYISFRLP   0.304   ATM         . 
+# seq1                   166 S   LAYISFRLP   0.283   PKC         . 
+# seq1                   166 S   LAYISFRLP   0.275   CKII        . 
+# seq1                   166 S   LAYISFRLP   0.188   PKA         . 
+# seq1                   166 S   LAYISFRLP   0.167   cdk5        . 
+# seq1                   166 S   LAYISFRLP   0.075   PKB         . 
+# seq1                   166 S   LAYISFRLP   0.024   unsp        . 
+#
+# seq1                   178 Y   WQNRYPTLH   0.410   INSR        . 
+# seq1                   178 Y   WQNRYPTLH   0.349   EGFR        . 
+# seq1                   178 Y   WQNRYPTLH   0.313   SRC         . 
+# seq1                   178 Y   WQNRYPTLH   0.066   unsp        . 
+#
+# seq1                   180 T   NRYPTLHAW   0.515   PKG        YES
+# seq1                   180 T   NRYPTLHAW   0.483   PKA         . 
+# seq1                   180 T   NRYPTLHAW   0.456   GSK3        . 
+# seq1                   180 T   NRYPTLHAW   0.445   PKC         . 
+# seq1                   180 T   NRYPTLHAW   0.422   CaM-II      . 
+# seq1                   180 T   NRYPTLHAW   0.355   CKI         . 
+# seq1                   180 T   NRYPTLHAW   0.353   cdc2        . 
+# seq1                   180 T   NRYPTLHAW   0.348   DNAPK       . 
+# seq1                   180 T   NRYPTLHAW   0.325   unsp        . 
+# seq1                   180 T   NRYPTLHAW   0.321   RSK         . 
+# seq1                   180 T   NRYPTLHAW   0.295   p38MAPK     . 
+# seq1                   180 T   NRYPTLHAW   0.241   CKII        . 
+# seq1                   180 T   NRYPTLHAW   0.235   ATM         . 
+# seq1                   180 T   NRYPTLHAW   0.182   cdk5        . 
+# seq1                   180 T   NRYPTLHAW   0.136   PKB         . 
+#
+# seq1                   193 S   VEGESFALT   0.449   GSK3        . 
+# seq1                   193 S   VEGESFALT   0.430   PKA         . 
+# seq1                   193 S   VEGESFALT   0.430   CKII        . 
+# seq1                   193 S   VEGESFALT   0.428   CaM-II      . 
+# seq1                   193 S   VEGESFALT   0.364   CKI         . 
+# seq1                   193 S   VEGESFALT   0.357   DNAPK       . 
+# seq1                   193 S   VEGESFALT   0.349   cdc2        . 
+# seq1                   193 S   VEGESFALT   0.342   p38MAPK     . 
+# seq1                   193 S   VEGESFALT   0.317   ATM         . 
+# seq1                   193 S   VEGESFALT   0.288   RSK         . 
+# seq1                   193 S   VEGESFALT   0.243   PKG         . 
+# seq1                   193 S   VEGESFALT   0.160   PKC         . 
+# seq1                   193 S   VEGESFALT   0.141   cdk5        . 
+# seq1                   193 S   VEGESFALT   0.090   PKB         . 
+# seq1                   193 S   VEGESFALT   0.016   unsp        . 
+#
+# seq1                   197 T   SFALTTFE-   0.757   unsp       YES
+# seq1                   197 T   SFALTTFE-   0.593   CKII       YES
+# seq1                   197 T   SFALTTFE-   0.498   PKC         . 
+# seq1                   197 T   SFALTTFE-   0.464   GSK3        . 
+# seq1                   197 T   SFALTTFE-   0.440   CaM-II      . 
+# seq1                   197 T   SFALTTFE-   0.376   cdc2        . 
+# seq1                   197 T   SFALTTFE-   0.376   CKI         . 
+# seq1                   197 T   SFALTTFE-   0.339   DNAPK       . 
+# seq1                   197 T   SFALTTFE-   0.324   p38MAPK     . 
+# seq1                   197 T   SFALTTFE-   0.305   RSK         . 
+# seq1                   197 T   SFALTTFE-   0.304   PKG         . 
+# seq1                   197 T   SFALTTFE-   0.285   ATM         . 
+# seq1                   197 T   SFALTTFE-   0.197   cdk5        . 
+# seq1                   197 T   SFALTTFE-   0.173   PKA         . 
+# seq1                   197 T   SFALTTFE-   0.094   PKB         . 
+#
+# seq1                   198 T   FALTTFE--   0.436   CaM-II      . 
+# seq1                   198 T   FALTTFE--   0.432   GSK3        . 
+# seq1                   198 T   FALTTFE--   0.420   CKI         . 
+# seq1                   198 T   FALTTFE--   0.413   CKII        . 
+# seq1                   198 T   FALTTFE--   0.378   PKC         . 
+# seq1                   198 T   FALTTFE--   0.364   p38MAPK     . 
+# seq1                   198 T   FALTTFE--   0.356   cdc2        . 
+# seq1                   198 T   FALTTFE--   0.339   DNAPK       . 
+# seq1                   198 T   FALTTFE--   0.298   RSK         . 
+# seq1                   198 T   FALTTFE--   0.298   PKG         . 
+# seq1                   198 T   FALTTFE--   0.271   ATM         . 
+# seq1                   198 T   FALTTFE--   0.189   cdk5        . 
+# seq1                   198 T   FALTTFE--   0.106   PKA         . 
+# seq1                   198 T   FALTTFE--   0.082   PKB         . 
+# seq1                   198 T   FALTTFE--   0.043   unsp        . 
+#
+    MQLYLNTSSPYARVVRVCLYEKQLIERTELCWCDPWAADSELLQITPLSR   #     50
+    IPTLVTDEGDVLTESLLIAHYLDAVGEGPSLVPNKALAETLALAGLGQGL   #    100
+    MDAAFNVVIGRKYAGNEVDTTLLGQRRLKAIERTLITLNAHPSVLAGSAQ   #    150
+    RTLGAITVAVALAYISFRLPAFDWQNRYPTLHAWQAKVVEGESFALTTFE   #    200
+%1  ...Y..TS..Y..................................T....   #     50
+%1  ..T.........T.S..............S....................   #    100
+%1  .................................T..T.....S....S..   #    150
+%1  .T...........................T................T...   #    200
