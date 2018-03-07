@@ -1,0 +1,2074 @@
+# https://www.predictprotein.org/visual_results?req_id=617058
+Input
+>query
+MQLYLNTSSP YARVVRVCLY EKQLIERTEL CWCDPWAADS ELLQITPLSR
+IPTLVTDEGD VLTESLLIAH YLDAVGEGPS LVPNKALAET LALAGLGQGL
+MDAAFNVVIG RKYAGNEVDT TLLGQRRLKA IERTLITLNA HPSVLAGSAQ
+RTLGAITVAV ALAYISFRLP AFDWQNRYPT LHAWQAKVVE GESFALTTFE
+
+Secondary Structure
+PROFsec summary
+Protein can be classified as mixed given the following classes:
+'all-alpha': %H > 45% AND %E < 5%
+'all-beta': %H < 5% AND %E > 45%
+'alpha-beta': %H > 30% AND %E > 20%
+'mixed': all others
+Predicted secondary structure composition
+sec str type	H	E	L
+% in protein	54.50	8.50	37.00
+
+Predicted solvent accessibility composition (core/surface ratio) for your protein:
+Classes used:
+e: residues exposed with more than 16% of their surface
+b: all other residues.
+accessib type	b	e
+% in protein	36.50	63.50
+
+
+About your protein:
+prot_nres	200
+prot_nali	2932
+prot_nchn	1
+prot_nfar	2904
+
+Residue composition for your protein:
+%A: 12.0	%C: 1.5	%D: 4.0	%E: 6.5	%F: 2.5
+%G: 6.0	%H: 1.5	%I: 4.5	%K: 2.5	%L: 15.0
+%M: 1.0	%N: 3.0	%P: 4.5	%Q: 4.0	%R: 5.5
+%S: 5.0	%T: 8.0	%V: 7.5	%W: 2.0	%Y: 3.5
+
+Prediction (brief)  (Show Landscape View)
+           ....,....1....,....2....,....3....,....4....,....5....,....6
+AA         MQLYLNTSSPYARVVRVCLYEKQLIERTELCWCDPWAADSELLQITPLSRIPTLVTDEGD
+OBS_sec                                                                
+PROF_sec    EEEE     HHHHHHHHHHH     EEEEEE       HHHH         EEEE    
+Rel_sec    913430577312421212234156421355412555554012101654674324525762
+SUB_sec    L.....LLL.............LL....EE...LLLLL.......LL.LL....E.LLL.
+
+O_3_acc    bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+P_3_acc    eeb   ee e b  bbbbb eeebeeebe    eeeeeeeeb e  e eebbbbb eeee
+Rel_acc    024212021201227044710022112120011311201331132111001236201302
+SUB_acc    ..b...........b.bbb..................................b......
+
+
+           ....,....7....,....8....,....9....,....10...,....11...,....12
+AA         VLTESLLIAHYLDAVGEGPSLVPNKALAETLALAGLGQGLMDAAFNVVIGRKYAGNEVDT
+OBS_sec                                                                
+PROF_sec   EEE HHHHHHHHHHH          HHHHHHHHHHHHHHHHHHHHHHHHHHH        
+Rel_sec    210015788878641577766674257788889987642212567887764225423443
+SUB_sec    .....HHHHHHHH..LLLLLLLL..HHHHHHHHHHHH.....HHHHHHHH...L......
+
+O_3_acc    bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+P_3_acc     bbbb bbb bbee  ee eb  eee e b bb  bbe bbe bb  bbee beeee ee
+Rel_acc    020031393228222121110012311133022223322222144221312212233032
+SUB_acc    .......b...b...............................bb...............
+
+
+           ....,....13...,....14...,....15...,....16...,....17...,....18
+AA         TLLGQRRLKAIERTLITLNAHPSVLAGSAQRTLGAITVAVALAYISFRLPAFDWQNRYPT
+OBS_sec                                                                
+PROF_sec   HHHHHHHHHHHHHHHHHHHHHHHHH       HHHHHHHHHHHHHHHH          HH
+Rel_sec    367888888888888888753212114653224567777665454411114453223414
+SUB_sec    .HHHHHHHHHHHHHHHHHHH.......LL....HHHHHHHHH.H........L.......
+
+O_3_acc    bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+P_3_acc    ee bee  eeb ebbe b e bee bee ebbbbbbbbbbbbbbb    ee e  ee e 
+Rel_acc    242122014263433335241111000101002527565444121111111221032222
+SUB_acc    .e......e.b.e....b.e.............b.bbbbbbb..................
+
+
+           ....,....19...,....20
+AA         LHAWQAKVVEGESFALTTFE
+OBS_sec                        
+PROF_sec   HHHHHHHHHH  HHH     
+Rel_sec    77888875413012113778
+SUB_sec    HHHHHHHH.........LLL
+
+O_3_acc    bbbbbbbbbbbbbbbbbbbb
+P_3_acc    b ebbeebee ee eeeeee
+Rel_acc    42312430232321052039
+SUB_acc    b....e.........e...e
+
+
+
+Prediction (detailed)  (Show Landscape View)
+           ....,....1....,....2....,....3....,....4....,....5....,....6
+AA         MQLYLNTSSPYARVVRVCLYEKQLIERTELCWCDPWAADSELLQITPLSRIPTLVTDEGD
+ pH_sec                                                                 1.0 
+ pH_sec                                                                 0.9 
+ pH_sec                                                                 0.8 
+ pH_sec                      .                                          0.7 
+ pH_sec             ...........                   .                     0.6 
+ pH_sec             ...........                  ....                   0.5 
+ pH_sec             ............                 .....                  0.4 
+ pH_sec            .............                .......  .           .  0.3 
+ pH_sec            ...................   .. ...............         ..  0.2 
+          ------------------------------------------------------------
+ pE_sec                                                                 1.0 
+ pE_sec                                                                 0.9 
+ pE_sec                                                                 0.8 
+ pE_sec     ...                      ....                      ..       0.7 
+ pE_sec    ....                      .....                    ....      0.6 
+ pE_sec    .....                    ......                    ....      0.5 
+ pE_sec    .....       ......       .......                  .....      0.4 
+ pE_sec    ......     .........    ........        ....     .......  .  0.3 
+ pE_sec    .......   ..........  ...............  .................  .  0.2 
+          ------------------------------------------------------------
+ pL_sec   .                                                             1.0 
+ pL_sec   .      ..                                                .    0.9 
+ pL_sec   .      ..             ..         ..          .. ..      ...   0.8 
+ pL_sec   .     ....            ...        ......      .......    ...   0.7 
+ pL_sec   .    .....           .....      .......      .......    ....  0.6 
+ pL_sec   ..   .....           .....      ........    ........    ....  0.5 
+ pL_sec   ...  ......          ......    .......... ...........  .....  0.4 
+ pL_sec   ............        ........................................  0.3 
+ pL_sec   ................   .........................................  0.2 
+          ------------------------------------------------------------
+OBS_acc                                                                 100% 
+OBS_acc                                                                  81% 
+OBS_acc                                                                  64% 
+OBS_acc                                                                  49% 
+OBS_acc                                                                  36% 
+OBS_acc                                                                  25% 
+OBS_acc                                                                  16% 
+OBS_acc                                                                   9% 
+OBS_acc                                                                   4% 
+          ------------------------------------------------------------
+PROF_acc         .              .           ..                     .    100% 
+PROF_acc  .     ..              .           ...  .   .    .       ..     81% 
+PROF_acc  .     ..              .   .      ....  ..  .  . .       ..     64% 
+PROF_acc  ..    .. .          ... ... .    ........  .  . ..      ....   49% 
+PROF_acc  .. ..... .  .       ... ... .  ..........  .. . ..      ....   36% 
+PROF_acc  .. ..... .  ..     .... ... ............. ... ....     .....   25% 
+PROF_acc  .. ........ ..     .... ... ............. ........     .....   16% 
+PROF_acc  .. ........ ..     ...................... ........     .....    9% 
+PROF_acc  .. ........ ..     ...................... ........     .....    4% 
+          ------------------------------------------------------------
+
+           ....,....7....,....8....,....9....,....10...,....11...,....12
+AA         VLTESLLIAHYLDAVGEGPSLVPNKALAETLALAGLGQGLMDAAFNVVIGRKYAGNEVDT
+ pH_sec          ...                  .......                           1.0 
+ pH_sec         .......             ...........      ......             0.9 
+ pH_sec        .........           ............     ........            0.8 
+ pH_sec        .........           ..............  ..........           0.7 
+ pH_sec       ...........          ...........................          0.6 
+ pH_sec       ...........          ...........................          0.5 
+ pH_sec    ..............         .............................  ..     0.4 
+ pH_sec   ................       .............................. ......  0.3 
+ pH_sec   ................. ..   .....................................  0.2 
+          ------------------------------------------------------------
+ pE_sec                                                                 1.0 
+ pE_sec                                                                 0.9 
+ pE_sec                                                                 0.8 
+ pE_sec                                                                 0.7 
+ pE_sec   .                                                             0.6 
+ pE_sec   ..                                                            0.5 
+ pE_sec   ...                                                           0.4 
+ pE_sec   ....                                                          0.3 
+ pE_sec   .....              ....                            .          0.2 
+          ------------------------------------------------------------
+ pL_sec                                                                 1.0 
+ pL_sec                   ...  ..                                       0.9 
+ pL_sec                  ........                              ..   .   0.8 
+ pL_sec                  .........                             .......  0.7 
+ pL_sec                  ..........                           ........  0.6 
+ pL_sec      .           ..........                           ........  0.5 
+ pL_sec     ...         ...........             ....         .........  0.4 
+ pL_sec   ......       .............           ......       ..........  0.3 
+ pL_sec   .......     ...............        .........    ............  0.2 
+          ------------------------------------------------------------
+OBS_acc                                                                 100% 
+OBS_acc                                                                  81% 
+OBS_acc                                                                  64% 
+OBS_acc                                                                  49% 
+OBS_acc                                                                  36% 
+OBS_acc                                                                  25% 
+OBS_acc                                                                  16% 
+OBS_acc                                                                   9% 
+OBS_acc                                                                   4% 
+          ------------------------------------------------------------
+PROF_acc                  .  .   .                               ..     100% 
+PROF_acc               .  .. .   .                              ...      81% 
+PROF_acc              ..  .. .   ..            .            .   ... .    64% 
+PROF_acc              ..  .. .   ... .         .   .       ..  .... ..   49% 
+PROF_acc       .   .  ..  ....  .... ..    ..  ..  ..  .   ... .......   36% 
+PROF_acc  .    .   .  ........  ....... .  ..  ..  ..  ..  ... .......   25% 
+PROF_acc  .    .   .  ........ ........ .  ..  ..  ..  ..  ... .......   16% 
+PROF_acc  .    .   .  ........ ........ .  ..  ..  ..  ..  ...........    9% 
+PROF_acc  .    .   .  ................. .  ..  ..  ..  ..  ...........    4% 
+          ------------------------------------------------------------
+
+           ....,....13...,....14...,....15...,....16...,....17...,....18
+AA         TLLGQRRLKAIERTLITLNAHPSVLAGSAQRTLGAITVAVALAYISFRLPAFDWQNRYPT
+ pH_sec       ..............                                            1.0 
+ pH_sec    ..................                . ..                       0.9 
+ pH_sec    ...................             .........                 .  0.8 
+ pH_sec   .....................           ..............             .  0.7 
+ pH_sec   ........................        ...............           ..  0.6 
+ pH_sec   .........................       ................          ..  0.5 
+ pH_sec   ..........................     ...................    ..  ..  0.4 
+ pH_sec   ...........................  ......................  .......  0.3 
+ pH_sec   ............................................................  0.2 
+          ------------------------------------------------------------
+ pE_sec                                                                 1.0 
+ pE_sec                                                                 0.9 
+ pE_sec                                                                 0.8 
+ pE_sec                                                                 0.7 
+ pE_sec                                                                 0.6 
+ pE_sec                                                                 0.5 
+ pE_sec                                                                 0.4 
+ pE_sec                                 .                               0.3 
+ pE_sec                          ....  ...... .    ................     0.2 
+          ------------------------------------------------------------
+ pL_sec                                                                 1.0 
+ pL_sec                                                                 0.9 
+ pL_sec                              ..                                 0.8 
+ pL_sec                             ...                     ...    .    0.7 
+ pL_sec                             ......                 .........    0.6 
+ pL_sec                            .......                ..........    0.5 
+ pL_sec   .                   ............              .............   0.4 
+ pL_sec   .                  ..............         .  ...............  0.3 
+ pL_sec   ...               .................   ......................  0.2 
+          ------------------------------------------------------------
+OBS_acc                                                                 100% 
+OBS_acc                                                                  81% 
+OBS_acc                                                                  64% 
+OBS_acc                                                                  49% 
+OBS_acc                                                                  36% 
+OBS_acc                                                                  25% 
+OBS_acc                                                                  16% 
+OBS_acc                                                                   9% 
+OBS_acc                                                                   4% 
+          ------------------------------------------------------------
+PROF_acc                             .                                  100% 
+PROF_acc                     .       .                     .. .  .       81% 
+PROF_acc  ..      .          .       .                     .. .  .. .    64% 
+PROF_acc  ..  ..  ..  .  .   .  ..  .. .                   .. .  .. .    49% 
+PROF_acc  ... ..  .. ..  .. ..  ..  ....               . . .. . ... ..   36% 
+PROF_acc  ... ...... ..  .. ... ..  ....               . . .. ..... ..   25% 
+PROF_acc  ... ...... ..  .. ... ... ....               ...............   16% 
+PROF_acc  ... ...... ..  .. ... ... ....               ...............    9% 
+PROF_acc  ... ...... ..  .. ... ... ....               ...............    4% 
+          ------------------------------------------------------------
+
+           ....,....19...,....20
+AA         LHAWQAKVVEGESFALTTFE
+ pH_sec     . ..                1.0 
+ pH_sec   .......               0.9 
+ pH_sec   ........              0.8 
+ pH_sec   .........             0.7 
+ pH_sec   ..........  ...       0.6 
+ pH_sec   .......... .....      0.5 
+ pH_sec   ................      0.4 
+ pH_sec   .................     0.3 
+ pH_sec   ..................    0.2 
+          --------------------
+ pE_sec                         1.0 
+ pE_sec                         0.9 
+ pE_sec                         0.8 
+ pE_sec                         0.7 
+ pE_sec                         0.6 
+ pE_sec                         0.5 
+ pE_sec                         0.4 
+ pE_sec                         0.3 
+ pE_sec               ... .     0.2 
+          --------------------
+ pL_sec                      .  1.0 
+ pL_sec                    ...  0.9 
+ pL_sec                    ...  0.8 
+ pL_sec             .     ....  0.7 
+ pL_sec             .    .....  0.6 
+ pL_sec            ...   .....  0.5 
+ pL_sec            ...........  0.4 
+ pL_sec           ............  0.3 
+ pL_sec   .     ..............  0.2 
+          --------------------
+OBS_acc                         100% 
+OBS_acc                          81% 
+OBS_acc                          64% 
+OBS_acc                          49% 
+OBS_acc                          36% 
+OBS_acc                          25% 
+OBS_acc                          16% 
+OBS_acc                           9% 
+OBS_acc                           4% 
+          --------------------
+PROF_acc                 .. ..  100% 
+PROF_acc           .     .. ..   81% 
+PROF_acc       .  .. ..  .. ..   64% 
+PROF_acc    .  .. .. .. ......   49% 
+PROF_acc   ..  .. .. .. ......   36% 
+PROF_acc   ..  .. ..... ......   25% 
+PROF_acc   ..  .. ............   16% 
+PROF_acc   ..  .. ............    9% 
+PROF_acc   ..  .. ............    4% 
+          --------------------
+
+
+Transmembrane
+PHDhtm summary
+NHTM=1
+PHDhtm detected 1 membrane helix for the best model.The second best model contained 0 helix.
+TOP=unk
+PHDhtm predicted the topology unk, i.e. the first loop region is unk (Note: this prediction may be problematic when the sequence you sent starts or ends with a region predicted in a membrane helix!)
+Reliability of best model=0 (0 is low, 9 is high)
+Zscore for best model=0.000
+Difference of positive charges (K+R) inside - outside=0.000 (the higher the value, the more reliable)
+Reliability of topology prediction =0 (0 is low, 9 is high)
+Details of the strength of each predicted membrane helix:
+(sorted by strength, strongest first)
+N HTM	Total score	Best HTM	c-N
+1	0.9468	0.0000	0 - 0
+Overview over transmembrane segments:
+
+Positions	Segments	Explain
+1- 1	i1	inside region 1
+2- 200	?1	?=error 1
+
+
+Residue composition for your protein:
+%A: 12.0	%C: 1.5	%D: 4.0	%E: 6.5	%F: 2.5
+%G: 6.0	%H: 1.5	%I: 4.5	%K: 2.5	%L: 15.0
+%M: 1.0	%N: 3.0	%P: 4.5	%Q: 4.0	%R: 5.5
+%S: 5.0	%T: 8.0	%V: 7.5	%W: 2.0	%Y: 3.5
+PHD results (brief)   (Show Landscape View)
+           ....,....1....,....2....,....3....,....4....,....5....,....6....,....7....,....8....,....9....,....1
+AA         MQLYLNTSSPYARVVRVCLYEKQLIERTELCWCDPWAADSELLQITPLSRIPTLVTDEGDVLTESLLIAHYLDAVGEGPSLVPNKALAETLALAGLGQGL
+PHD_htm                                                                                                        
+Rel_htm    ****************************************************************************************************
+
+PiMohtm    i???????????????????????????????????????????????????????????????????????????????????????????????????
+
+           ....,....11...,....12...,....13...,....14...,....15...,....16...,....17...,....18...,....19...,....20
+AA         MDAAFNVVIGRKYAGNEVDTTLLGQRRLKAIERTLITLNAHPSVLAGSAQRTLGAITVAVALAYISFRLPAFDWQNRYPTLHAWQAKVVEGESFALTTFE
+PHD_htm                                                          MMMMMMMMM                                     
+Rel_htm    ***************************************************               **********************************
+
+PiMohtm    ????????????????????????????????????????????????????????????????????????????????????????????????????
+
+
+PHD results (normal)  (Show Landscape View)
+           ....,....1....,....2....,....3....,....4....,....5....,....6....,....7....,....8....,....9....,....1
+AA         MQLYLNTSSPYARVVRVCLYEKQLIERTELCWCDPWAADSELLQITPLSRIPTLVTDEGDVLTESLLIAHYLDAVGEGPSLVPNKALAETLALAGLGQGL
+PHD_htm                                                                                                        
+Rel_htm    9999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999988877
+SUB_htm    NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+
+PHDrhtm                                                                                                        
+PiMohtm    i???????????????????????????????????????????????????????????????????????????????????????????????????
+
+           ....,....11...,....12...,....13...,....14...,....15...,....16...,....17...,....18...,....19...,....20
+AA         MDAAFNVVIGRKYAGNEVDTTLLGQRRLKAIERTLITLNAHPSVLAGSAQRTLGAITVAVALAYISFRLPAFDWQNRYPTLHAWQAKVVEGESFALTTFE
+PHD_htm                                                          MMMMMMMMM                                     
+Rel_htm    7777789999999999999999999999999999999999999999999886410111223311357889999999999999999999999999999999
+SUB_htm    NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN...............NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+
+PHDrhtm                                                                                                       M
+PiMohtm    ????????????????????????????????????????????????????????????????????????????????????????????????????
+
+
+Coiled Coils
+>query
+
+
+               .    :    .    :    .    :    .    :    .    5
+seq        MQLYLNTSSPYARVVRVCLYEKQLIERTELCWCDPWAADSELLQITPLSR
+frame-14   abcdefgabcabcaabcdefgabcdefgefgfgbcdeabcdefgabcdef
+frame-21   abcdefgabcabcdefgabcdefgabcdefgfggcdaabcdefgabcdef
+frame-28   abcdefgabcdefgabcdefgabcdefgefggabcdaabcdefgabcdef
+prob-14    --------------------------------------------------
+prob-21    --------------------------------------------------
+prob-28    --------------------------------------------------
+               .    :    .    :    .    :    .    :    .    10
+seq        IPTLVTDEGDVLTESLLIAHYLDAVGEGPSLVPNKALAETLALAGLGQGL
+frame-14   gbcabcdefgabcdefgabcdefgefgdeaabcabcdefgabcdefgfga
+frame-21   gababcdefgabcdefgabcdefggfgabcdeaabaabcdefgabcdefg
+frame-28   gabcdefgabcdefgfgabcdefgabcdefgcdabcdefgabcdefgabc
+prob-14    --------------------------------------------------
+prob-21    --------------------------------------------------
+prob-28    --------------------------------------------------
+               .    :    .    :    .    :    .    :    .    15
+seq        MDAAFNVVIGRKYAGNEVDTTLLGQRRLKAIERTLITLNAHPSVLAGSAQ
+frame-14   bcdefgbcdefgababcabaabcdefgabcdefgabcdefgefgaabcde
+frame-21   abcdefgcdeabaabcdefgabcdefgabcdefgabcdefgefgaabcde
+frame-28   defgaabcdeabcabcdefgabcdefgabcdefgabcdefgabcdefgab
+prob-14    --------------------------------------------------
+prob-21    --------------------------------------------------
+prob-28    --------------------------------------------------
+               .    :    .    :    .    :    .    :    .    20
+seq        RTLGAITVAVALAYISFRLPAFDWQNRYPTLHAWQAKVVEGESFALTTFE
+frame-14   fgabcdefgefgdefgdefgabcdefgabcabcdefgabcdefgcdefgg
+frame-21   fgabcdefgabcdefgefgbabcdefgabcdefgabcdefggfgdefggg
+frame-28   cdefgefgdefgdefgabcdabcdefgabcdefgabcdefgabcdefggg
+prob-14    --------------------------------------------------
+prob-21    --------------------------------------------------
+prob-28    --------------------------------------------------
+// End
+
+Low complexity segments
+query  from:     1 to:  200
+
+query 
+ query.segNormGCG Length:  200   11-Jul-99 Check: 2818 ..
+
+       1  MQLYLNTSSP YARVVRVCLY EKQLIERTEL CWCDPWAADS ELLQITPLSR
+
+      51  IPTLVTDEGD VLTESLLIAH YLDAVGEGPS LVPNKxxxxx xxxxxxxxxx
+
+     101  xxxxFNVVIG RKYAGNEVDT TLLGQRRLKA IERTLITLNA HPSVLAGSAQ
+
+     151  RTLGAITVAV ALAYISFRLP AFDWQNRYPT LHAWQAKVVE GESFALTTFE
+
+Non-Ordinary Secondary Structure
+Sequence length	200
+Secondary structure	Helix=54.5%, Strand=8.5%, Loop=37.0%
+ 
+window size	70
+Structure content cutoff	12%
+Minimum consecutive exposed residues	10
+ 
+NORS	N=NORS region
+Secondary structure	H=helix, E=strand, ' '=loop
+Coiled-coil region	c=coils
+Transmembrane helix	m=transmembrane helix
+Solvent accessibility	e=exposed, ' '=buried
+NORS region predicted:	None
+Protein Localization Prediction
+Localization prediction in plant
+No results found 
+Localization prediction in animal
+No results found 
+Localization prediction in prokaryotes
+No results found 
+Prediction of Nuclear Localization Signals (NLS)
+This protein does not contain a nuclear localization signal
+
+Disulphide Bonds
+
+
+
+
+
+Results for query.blastPsiMat
+         .........10........20........30........40........50........60........70........
+AA       MQLYLNTSSPYARVVRVCLYEKQLIERTELCWCDPWAADSELLQITPLSRIPTLVTDEGDVLTESLLIAHYLDAVGEGP
+DB_state                  0            0 0                                              
+DB_conf                   9            9 8                                              
+
+         80........90........100.......110.......120.......130.......140.......150......
+AA       SLVPNKALAETLALAGLGQGLMDAAFNVVIGRKYAGNEVDTTLLGQRRLKAIERTLITLNAHPSVLAGSAQRTLGAITV
+DB_state                                                                                
+DB_conf                                                                                 
+
+         .160.......170.......180.......190.......200
+AA       AVALAYISFRLPAFDWQNRYPTLHAWQAKVVEGESFALTTFE
+DB_state                                           
+DB_conf                                            
+
+Please cite:
+A. Ceroni, A. Passerini, A. Vullo and P. Frasconi. DISULFIND: a Disulfide Bonding State and Cysteine Connectivity Prediction Server, Nucleic Acids Research, 34(Web Server issue):W177--W181, 2006.
+Contact information:
+Questions and comments are very appreciated. Please, send email to: cystein@dsi.unifi.it
+Abbreviations used:
+AA amino acid sequence
+DB_state predicted disulfide bonding state (1=disulfide bonded, 0=not disulfide bonded)
+DB_conf confidence of disulfide bonding state prediction (0=low to 9=high)
+A red colour means that the viterbi aligner overruled the most likely predition for that residue in order to achieve a consistent prediction at a protein level (even number of disulfide bonded cysteines, as interchain bonds are ignored). See papers for details.
+Copyright 2006, Alessio Ceroni, Andrea Passerini, Alessandro Vullo.
+Transmembrane Beta-Barrel
+query          Protein ID
+200            Length
+3.3            Z-score
+16.9           estimated percent chance this protein is a TMB (Accuracy)
+84.6           estimated percent of TMBs achieving at least this Z-score (Coverage)
+
+Sequence       MQLYLNTSSPYARVVRVCLYEKQLIERTELCWCDPWAADSELLQITPLSR
+Sequence       IPTLVTDEGDVLTESLLIAHYLDAVGEGPSLVPNKALAETLALAGLGQGL
+Sequence       MDAAFNVVIGRKYAGNEVDTTLLGQRRLKAIERTLITLNAHPSVLAGSAQ
+Sequence       RTLGAITVAVALAYISFRLPAFDWQNRYPTLHAWQAKVVEGESFALTTFE
+Prediction     ---Below-threshold protein.  No prediction provided---
+
+
+Protein Disorder
+Number Residue NORSnet NORS2st PROFbval bval2st Ucon Ucon2st MD_raw   MD_rel  MD2st 
+    1	M	0.12	-	0.99	D	0.13	-	0.636	4	D
+    2	Q	0.08	-	0.67	D	0.15	-	0.576	2	D
+    3	L	0.05	-	0.49	D	0.18	-	0.535	0	D
+    4	Y	0.06	-	0.41	-	0.21	-	0.485	1	-
+    5	L	0.04	-	0.34	-	0.17	-	0.424	3	-
+    6	N	0.06	-	0.41	-	0.17	-	0.394	4	-
+    7	T	0.17	-	0.39	-	0.16	-	0.404	3	-
+    8	S	0.06	-	0.48	D	0.17	-	0.394	4	-
+    9	S	0.04	-	0.41	-	0.18	-	0.384	4	-
+   10	P	0.05	-	0.48	D	0.24	-	0.394	4	-
+   11	Y	0.05	-	0.43	-	0.18	-	0.380	4	-
+   12	A	0.05	-	0.43	-	0.15	-	0.343	5	-
+   13	R	0.08	-	0.38	-	0.13	-	0.343	5	-
+   14	V	0.10	-	0.27	-	0.13	-	0.343	5	-
+   15	V	0.15	-	0.21	-	0.13	-	0.313	6	-
+   16	R	0.13	-	0.23	-	0.14	-	0.283	7	-
+   17	V	0.07	-	0.20	-	0.16	-	0.273	8	-
+   18	C	0.06	-	0.21	-	0.13	-	0.283	7	-
+   19	L	0.05	-	0.28	-	0.13	-	0.303	7	-
+   20	Y	0.05	-	0.34	-	0.16	-	0.330	6	-
+   21	E	0.04	-	0.37	-	0.17	-	0.333	6	-
+   22	K	0.05	-	0.51	D	0.20	-	0.343	5	-
+   23	Q	0.05	-	0.68	D	0.34	-	0.343	5	-
+   24	L	0.06	-	0.57	D	0.34	-	0.313	6	-
+   25	I	0.06	-	0.67	D	0.34	-	0.293	7	-
+   26	E	0.07	-	0.56	D	0.20	-	0.303	7	-
+   27	R	0.08	-	0.47	D	0.14	-	0.273	8	-
+   28	T	0.09	-	0.47	D	0.15	-	0.273	8	-
+   29	E	0.11	-	0.47	D	0.19	-	0.293	7	-
+   30	L	0.15	-	0.46	-	0.19	-	0.283	7	-
+   31	C	0.17	-	0.47	D	0.16	-	0.303	7	-
+   32	W	0.15	-	0.53	D	0.15	-	0.313	6	-
+   33	C	0.14	-	0.56	D	0.17	-	0.330	6	-
+   34	D	0.12	-	0.61	D	0.15	-	0.364	5	-
+   35	P	0.13	-	0.61	D	0.23	-	0.404	3	-
+   36	W	0.11	-	0.69	D	0.23	-	0.394	4	-
+   37	A	0.12	-	0.70	D	0.22	-	0.384	4	-
+   38	A	0.13	-	0.65	D	0.33	-	0.364	5	-
+   39	D	0.21	-	0.67	D	0.20	-	0.354	5	-
+   40	S	0.26	-	0.68	D	0.19	-	0.364	5	-
+   41	E	0.25	-	0.64	D	0.26	-	0.350	5	-
+   42	L	0.36	-	0.49	D	0.20	-	0.333	6	-
+   43	L	0.34	-	0.46	-	0.22	-	0.333	6	-
+   44	Q	0.26	-	0.51	D	0.19	-	0.354	5	-
+   45	I	0.21	-	0.47	D	0.15	-	0.343	5	-
+   46	T	0.14	-	0.41	-	0.14	-	0.343	5	-
+   47	P	0.15	-	0.53	D	0.17	-	0.354	5	-
+   48	L	0.12	-	0.44	-	0.17	-	0.354	5	-
+   49	S	0.15	-	0.55	D	0.14	-	0.384	4	-
+   50	R	0.22	-	0.48	D	0.16	-	0.364	5	-
+   51	I	0.21	-	0.47	D	0.19	-	0.343	5	-
+   52	P	0.16	-	0.39	-	0.21	-	0.323	6	-
+   53	T	0.15	-	0.32	-	0.28	-	0.303	7	-
+   54	L	0.09	-	0.37	-	0.33	-	0.303	7	-
+   55	V	0.12	-	0.45	-	0.25	-	0.283	7	-
+   56	T	0.18	-	0.60	D	0.24	-	0.323	6	-
+   57	D	0.16	-	0.57	D	0.23	-	0.333	6	-
+   58	E	0.12	-	0.61	D	0.28	-	0.374	4	-
+   59	G	0.07	-	0.56	D	0.44	-	0.374	4	-
+   60	D	0.06	-	0.59	D	0.41	-	0.333	6	-
+   61	V	0.04	-	0.42	-	0.29	-	0.313	6	-
+   62	L	0.04	-	0.35	-	0.18	-	0.283	7	-
+   63	T	0.06	-	0.32	-	0.15	-	0.283	7	-
+   64	E	0.07	-	0.29	-	0.15	-	0.293	7	-
+   65	S	0.06	-	0.28	-	0.13	-	0.283	7	-
+   66	L	0.10	-	0.30	-	0.13	-	0.333	6	-
+   67	L	0.09	-	0.20	-	0.15	-	0.333	6	-
+   68	I	0.08	-	0.20	-	0.15	-	0.340	5	-
+   69	A	0.11	-	0.23	-	0.13	-	0.340	5	-
+   70	H	0.13	-	0.35	-	0.13	-	0.343	5	-
+   71	Y	0.11	-	0.29	-	0.14	-	0.323	6	-
+   72	L	0.07	-	0.38	-	0.17	-	0.323	6	-
+   73	D	0.07	-	0.55	D	0.23	-	0.364	5	-
+   74	A	0.09	-	0.62	D	0.26	-	0.404	3	-
+   75	V	0.15	-	0.67	D	0.20	-	0.343	5	-
+   76	G	0.21	-	0.66	D	0.21	-	0.343	5	-
+   77	E	0.22	-	0.67	D	0.32	-	0.414	3	-
+   78	G	0.24	-	0.64	D	0.28	-	0.414	3	-
+   79	P	0.22	-	0.65	D	0.39	-	0.424	3	-
+   80	S	0.19	-	0.59	D	0.48	-	0.414	3	-
+   81	L	0.19	-	0.53	D	0.36	-	0.333	6	-
+   82	V	0.20	-	0.50	D	0.27	-	0.333	6	-
+   83	P	0.17	-	0.60	D	0.36	-	0.374	4	-
+   84	N	0.14	-	0.67	D	0.33	-	0.410	3	-
+   85	K	0.10	-	0.62	D	0.22	-	0.394	4	-
+   86	A	0.10	-	0.56	D	0.28	-	0.394	4	-
+   87	L	0.08	-	0.56	D	0.26	-	0.394	4	-
+   88	A	0.10	-	0.47	D	0.23	-	0.384	4	-
+   89	E	0.08	-	0.44	-	0.20	-	0.343	5	-
+   90	T	0.08	-	0.35	-	0.14	-	0.320	6	-
+   91	L	0.08	-	0.33	-	0.14	-	0.323	6	-
+   92	A	0.07	-	0.30	-	0.18	-	0.330	6	-
+   93	L	0.05	-	0.32	-	0.18	-	0.343	5	-
+   94	A	0.05	-	0.38	-	0.13	-	0.343	5	-
+   95	G	0.06	-	0.34	-	0.13	-	0.340	5	-
+   96	L	0.05	-	0.33	-	0.15	-	0.303	7	-
+   97	G	0.04	-	0.33	-	0.15	-	0.333	6	-
+   98	Q	0.04	-	0.40	-	0.17	-	0.333	6	-
+   99	G	0.04	-	0.41	-	0.14	-	0.323	6	-
+  100	L	0.04	-	0.45	-	0.15	-	0.313	6	-
+  101	M	0.04	-	0.43	-	0.16	-	0.303	7	-
+  102	D	0.04	-	0.45	-	0.14	-	0.313	6	-
+  103	A	0.04	-	0.40	-	0.13	-	0.330	6	-
+  104	A	0.05	-	0.30	-	0.13	-	0.323	6	-
+  105	F	0.06	-	0.28	-	0.14	-	0.323	6	-
+  106	N	0.08	-	0.30	-	0.20	-	0.360	5	-
+  107	V	0.11	-	0.33	-	0.15	-	0.364	5	-
+  108	V	0.11	-	0.35	-	0.15	-	0.384	4	-
+  109	I	0.09	-	0.34	-	0.15	-	0.374	4	-
+  110	G	0.09	-	0.38	-	0.19	-	0.414	3	-
+  111	R	0.10	-	0.51	D	0.22	-	0.430	3	-
+  112	K	0.11	-	0.56	D	0.22	-	0.444	2	-
+  113	Y	0.12	-	0.60	D	0.34	-	0.414	3	-
+  114	A	0.11	-	0.68	D	0.48	-	0.444	2	-
+  115	G	0.11	-	0.74	D	0.51	-	0.434	2	-
+  116	N	0.14	-	0.74	D	0.33	-	0.404	3	-
+  117	E	0.12	-	0.77	D	0.18	-	0.394	4	-
+  118	V	0.10	-	0.74	D	0.21	-	0.364	5	-
+  119	D	0.13	-	0.73	D	0.25	-	0.354	5	-
+  120	T	0.17	-	0.69	D	0.29	-	0.343	5	-
+  121	T	0.15	-	0.68	D	0.29	-	0.333	6	-
+  122	L	0.11	-	0.60	D	0.17	-	0.333	6	-
+  123	L	0.10	-	0.47	D	0.29	-	0.333	6	-
+  124	G	0.06	-	0.47	D	0.23	-	0.354	5	-
+  125	Q	0.06	-	0.55	D	0.18	-	0.394	4	-
+  126	R	0.06	-	0.54	D	0.21	-	0.404	3	-
+  127	R	0.04	-	0.47	D	0.32	-	0.384	4	-
+  128	L	0.03	-	0.53	D	0.47	-	0.374	4	-
+  129	K	0.04	-	0.56	D	0.35	-	0.374	4	-
+  130	A	0.04	-	0.48	D	0.23	-	0.354	5	-
+  131	I	0.04	-	0.40	-	0.22	-	0.333	6	-
+  132	E	0.04	-	0.49	D	0.16	-	0.333	6	-
+  133	R	0.05	-	0.46	-	0.22	-	0.333	6	-
+  134	T	0.05	-	0.30	-	0.16	-	0.313	6	-
+  135	L	0.05	-	0.36	-	0.16	-	0.313	6	-
+  136	I	0.05	-	0.45	-	0.22	-	0.313	6	-
+  137	T	0.05	-	0.41	-	0.20	-	0.313	6	-
+  138	L	0.06	-	0.40	-	0.15	-	0.303	7	-
+  139	N	0.06	-	0.52	D	0.13	-	0.320	6	-
+  140	A	0.09	-	0.64	D	0.15	-	0.333	6	-
+  141	H	0.12	-	0.58	D	0.17	-	0.333	6	-
+  142	P	0.13	-	0.56	D	0.18	-	0.343	5	-
+  143	S	0.14	-	0.52	D	0.23	-	0.354	5	-
+  144	V	0.14	-	0.55	D	0.24	-	0.360	5	-
+  145	L	0.17	-	0.45	-	0.27	-	0.333	6	-
+  146	A	0.11	-	0.46	-	0.28	-	0.303	7	-
+  147	G	0.09	-	0.47	D	0.19	-	0.313	6	-
+  148	S	0.08	-	0.55	D	0.17	-	0.333	6	-
+  149	A	0.06	-	0.55	D	0.20	-	0.333	6	-
+  150	Q	0.06	-	0.53	D	0.21	-	0.323	6	-
+  151	R	0.06	-	0.47	D	0.22	-	0.330	6	-
+  152	T	0.07	-	0.39	-	0.19	-	0.313	6	-
+  153	L	0.09	-	0.27	-	0.17	-	0.303	7	-
+  154	G	0.08	-	0.26	-	0.15	-	0.303	7	-
+  155	A	0.08	-	0.21	-	0.14	-	0.290	7	-
+  156	I	0.07	-	0.19	-	0.13	-	0.290	7	-
+  157	T	0.05	-	0.18	-	0.13	-	0.300	7	-
+  158	V	0.06	-	0.21	-	0.13	-	0.303	7	-
+  159	A	0.04	-	0.20	-	0.13	-	0.303	7	-
+  160	V	0.04	-	0.23	-	0.13	-	0.300	7	-
+  161	A	0.04	-	0.17	-	0.13	-	0.303	7	-
+  162	L	0.05	-	0.26	-	0.13	-	0.323	6	-
+  163	A	0.06	-	0.28	-	0.13	-	0.323	6	-
+  164	Y	0.08	-	0.26	-	0.13	-	0.313	6	-
+  165	I	0.06	-	0.28	-	0.13	-	0.323	6	-
+  166	S	0.08	-	0.39	-	0.13	-	0.303	7	-
+  167	F	0.07	-	0.42	-	0.14	-	0.300	7	-
+  168	R	0.07	-	0.46	-	0.13	-	0.293	7	-
+  169	L	0.11	-	0.48	D	0.15	-	0.293	7	-
+  170	P	0.13	-	0.52	D	0.20	-	0.310	6	-
+  171	A	0.13	-	0.57	D	0.20	-	0.310	6	-
+  172	F	0.10	-	0.56	D	0.21	-	0.313	6	-
+  173	D	0.10	-	0.62	D	0.21	-	0.313	6	-
+  174	W	0.10	-	0.55	D	0.28	-	0.333	6	-
+  175	Q	0.09	-	0.60	D	0.19	-	0.310	6	-
+  176	N	0.09	-	0.66	D	0.19	-	0.323	6	-
+  177	R	0.09	-	0.61	D	0.25	-	0.313	6	-
+  178	Y	0.07	-	0.48	D	0.17	-	0.313	6	-
+  179	P	0.08	-	0.53	D	0.23	-	0.333	6	-
+  180	T	0.08	-	0.47	D	0.20	-	0.343	5	-
+  181	L	0.09	-	0.34	-	0.25	-	0.343	5	-
+  182	H	0.07	-	0.38	-	0.18	-	0.354	5	-
+  183	A	0.09	-	0.42	-	0.19	-	0.384	4	-
+  184	W	0.12	-	0.28	-	0.21	-	0.414	3	-
+  185	Q	0.07	-	0.34	-	0.20	-	0.444	2	-
+  186	A	0.04	-	0.47	D	0.34	-	0.525	0	D
+  187	K	0.04	-	0.45	-	0.39	-	0.495	0	-
+  188	V	0.06	-	0.47	D	0.28	-	0.485	1	-
+  189	V	0.06	-	0.59	D	0.35	-	0.455	2	-
+  190	E	0.10	-	0.62	D	0.22	-	0.465	1	-
+  191	G	0.16	-	0.53	D	0.23	-	0.495	0	-
+  192	E	0.20	-	0.56	D	0.18	-	0.525	0	D
+  193	S	0.24	-	0.42	-	0.17	-	0.576	2	D
+  194	F	0.16	-	0.41	-	0.25	-	0.606	3	D
+  195	A	0.14	-	0.57	D	0.21	-	0.616	4	D
+  196	L	0.19	-	0.72	D	0.20	-	0.626	4	D
+  197	T	0.20	-	0.79	D	0.16	-	0.610	3	D
+  198	T	0.16	-	0.85	D	0.14	-	0.571	2	D
+  199	F	0.15	-	0.91	D	0.18	-	0.576	2	D
+  200	E	0.22	-	0.91	D	0.18	-	0.541	0	D
+
+
+Key for output
+----------------
+Number - residue number
+Residue - amino-acid type
+NORSnet - raw score by NORSnet (prediction of unstructured loops)
+NORS2st - two-state prediction by NORSnet; D=disordered
+PROFbval - raw score by PROFbval (prediction of residue flexibility from sequence)
+Bval2st - two-state prediction by PROFbval
+Ucon - raw score by Ucon (prediction of protein disorder using predicted internal contacts)
+Ucon2st - two-state prediction by Ucon
+MD - raw score by MD (prediction of protein disorder using orthogonal sources)
+MD_rel - reliability of the prediction by MD; values range from 0-9. 9=strong prediction
+MD2st - two-state prediction by MD
+Protein-Protein binding
+>query: strech=5 crowd_predictions=7 gap=20 itr=0
+MQLYLNTSSPYARVVRVCLYEKQLIERTELCWCDPWAADS
+---PPPPP-----------------P--------PP----
+
+ELLQITPLSRIPTLVTDEGDVLTESLLIAHYLDAVGEGPS
+-------------------------------------P--
+
+LVPNKALAETLALAGLGQGLMDAAFNVVIGRKYAGNEVDT
+--------P--------------------PPP---P----
+
+TLLGQRRLKAIERTLITLNAHPSVLAGSAQRTLGAITVAV
+--P--PPP--------------------------------
+
+ALAYISFRLPAFDWQNRYPTLHAWQAKVVEGESFALTTFE
+---------PP--P------------P-------------
+
+1 M 18
+2 Q 9
+3 L -86
+4 Y 29
+5 L 35
+6 N 44
+7 T 41
+8 S 29
+9 S 8
+10 P -7
+11 Y 9
+12 A -6
+13 R 20
+14 V 0
+15 V -72
+16 R -40
+17 V -79
+18 C -55
+19 L -57
+20 Y -7
+21 E 0
+22 K 13
+23 Q -5
+24 L -39
+25 I -21
+26 E 26
+27 R 11
+28 T -32
+29 E 8
+30 L 3
+31 C -3
+32 W 6
+33 C 7
+34 D 16
+35 P 38
+36 W 34
+37 A 13
+38 A -3
+39 D -12
+40 S -4
+41 E 7
+42 L -43
+43 L -1
+44 Q 4
+45 I 10
+46 T -16
+47 P -30
+48 L -5
+49 S -6
+50 R 14
+51 I -55
+52 P -66
+53 T -61
+54 L -69
+55 V -53
+56 T 0
+57 D 8
+58 E 5
+59 G 6
+60 D 15
+61 V -7
+62 L -75
+63 T -50
+64 E -35
+65 S -53
+66 L -8
+67 L -65
+68 I -61
+69 A -57
+70 H -24
+71 Y -86
+72 L -70
+73 D -7
+74 A 0
+75 V -10
+76 G -7
+77 E 10
+78 G 24
+79 P 11
+80 S 14
+81 L -32
+82 V -21
+83 P -5
+84 N 14
+85 K 13
+86 A 0
+87 L 16
+88 A 10
+89 E 24
+90 T -35
+91 L 5
+92 A -47
+93 L -37
+94 A -6
+95 G -5
+96 L -51
+97 G -36
+98 Q 13
+99 G -15
+100 L -53
+101 M -50
+102 D -2
+103 A -9
+104 A -41
+105 F -40
+106 N 8
+107 V -4
+108 V -30
+109 I -53
+110 G 21
+111 R 35
+112 K 31
+113 Y -30
+114 A -20
+115 G -1
+116 N 23
+117 E 15
+118 V 14
+119 D -1
+120 T -1
+121 T -4
+122 L 13
+123 L 26
+124 G -21
+125 Q 9
+126 R 26
+127 R 28
+128 L 27
+129 K 8
+130 A 18
+131 I -54
+132 E 11
+133 R 11
+134 T -36
+135 L -52
+136 I -9
+137 T 13
+138 L -58
+139 N -21
+140 A -8
+141 H -3
+142 P -43
+143 S -19
+144 V 8
+145 L -18
+146 A -20
+147 G 15
+148 S 8
+149 A 15
+150 Q -5
+151 R -65
+152 T -41
+153 L -73
+154 G -71
+155 A -41
+156 I -80
+157 T -56
+158 V -65
+159 A -66
+160 V -74
+161 A -56
+162 L -58
+163 A -43
+164 Y -59
+165 I -47
+166 S 2
+167 F -24
+168 R 7
+169 L 0
+170 P 23
+171 A 27
+172 F 9
+173 D 17
+174 W 25
+175 Q 11
+176 N 19
+177 R 20
+178 Y 17
+179 P -11
+180 T 6
+181 L -41
+182 H 4
+183 A 8
+184 W -67
+185 Q -18
+186 A 1
+187 K 26
+188 V -57
+189 V 4
+190 E 10
+191 G 1
+192 E -3
+193 S -9
+194 F -11
+195 A 1
+196 L 17
+197 T 5
+198 T 20
+199 F 1
+200 E 10
+ConSurf
+ConSurf Results
+1          11         21         31         41         
+MQLYLNTSSP YARVVRVCLY EKQLIERTEL CWCDPWAADS ELLQITPLSR
+51         61         71         81         91         
+IPTLVTDEGD VLTESLLIAH YLDAVGEGPS LVPNKALAET LALAGLGQGL
+101        111        121        131        141        
+MDAAFNVVIG RKYAGNEVDT TLLGQRRLKA IERTLITLNA HPSVLAGSAQ
+151        161        171        181        191        
+RTLGAITVAV ALAYISFRLP AFDWQNRYPT LHAWQAKVVE GESFALTTFE
+
+
+Legend:
+
+The conservation scale:
+ 1  2  3  4  5  6  7  8  9 
+Variable	Average	Conserved
+X - Insufficient data - the calculation for this site was performed on less than 10% of the sequences.
+Globularity
+No results found 
+Prosite
+-------------------------------------------------------------
+Pattern-ID: ASN_GLYCOSYLATION PS00001 PDOC00001
+Pattern-DE: N-glycosylation site
+Pattern:    N[^P][ST][^P]
+   6        NTSS
+
+Pattern-ID: PKC_PHOSPHO_SITE PS00005 PDOC00005
+Pattern-DE: Protein kinase C phosphorylation site
+Pattern:    [ST].[RK]
+   166      SFR
+
+Pattern-ID: CK2_PHOSPHO_SITE PS00006 PDOC00006
+Pattern-DE: Casein kinase II phosphorylation site
+Pattern:    [ST].{2}[DE]
+   197      TTFE
+
+Pattern-ID: MYRISTYL PS00008 PDOC00008
+Pattern-DE: N-myristoylation site
+Pattern:    G[^EDRKHPFYW].{2}[STAGCN][^P]
+   95       GLGQGL
+
+Pattern-ID: AMIDATION PS00009 PDOC00009
+Pattern-DE: Amidation site
+Pattern:    .G[RK][RK]
+   109      IGRK
+
+
+
+Alignment
+--- ------------------------------------------------------------
+--- PSI-BLAST multiple sequence alignment
+--- ------------------------------------------------------------
+--- 
+--- PSI-BLAST ALIGNMENT HEADER: ABBREVIATIONS FOR SUMMARY
+--- SEQLENGTH    : 200
+--- ID           : identifier of aligned (homologous) protein
+--- LSEQ2        : length of aligned sequence
+--- IDE          : percentage of pairwise sequence identity
+--- SIM          : percentage of similarity
+--- LALI         : number of residues aligned
+--- LGAP         : number of residues in all indels
+--- BSCORE       : blast score (bits)
+--- BEXPECT      : blast expectation value
+--- OMIM         : OMIM (Online Mendelian Inheritance in Man) ID
+--- PROTEIN      : one-line description of aligned protein
+--- '!'          : indicates lower scoring alignment that is combined
+---                with the higher scoring adjacent one
+--- 
+--- PSI-BLAST ALIGNMENT HEADER: SUMMARY
+
+ID                          LSEQ2  IDE  SIM LALI LGAP BSCORE BEXPECT PROTEIN                  
+pdb|pdb|3tot_A                217   29   46  198    6    223   8e-56                          
+pdb|pdb|3tot_B                207   29   46  197    6    221   4e-55                          
+pdb|pdb|3tou_A                214   29   46  198    6    223   8e-56                          
+pdb|pdb|3tou_B                204   29   46  197    6    221   4e-55                          
+pdb|pdb|4glt_A                209   25   43  196    7    212   2e-52                          
+pdb|pdb|4glt_B                204   25   43  196    7    212   3e-52                          
+pdb|pdb|4glt_C                203   25   43  196    7    211   3e-52                          
+pdb|pdb|4glt_D                209   25   43  196    7    212   2e-52                          
+pdb|pdb|4mk3_A                207   29   48  197    6    205   3e-50                          
+tr|A0A010RHF7|A0A010RHF7_PSEFL  209   32   46  199    5    204   5e-50 Glutathione S-transferase
+tr|A0A011MFY2|A0A011MFY2_9PROT  202   27   44  197    7    221   3e-55 Putative GST-like protein
+tr|A0A011RDM2|A0A011RDM2_9PROT  202   26   43  197    7    220   8e-55 Putative GST-like protein
+tr|A0A011RP94|A0A011RP94_9PROT  202   25   43  197    7    226   1e-56 Putative GST-like protein
+tr|A0A016XEC3|A0A016XEC3_9BURK  204   26   42  197    8    210   8e-52 Glutathione S-transferase
+tr|A0A017HHM9|A0A017HHM9_9RHOB  202   28   44  197    4    204   5e-50 Glutathione S-transferase
+tr|A0A022GL46|A0A022GL46_9BURK  204   27   46  197    6    210   9e-52 Glutathione S-transferase
+tr|A0A031GXS4|A0A031GXS4_9BURK  204   29   45  198    8    230   7e-58 Putative glutathione S-tr
+tr|A0A031HDE4|A0A031HDE4_9BURK  206   27   41  197    8    208   3e-51 Glutathione S-transferase
+tr|A0A031J706|A0A031J706_9PSED  209   30   44  198    5    202   2e-49 Putative glutathione S-tr
+tr|A0A037ZLY4|A0A037ZLY4_9RHOB  199   26   41  196    6    205   2e-50 Glutathione S-transferase
+tr|A0A038H9J4|A0A038H9J4_9BURK  202   26   47  197    6    232   2e-58 Glutathione S-transferase
+tr|A0A059ILI0|A0A059ILI0_9RHOB  202   27   39  197    5    202   2e-49 Glutathione S-transferase
+tr|A0A059UUQ9|A0A059UUQ9_PSEPU  204   31   45  197    7    205   2e-50 Glutathione S-transferase
+tr|A0A060NIG6|A0A060NIG6_9BURK  205   26   42  197    8    221   5e-55 Glutathione S-transferase
+tr|A0A060NS63|A0A060NS63_9BURK  203   25   46  197    6    234   5e-59 Glutathione S-transferase
+tr|A0A060NZC0|A0A060NZC0_9BURK  205   28   44  197    8    210   7e-52 Glutathione S-transferase
+tr|A0A063BPP4|A0A063BPP4_9BURK  202   26   47  198    6    225   2e-56 Uncharacterized protein  
+tr|A0A063UT69|A0A063UT69_BORBO  235   26   43  196    7    218   3e-54 Glutathione S-transferase
+tr|A0A067A3I8|A0A067A3I8_9PSED  205   31   42  198    5    214   6e-53 Glutathione S-transferase
+tr|A0A068YT41|A0A068YT41_9BURK  204   25   43  196    8    209   1e-51 Glutathione S-transferase
+tr|A0A069B8D1|A0A069B8D1_BURPE  202   25   46  198    6    223   1e-55 Uncharacterized protein  
+tr|A0A069P8H5|A0A069P8H5_9BURK  202   24   45  197    6    221   3e-55 Glutathione S-transferase
+tr|A0A069PW42|A0A069PW42_9BURK  202   25   44  196    6    227   8e-57 Glutathione S-transferase
+tr|A0A071MG26|A0A071MG26_9BURK  204   26   46  198    6    228   3e-57 Glutathione S-transferase
+tr|A0A072T7L0|A0A072T7L0_9BURK  206   28   42  197    8    210   1e-51 Glutathione S-transferase
+tr|A0A072ZXT8|A0A072ZXT8_RALSL  202   30   46  197    6    222   3e-55 Glutathione S-transferase
+tr|A0A075PJK5|A0A075PJK5_PSEFL  209   28   42  198    5    204   4e-50 Glutathione S-transferase
+tr|A0A076Q0K4|A0A076Q0K4_COMTE  205   28   43  198    9    203   1e-49 Glutathione S-transferase
+tr|A0A077F5L7|A0A077F5L7_9PSED  209   30   43  198    5    208   3e-51 Glutathione S-transferase
+tr|A0A078BHL0|A0A078BHL0_9BURK  206   26   46  197    8    220   9e-55 Glutathione S-transferase
+tr|A0A080MB88|A0A080MB88_9PROT  202   29   47  197    7    224   4e-56 Putative GST-like protein
+tr|A0A080NLV3|A0A080NLV3_DELAC  206   27   41  197    8    208   3e-51 Uncharacterized protein O
+tr|A0A081J7G3|A0A081J7G3_9BURK  206   28   42  197    8    210   1e-51 Glutathione S-transferase
+tr|A0A081UZX4|A0A081UZX4_BURCE  203   26   47  198    6    231   3e-58 Glutathione S-transferase
+tr|A0A084C5I6|A0A084C5I6_9PSED  207   30   44  197    7    210   8e-52 Glutathione S-transferase
+tr|A0A084DLD4|A0A084DLD4_9BURK  203   25   47  198    6    226   9e-57 Glutathione S-transferase
+tr|A0A084Y1A8|A0A084Y1A8_9PROT  202   28   46  197    7    222   1e-55 Putative GST-like protein
+tr|A0A085F9J5|A0A085F9J5_9BURK  204   28   45  197    6    225   2e-56 Putative glutathione S-tr
+tr|A0A086W8P2|A0A086W8P2_9BURK  204   28   46  197    6    222   2e-55 Glutathione S-transferase
+tr|A0A087NPS8|A0A087NPS8_BURPY  203   25   48  198    6    226   1e-56 Glutathione S-transferase
+tr|A0A088NTG5|A0A088NTG5_9PSED  204   29   44  197    7    209   2e-51 Glutathione S-transferase
+tr|A0A088TJX7|A0A088TJX7_BURCE  203   26   48  198    6    224   4e-56 Uncharacterized protein  
+tr|A0A088U299|A0A088U299_9BURK  203   25   46  198    6    227   4e-57 Uncharacterized protein  
+tr|A0A088WU57|A0A088WU57_9BURK  202   25   46  198    6    228   3e-57 Uncharacterized protein  
+tr|A0A089NUZ4|A0A089NUZ4_9RHIZ  201   28   42  196    8    208   3e-51 Glutathione S-transferase
+tr|A0A089Y9F2|A0A089Y9F2_9PSED  207   29   43  197    7    202   2e-49 Glutathione S-transferase
+tr|A0A095CVE5|A0A095CVE5_9RHOB  202   29   46  198    3    207   7e-51 Glutathione S-transferase
+tr|A0A095DU41|A0A095DU41_BURCE  203   26   47  198    6    232   2e-58 Uncharacterized protein  
+tr|A0A095E1E7|A0A095E1E7_BURCE  203   26   47  198    6    229   1e-57 Uncharacterized protein  
+tr|A0A095FG03|A0A095FG03_BURGA  203   26   47  198    6    227   4e-57 Uncharacterized protein  
+tr|A0A095UPK8|A0A095UPK8_9BURK  199   27   45  197    4    209   1e-51 Glutathione S-transferase
+tr|A0A095UZB9|A0A095UZB9_9BURK  201   27   45  196    7    220   8e-55 Glutathione S-transferase
+tr|A0A095XLI7|A0A095XLI7_BURGA  204   26   47  198    6    227   4e-57 Glutathione S-transferase
+tr|A0A096EDA1|A0A096EDA1_COMTE  205   28   44  198    9    203   1e-49 Glutathione S-transferase
+tr|A0A096YQD6|A0A096YQD6_BURTA  202   25   46  198    6    224   6e-56 Uncharacterized protein  
+tr|A0A098U910|A0A098U910_9BURK  202   27   46  198    6    232   2e-58 Glutathione S-transferase
+tr|A0A099E007|A0A099E007_9PSED  207   30   44  197    7    210   8e-52 Glutathione S-transferase
+tr|A0A099N8W9|A0A099N8W9_9PSED  207   31   45  197    7    207   8e-51 Glutathione S-transferase
+tr|A0A0A0D1W5|A0A0A0D1W5_9PROT  200   32   47  194    5    209   2e-51 Uncharacterized protein  
+tr|A0A0A0DRK8|A0A0A0DRK8_9BURK  206   28   47  197    8    221   4e-55 Glutathione S-transferase
+tr|A0A0A0EIK0|A0A0A0EIK0_9RHOB  200   29   46  198    4    209   1e-51 Glutathione S-transferase
+tr|A0A0A0XMU9|A0A0A0XMU9_BORPT  203   26   44  196    7    221   3e-55 Uncharacterized protein  
+tr|A0A0A1F5L5|A0A0A1F5L5_9BURK  202   26   46  198    6    229   1e-57 Glutathione S-transferase
+tr|A0A0A1H866|A0A0A1H866_9BURK  209   27   43  196    6    219   2e-54 Putative glutathione S-tr
+tr|A0A0A1P826|A0A0A1P826_9BACT  201   30   44  198    4    208   2e-51 Putative GST-like protein
+tr|A0A0A1TK45|A0A0A1TK45_9BURK  203   25   44  196    6    226   9e-57 Glutathione S-transferase
+tr|A0A0A1VGM3|A0A0A1VGM3_9BURK  205   26   44  197    8    216   1e-53 Glutathione S-transferase
+tr|A0A0A1Z9B0|A0A0A1Z9B0_PSEFL  209   31   45  198    5    202   2e-49 Glutathione S-transferase
+tr|A0A0A2NCY6|A0A0A2NCY6_ALCFA  203   30   46  196    7    221   6e-55 Glutathione S-transferase
+tr|A0A0A6DD19|A0A0A6DD19_9PSED  209   29   44  199    5    203   1e-49 Glutathione S-transferase
+tr|A0A0A6QE87|A0A0A6QE87_9BURK  203   26   45  198    6    229   1e-57 Glutathione S-transferase
+tr|A0A0A7PTJ9|A0A0A7PTJ9_PSEPU  207   31   44  197    7    209   2e-51 Glutathione S-transferase
+tr|A0A0A8BHB6|A0A0A8BHB6_9BURK  208   27   46  197    6    232   2e-58 Glutathione S-transferase
+tr|A0A0A8BVD3|A0A0A8BVD3_9BURK  203   27   45  196    6    224   5e-56 Glutathione S-transferase
+tr|A0A0B1XZM4|A0A0B1XZM4_9RALS  202   30   48  198    6    223   1e-55 Glutathione S-transferase
+tr|A0A0B1Y9J7|A0A0B1Y9J7_9BURK  204   25   48  198    6    227   4e-57 Glutathione S-transferase
+tr|A0A0B2AQL1|A0A0B2AQL1_9ACTN  202   29   47  198    6    221   5e-55 Glutathione S-transferase
+tr|A0A0B2B4I4|A0A0B2B4I4_9ACTN  204   26   48  198    6    233   7e-59 Glutathione S-transferase
+tr|A0A0B3SRI4|A0A0B3SRI4_9BURK  203   28   44  197    6    227   7e-57 Glutathione S-transferase
+tr|A0A0B6RYN0|A0A0B6RYN0_BURGL  205   28   46  196    6    219   2e-54 Glutathione S-transferase
+tr|A0A0B7DG19|A0A0B7DG19_PSEFL  209   29   43  199    5    202   2e-49 Putative GST-like protein
+tr|A0A0B7IT59|A0A0B7IT59_9PROT  204   25   39  196    8    205   3e-50 Glutathione S-transferase
+tr|A0A0C1HZQ5|A0A0C1HZQ5_9PSED  207   30   43  197    7    208   3e-51 Glutathione S-transferase
+tr|A0A0C1WYB5|A0A0C1WYB5_PSEFL  209   28   45  199    5    203   7e-50 Glutathione S-transferase
+tr|A0A0C1Y2E6|A0A0C1Y2E6_9BURK  202   28   48  198    6    237   4e-60 Glutathione S-transferase
+tr|A0A0C1Z065|A0A0C1Z065_9BURK  203   27   47  197    6    227   8e-57 Uncharacterized protein  
+tr|A0A0C2AA94|A0A0C2AA94_PSEFL  209   30   44  199    5    202   2e-49 Glutathione S-transferase
+tr|A0A0C2MZZ8|A0A0C2MZZ8_9PSED  209   31   45  199    5    202   2e-49 Glutathione S-transferase
+tr|A0A0C2UCG8|A0A0C2UCG8_MAGMG  214   30   47  197    4    204   4e-50 Glutathione S-transferase
+tr|A0A0C3RN38|A0A0C3RN38_9PROT  202   27   43  197    7    214   4e-53 Glutathione S-transferase
+tr|A0A0C5RN45|A0A0C5RN45_PSEPU  207   31   44  197    7    207   4e-51 Glutathione S-transferase
+tr|A0A0C6P4B2|A0A0C6P4B2_BORBO  203   26   43  196    7    222   2e-55 Uncharacterized protein  
+tr|A0A0D0HGU7|A0A0D0HGU7_9BURK  203   25   45  198    6    223   1e-55 KY49.ctg7180000000014_qui
+tr|A0A0D0LMW2|A0A0D0LMW2_VARPD  203   23   37  196    7    203   8e-50 Glutathione S-transferase
+tr|A0A0D0MTF0|A0A0D0MTF0_VARPD  203   24   42  197    8    214   4e-53 Glutathione S-transferase
+tr|A0A0D2VZ62|A0A0D2VZ62_9PROT  203   31   47  196    7    207   8e-51 Glutathione S-transferase
+tr|A0A0D5AN41|A0A0D5AN41_9RALS  202   29   46  198    6    228   4e-57 Glutathione S-transferase
+tr|A0A0D5J4H0|A0A0D5J4H0_9BURK  203   24   47  198    6    224   6e-56 Uncharacterized protein  
+tr|A0A0D5LBE4|A0A0D5LBE4_9BURK  202   25   46  198    6    221   6e-55 Uncharacterized protein  
+tr|A0A0D5V8R2|A0A0D5V8R2_9BURK  203   25   44  197    6    224   5e-56 Uncharacterized protein  
+tr|A0A0D6GY31|A0A0D6GY31_ALCXX  203   26   45  197    7    228   4e-57 Putative glutathione S-tr
+tr|A0A0D6IQD6|A0A0D6IQD6_ALCXX  201   28   44  198    4    207   6e-51 Putative glutathione S-tr
+tr|A0A0D6VVY8|A0A0D6VVY8_BURPE  203   25   46  198    6    222   1e-55 Glutathione S-transferase
+tr|A0A0D7KE15|A0A0D7KE15_9BURK  205   26   43  197    8    221   3e-55 Glutathione S-transferase
+tr|A0A0D8DTR2|A0A0D8DTR2_9BURK  203   25   46  198    6    222   2e-55 Glutathione S-transferase
+tr|A0A0E1EIM2|A0A0E1EIM2_9PSED  209   33   45  198    5    202   2e-49 Glutathione S-transferase
+tr|A0A0E1FSI3|A0A0E1FSI3_BURML  203   25   46  198    6    222   1e-55 Glutathione S-transferase
+tr|A0A0E1SA91|A0A0E1SA91_BURPE  203   25   46  198    6    222   1e-55 Glutathione S-transferase
+tr|A0A0E1U0D5|A0A0E1U0D5_BURPE  203   25   46  198    6    222   1e-55 Glutathione S-transferase
+tr|A0A0E1UF13|A0A0E1UF13_BURPE  311   25   46  198    6    218   3e-54 Glutathione S-transferase
+tr|A0A0E1W5L0|A0A0E1W5L0_BURPE  203   25   46  198    6    222   1e-55 Glutathione S-transferase
+tr|A0A0E3BFQ2|A0A0E3BFQ2_COMTE  205   28   44  198    9    204   6e-50 Glutathione S-transferase
+tr|A0A0E3GYS2|A0A0E3GYS2_PSEFL  209   32   42  198    5    201   3e-49 Glutathione S-transferase
+tr|A0A0E3U6K9|A0A0E3U6K9_9BURK  208   27   46  197    6    229   1e-57 Glutathione S-transferase
+tr|A0A0E3V273|A0A0E3V273_9BURK  204   30   46  197    6    214   5e-53 Glutathione S-transferase
+tr|A0A0E4AQQ1|A0A0E4AQQ1_BURCE  203   24   47  198    6    224   6e-56 Glutathione S-transferase
+tr|A0A0E8CC30|A0A0E8CC30_BORPT  203   26   44  196    7    221   3e-55 Glutathione S-transferase
+tr|A0A0E9KDT5|A0A0E9KDT5_9RHIZ  219   28   41  196    8    211   6e-52 Putative glutathione S-tr
+tr|A0A0E9MBV8|A0A0E9MBV8_9PROT  203   26   40  196    7    212   1e-52 Glutathione S-transferase
+tr|A0A0E9ZT89|A0A0E9ZT89_9PSED  207   31   44  198    7    213   7e-53 Glutathione S-transferase
+tr|A0A0F0E7H9|A0A0F0E7H9_9BURK  202   29   47  198    6    222   2e-55 Glutathione S-transferase
+tr|A0A0F0EHK7|A0A0F0EHK7_9PSED  210   31   43  198    5    212   2e-52 Glutathione S-transferase
+tr|A0A0F0F7Z1|A0A0F0F7Z1_9PSED  210   31   42  197    7    207   4e-51 Glutathione S-transferase
+tr|A0A0F2S128|A0A0F2S128_9PROT  200   32   50  196    5    212   3e-52 Uncharacterized protein  
+tr|A0A0F3G111|A0A0F3G111_PSEPS  201   35   48  197    5    205   2e-50 Glutathione S-transferase
+tr|A0A0F3K8R8|A0A0F3K8R8_9NEIS  203   29   45  196    7    221   4e-55 Glutathione S-transferase
+tr|A0A0F6GH84|A0A0F6GH84_BURPE  202   25   46  198    6    223   1e-55 Uncharacterized protein  
+tr|A0A0F6LB33|A0A0F6LB33_BURPE  202   25   46  198    6    223   1e-55 Uncharacterized protein  
+tr|A0A0F7Y5C7|A0A0F7Y5C7_9PSED  204   30   44  197    7    212   1e-52 Glutathione S-transferase
+tr|A0A0F9DP98|A0A0F9DP98_9ZZZZ  201   27   40  197    4    207   5e-51 Uncharacterized protein O
+tr|A0A0F9T1T0|A0A0F9T1T0_9ZZZZ  203   29   42  198    3    202   1e-49 Uncharacterized protein O
+tr|A0A0G3BK55|A0A0G3BK55_9BURK  207   28   45  197    8    212   2e-52 Glutathione S-transferase
+tr|A0A0G3EZ77|A0A0G3EZ77_9BURK  204   26   45  197    6    226   1e-56 Glutathione S-transferase
+tr|A0A0G3WV46|A0A0G3WV46_BURPY  203   26   48  198    6    227   4e-57 Glutathione S-transferase
+tr|A0A0G3YW56|A0A0G3YW56_9BURK  204   26   48  198    6    233   7e-59 Glutathione S-transferase
+tr|A0A0G4JGW9|A0A0G4JGW9_9BURK  203   28   45  197    6    232   1e-58 Putative GST-like protein
+tr|A0A0H1BR23|A0A0H1BR23_PSEDT  207   29   44  198    7    211   4e-52 Glutathione S-transferase
+tr|A0A0H2LWP9|A0A0H2LWP9_VARPD  203   26   45  197    8    215   3e-53 Putative GST-like protein
+tr|A0A0H2MNN2|A0A0H2MNN2_9PROT  205   32   46  199    2    208   3e-51 Uncharacterized protein  
+tr|A0A0H2WKX4|A0A0H2WKX4_BURMA  203   25   46  198    6    222   1e-55 Glutathione S-transferase
+tr|A0A0H2XMI6|A0A0H2XMI6_BURCA  205   27   47  197    6    223   8e-56 Glutathione S-transferase
+tr|A0A0H3HGM3|A0A0H3HGM3_BURP2  203   25   46  198    6    222   1e-55 Glutathione S-transferase
+tr|A0A0H3KKQ1|A0A0H3KKQ1_BURM1  204   25   46  198    6    228   3e-57 Glutathione S-transferase
+tr|A0A0H3LRF2|A0A0H3LRF2_BORBR  203   26   43  196    7    222   2e-55 Uncharacterized protein  
+tr|A0A0H3WST6|A0A0H3WST6_9BURK  219   29   46  197    6    232   2e-58 Glutathione S-transferase
+tr|A0A0H4KYW6|A0A0H4KYW6_9RHOB  201   27   43  198    4    203   1e-49 Glutathione S-transferase
+tr|A0A0H4WJ82|A0A0H4WJ82_9BORD  202   26   44  196    7    216   1e-53 Putative GST-like protein
+tr|A0A0J0UQV4|A0A0J0UQV4_9BURK  204   27   45  197    8    215   2e-53 Glutathione S-transferase
+tr|A0A0J1CQA4|A0A0J1CQA4_9BURK  203   25   46  197    6    231   5e-58 Glutathione S-transferase
+tr|A0A0J1D7R6|A0A0J1D7R6_9BURK  205   27   44  197    6    233   9e-59 Glutathione S-transferase
+tr|A0A0J5JC38|A0A0J5JC38_9NEIS  202   28   45  196    7    205   3e-50 Glutathione S-transferase
+tr|A0A0J5QHW1|A0A0J5QHW1_9RHOB  201   26   41  197    4    201   3e-49 Glutathione S-transferase
+tr|A0A0J5VTS8|A0A0J5VTS8_BURL3  203   26   48  198    6    225   2e-56 Glutathione S-transferase
+tr|A0A0J5WD98|A0A0J5WD98_BURCE  203   25   47  198    6    224   3e-56 Glutathione S-transferase
+tr|A0A0J6C4N9|A0A0J6C4N9_9BORD  202   26   43  196    7    216   2e-53 Glutathione S-transferase
+tr|A0A0J6KJP4|A0A0J6KJP4_9NEIS  203   29   48  196    7    210   7e-52 Glutathione S-transferase
+tr|A0A0J6PLG2|A0A0J6PLG2_9BURK  203   26   48  198    6    225   2e-56 Glutathione S-transferase
+tr|A0A0J6RBJ5|A0A0J6RBJ5_9NEIS  203   29   47  196    7    209   1e-51 Glutathione S-transferase
+tr|A0A0J6RK92|A0A0J6RK92_9RHIZ  201   27   41  197    7    202   2e-49 Glutathione S-transferase
+tr|A0A0J6SM47|A0A0J6SM47_9RHIZ  201   29   41  198    5    203   9e-50 Glutathione S-transferase
+tr|A0A0J6VTJ1|A0A0J6VTJ1_9RHIZ  201   28   43  198    5    204   6e-50 Glutathione S-transferase
+tr|A0A0J8AZD1|A0A0J8AZD1_BETVU  202   29   45  197    7    209   1e-51 Uncharacterized protein O
+tr|A0A0J9DUA9|A0A0J9DUA9_9RALS  202   29   46  198    6    224   4e-56 Glutathione S-transferase
+tr|A0A0K1K2K1|A0A0K1K2K1_9BURK  203   27   45  198    6    233   9e-59 Glutathione S-transferase
+tr|A0A0K2BAC4|A0A0K2BAC4_9BURK  201   28   47  197    7    215   3e-53 Glutathione S-transferase
+tr|A0A0K6GRZ3|A0A0K6GRZ3_9NEIS  202   30   43  196    7    223   9e-56 Glutathione S-transferase
+tr|A0A0K6HSE5|A0A0K6HSE5_9BURK  206   27   46  197    8    224   5e-56 Glutathione S-transferase
+tr|A0A0K6HW34|A0A0K6HW34_9BURK  205   28   44  198    9    203   1e-49 Glutathione S-transferase
+tr|A0A0K8NVP9|A0A0K8NVP9_IDESA  204   27   45  196    9    206   1e-50 Glutathione S-transferase
+tr|A0A0K9Q891|A0A0K9Q891_SPIOL  211   31   45  198    5    202   2e-49 Uncharacterized protein O
+tr|A0A0L0HUP4|A0A0L0HUP4_SPIPN  211   27   42  198   11    205   2e-50 Uncharacterized protein  
+tr|A0A0L0RCI5|A0A0L0RCI5_9BURK  203   26   45  197    7    218   3e-54 Glutathione S-transferase
+tr|A0A0L0RDI7|A0A0L0RDI7_9BURK  202   28   46  196    7    205   2e-50 Glutathione S-transferase
+tr|A0A0L1JTL9|A0A0L1JTL9_9RHOB  200   28   40  197    4    202   1e-49 Glutathione S-transferase
+tr|A0A0L6G0F9|A0A0L6G0F9_9PSED  204   32   46  198    7    214   3e-53 Glutathione S-transferase
+tr|A0A0L6IDQ9|A0A0L6IDQ9_9BURK  202   29   45  196    7    203   8e-50 Glutathione S-transferase
+tr|A0A0L6IF65|A0A0L6IF65_9BURK  203   26   45  197    7    222   1e-55 Glutathione S-transferase
+tr|A0A0L6J6B4|A0A0L6J6B4_9RHIZ  201   28   41  197    6    205   2e-50 Glutathione S-transferase
+tr|A0A0L8AX07|A0A0L8AX07_9BURK  204   26   46  197    8    213   8e-53 Glutathione S-transferase
+tr|A0A0L8EN81|A0A0L8EN81_9BURK  203   27   44  196    7    225   2e-56 Glutathione S-transferase
+tr|A0A0M2DK22|A0A0M2DK22_9BURK  205   28   44  198    9    203   1e-49 Glutathione S-transferase
+tr|A0A0M2LJN7|A0A0M2LJN7_COMTE  205   29   44  198    9    202   2e-49 Glutathione S-transferase
+tr|A0A0M2R871|A0A0M2R871_9PROT  205   31   46  199    2    216   1e-53 Uncharacterized protein  
+tr|A0A0M2UPM6|A0A0M2UPM6_PSEPU  207   30   43  197    7    208   3e-51 Glutathione S-transferase
+tr|A0A0M2WLU1|A0A0M2WLU1_9BURK  204   29   44  198    8    230   9e-58 Putative GST-like protein
+tr|A0A0M4KTK6|A0A0M4KTK6_9BURK  204   27   47  197    6    206   1e-50 Glutathione S-transferase
+tr|A0A0M4NZM1|A0A0M4NZM1_9BURK  206   25   45  197    6    218   2e-54 Glutathione S-transferase
+tr|A0A0M6XPY5|A0A0M6XPY5_9RHOB  199   26   41  197    3    204   6e-50 Putative GST-like protein
+tr|A0A0M6Z2N6|A0A0M6Z2N6_9RHOB  200   31   52  196    4    224   4e-56 Putative GST-like protein
+tr|A0A0M7CCC8|A0A0M7CCC8_9BURK  201   28   45  198    4    206   1e-50 Putative glutathione S-tr
+tr|A0A0M7CQH5|A0A0M7CQH5_9BURK  202   26   43  196    7    216   2e-53 Stringent starvation prot
+tr|A0A0M7DHH0|A0A0M7DHH0_9BURK  201   27   45  196    7    221   5e-55 Putative glutathione S-tr
+tr|A0A0M7DXY3|A0A0M7DXY3_9BURK  203   30   46  196    7    222   1e-55 Stringent starvation prot
+tr|A0A0M7EYQ7|A0A0M7EYQ7_9BURK  203   26   46  197    7    229   2e-57 Putative glutathione S-tr
+tr|A0A0M7GRM2|A0A0M7GRM2_9BURK  203   26   45  197    7    228   2e-57 Putative glutathione S-tr
+tr|A0A0M7H3K6|A0A0M7H3K6_9BURK  203   26   45  197    7    221   5e-55 Putative glutathione S-tr
+tr|A0A0M7IHR2|A0A0M7IHR2_9BURK  199   25   43  197    4    211   3e-52 Putative glutathione S-tr
+tr|A0A0M7K7Y4|A0A0M7K7Y4_9BURK  201   28   44  198    4    207   6e-51 Putative glutathione S-tr
+tr|A0A0M7MS38|A0A0M7MS38_9BURK  203   26   45  197    7    227   4e-57 Putative glutathione S-tr
+tr|A0A0M8ZB64|A0A0M8ZB64_9ACTN  201   28   41  196    8    209   2e-51 Glutathione S-transferase
+tr|A0A0M9IWF7|A0A0M9IWF7_9BURK  202   30   45  196    7    201   3e-49 Putative glutathione S-tr
+tr|A0A0M9J1P6|A0A0M9J1P6_9BURK  201   28   44  198    4    202   2e-49 Putative glutathione S-tr
+tr|A0A0M9J612|A0A0M9J612_9BURK  201   27   43  198    4    207   4e-51 Putative glutathione S-tr
+tr|A0A0N0B2B1|A0A0N0B2B1_9ACTN  201   28   42  196    8    208   3e-51 Glutathione S-transferase
+tr|A0A0N0JU99|A0A0N0JU99_9PROT  206   29   46  197    8    217   8e-54 Glutathione S-transferase
+tr|A0A0N0ZH64|A0A0N0ZH64_9BURK  206   25   44  197    6    222   1e-55 Glutathione S-transferase
+tr|A0A0N1AGZ7|A0A0N1AGZ7_9PROT  205   28   45  196    9    219   2e-54 Glutathione S-transferase
+tr|A0A0N1KYI0|A0A0N1KYI0_9PROT  205   26   45  196    9    216   2e-53 Glutathione S-transferase
+tr|A0A0N2IKR3|A0A0N2IKR3_BORPT  235   26   44  196    7    217   6e-54 Uncharacterized protein  
+tr|A0A0N9NT68|A0A0N9NT68_9RHOB  202   30   47  198    3    207   4e-51 Glutathione S-transferase
+tr|A0A0N9WG64|A0A0N9WG64_PSEFL  209   32   47  199    5    209   2e-51 Glutathione S-transferase
+tr|A0A0P0KZB9|A0A0P0KZB9_9BURK  204   28   46  196    6    219   2e-54 Glutathione S-transferase
+tr|A0A0P0MBQ8|A0A0P0MBQ8_9BURK  204   30   47  197    8    221   5e-55 Putative GST-like protein
+tr|A0A0P0MCJ8|A0A0P0MCJ8_9BURK  229   28   47  197    8    213   9e-53 Putative GST-like protein
+tr|A0A0P0R8C5|A0A0P0R8C5_9BURK  202   26   45  196    6    219   1e-54 Glutathione S-transferase
+tr|A0A0P1G5S8|A0A0P1G5S8_9RHOB  201   25   41  198    4    208   4e-51 Putative GST-like protein
+tr|A0A0P1GRD1|A0A0P1GRD1_9RHOB  201   27   43  197    4    205   3e-50 Putative GST-like protein
+tr|A0A0P6S4H9|A0A0P6S4H9_9PSED  209   29   45  199    5    205   3e-50 Glutathione S-transferase
+tr|A0A0P7CPH9|A0A0P7CPH9_PSEPU  207   30   43  197    7    210   7e-52 Glutathione S-transferase
+tr|A0A0P7DC85|A0A0P7DC85_PSEPU  207   32   46  197    7    213   1e-52 Glutathione S-transferase
+tr|A0A0P9C4J5|A0A0P9C4J5_VARPD  203   24   43  197    8    218   3e-54 Glutathione S-transferase
+tr|A0A0Q0XH43|A0A0Q0XH43_9BURK  204   27   45  197    8    216   2e-53 Glutathione S-transferase
+tr|A0A0Q3I911|A0A0Q3I911_9BRAD  200   28   43  195    4    204   6e-50 Glutathione S-transferase
+tr|A0A0Q4G4Q2|A0A0Q4G4Q2_9BURK  205   26   43  197    9    209   2e-51 Glutathione S-transferase
+tr|A0A0Q4N3E8|A0A0Q4N3E8_9PSED  207   30   44  197    7    210   9e-52 Glutathione S-transferase
+tr|A0A0Q4PHZ2|A0A0Q4PHZ2_9BURK  202   27   47  196    7    217   4e-54 Glutathione S-transferase
+tr|A0A0Q4RKZ6|A0A0Q4RKZ6_9BURK  204   28   45  197    8    215   2e-53 Glutathione S-transferase
+tr|A0A0Q4SQK5|A0A0Q4SQK5_9PSED  201   34   48  197    5    204   6e-50 Glutathione S-transferase
+tr|A0A0Q4X6M9|A0A0Q4X6M9_9RHIZ  203   29   42  196    7    202   1e-49 Glutathione S-transferase
+tr|A0A0Q4XWE1|A0A0Q4XWE1_9BURK  205   26   44  197    8    221   5e-55 Glutathione S-transferase
+tr|A0A0Q5CLV2|A0A0Q5CLV2_9BURK  202   29   49  196    7    211   4e-52 Glutathione S-transferase
+tr|A0A0Q5HR42|A0A0Q5HR42_9BURK  206   29   47  197    8    235   3e-59 Glutathione S-transferase
+tr|A0A0Q5KYN7|A0A0Q5KYN7_9BURK  204   28   43  197    8    217   7e-54 Glutathione S-transferase
+tr|A0A0Q5PU47|A0A0Q5PU47_9BURK  203   24   44  197    6    222   1e-55 Glutathione S-transferase
+tr|A0A0Q5WP76|A0A0Q5WP76_9RHIZ  201   28   41  196    8    209   2e-51 Glutathione S-transferase
+tr|A0A0Q5Z3J7|A0A0Q5Z3J7_9BURK  204   28   46  197    8    219   1e-54 Glutathione S-transferase
+tr|A0A0Q6M8X3|A0A0Q6M8X3_9RHIZ  215   30   43  197    6    204   4e-50 Glutathione S-transferase
+tr|A0A0Q6MH58|A0A0Q6MH58_9BURK  205   27   43  196    9    222   2e-55 Glutathione S-transferase
+tr|A0A0Q6N7E3|A0A0Q6N7E3_9BURK  203   28   44  197    8    217   5e-54 Glutathione S-transferase
+tr|A0A0Q6TNJ7|A0A0Q6TNJ7_9BURK  207   26   44  196   13    217   4e-54 Glutathione S-transferase
+tr|A0A0Q6TQ90|A0A0Q6TQ90_9BURK  205   26   44  197    6    222   2e-55 Glutathione S-transferase
+tr|A0A0Q6WC26|A0A0Q6WC26_9BURK  207   26   44  196   13    221   5e-55 Glutathione S-transferase
+tr|A0A0Q6WLR0|A0A0Q6WLR0_9BURK  202   27   46  198    6    229   2e-57 Glutathione S-transferase
+tr|A0A0Q6X7D9|A0A0Q6X7D9_9BURK  204   27   46  196    9    212   2e-52 Glutathione S-transferase
+tr|A0A0Q7A8C7|A0A0Q7A8C7_9BURK  204   26   44  197    8    218   2e-54 Glutathione S-transferase
+tr|A0A0Q7AFG1|A0A0Q7AFG1_9BURK  205   27   47  196    9    210   9e-52 Glutathione S-transferase
+tr|A0A0Q7BEX1|A0A0Q7BEX1_9BURK  208   26   44  196   13    221   3e-55 Glutathione S-transferase
+tr|A0A0Q7BZH1|A0A0Q7BZH1_9BURK  203   25   42  197    8    214   3e-53 Glutathione S-transferase
+tr|A0A0Q7DBT2|A0A0Q7DBT2_9BURK  206   27   47  197    8    216   1e-53 Glutathione S-transferase
+tr|A0A0Q7FFJ1|A0A0Q7FFJ1_9BURK  202   28   46  198    6    230   9e-58 Glutathione S-transferase
+tr|A0A0Q7HEL5|A0A0Q7HEL5_9BURK  203   26   43  197    8    212   1e-52 Glutathione S-transferase
+tr|A0A0Q7LQK9|A0A0Q7LQK9_9BURK  203   24   43  197    8    212   2e-52 Glutathione S-transferase
+tr|A0A0Q7T4C4|A0A0Q7T4C4_9BURK  208   25   43  196   13    217   4e-54 Glutathione S-transferase
+tr|A0A0Q7X9Z5|A0A0Q7X9Z5_9BURK  203   28   48  198    6    233   1e-58 Glutathione S-transferase
+tr|A0A0Q7XAH8|A0A0Q7XAH8_9BURK  204   28   46  197    6    232   2e-58 Glutathione S-transferase
+tr|A0A0Q8BRI8|A0A0Q8BRI8_9BURK  203   26   45  197    7    225   2e-56 Glutathione S-transferase
+tr|A0A0Q8BVB8|A0A0Q8BVB8_9BURK  199   26   44  197    4    201   3e-49 Glutathione S-transferase
+tr|A0A0Q8GX85|A0A0Q8GX85_9BURK  208   26   44  196   13    221   3e-55 Glutathione S-transferase
+tr|A0A0Q8JV75|A0A0Q8JV75_9BURK  203   27   46  197    7    229   2e-57 Glutathione S-transferase
+tr|A0A0Q8JZW0|A0A0Q8JZW0_9BURK  199   25   43  197    4    203   8e-50 Glutathione S-transferase
+tr|A0A0Q8L8E2|A0A0Q8L8E2_9BURK  204   27   44  197    8    220   8e-55 Glutathione S-transferase
+tr|A0A0Q8Q846|A0A0Q8Q846_9BURK  203   28   49  198    6    226   1e-56 Glutathione S-transferase
+tr|A0A0Q8QSN5|A0A0Q8QSN5_9BURK  202   30   46  198    6    239   1e-60 Glutathione S-transferase
+tr|A0A0Q8T3L5|A0A0Q8T3L5_9BURK  204   26   46  197    8    218   3e-54 Glutathione S-transferase
+tr|A0A0Q8TGK1|A0A0Q8TGK1_9BURK  204   26   46  197    8    218   3e-54 Glutathione S-transferase
+tr|A0A0Q8WTE6|A0A0Q8WTE6_9BURK  199   25   45  197    4    207   4e-51 Glutathione S-transferase
+tr|A0A0Q8X373|A0A0Q8X373_9BURK  203   27   45  197    7    226   9e-57 Glutathione S-transferase
+tr|A0A0Q8Z9Q5|A0A0Q8Z9Q5_9PSED  209   32   42  198    5    203   8e-50 Glutathione S-transferase
+tr|A0A0Q9CSC5|A0A0Q9CSC5_9BURK  204   27   45  197    8    216   1e-53 Glutathione S-transferase
+tr|A0A0R0LM12|A0A0R0LM12_9PROT  205   26   45  197    6    207   5e-51 Putative GST-like protein
+tr|A0A0R0MFJ7|A0A0R0MFJ7_9BURK  204   27   44  198    8    214   6e-53 Glutathione S-transferase
+tr|A0A0R2YBR0|A0A0R2YBR0_9PSED  209   31   44  198    5    203   1e-49 Glutathione S-transferase
+tr|A0A0R3A6G7|A0A0R3A6G7_9PSED  209   31   44  198    5    202   1e-49 Glutathione S-transferase
+tr|A0A0R3AK93|A0A0R3AK93_9PSED  209   32   43  198    5    206   1e-50 Glutathione S-transferase
+tr|A0A0S1XWR7|A0A0S1XWR7_9BORD  203   25   45  196    7    212   2e-52 Glutathione S-transferase
+tr|A0A0S2JN00|A0A0S2JN00_ALCFA  203   30   46  196    7    222   1e-55 Glutathione S-transferase
+tr|A0A0S4I9Y1|A0A0S4I9Y1_9PSED  207   31   43  198    7    204   5e-50 Putative GST-like protein
+tr|A0A0S4P0R2|A0A0S4P0R2_9BURK  202   28   46  197    6    227   5e-57 Glutathione S-transferase
+tr|A0A0S4TSE9|A0A0S4TSE9_RALSL  202   28   46  198    6    223   8e-56 Glutathione S-transferase
+tr|A0A0S4W9W0|A0A0S4W9W0_RALSL  202   29   46  198    6    224   6e-56 Glutathione S-transferase
+tr|A0A0S4X3Q5|A0A0S4X3Q5_RALSL  202   28   46  198    6    223   1e-55 Glutathione S-transferase
+tr|A0A0S4X7J5|A0A0S4X7J5_RALSL  202   29   46  198    6    224   3e-56 Glutathione S-transferase
+tr|A0A0S8C386|A0A0S8C386_9PROT  204   31   45  195    8    208   3e-51 Uncharacterized protein  
+tr|A0A0S9F8V1|A0A0S9F8V1_9BURK  204   28   45  197    8    215   3e-53 Glutathione S-transferase
+tr|A0A0S9M514|A0A0S9M514_9BURK  204   26   44  197    8    217   4e-54 Glutathione S-transferase
+tr|A0A0S9NR66|A0A0S9NR66_9BURK  204   27   44  197    8    218   3e-54 Glutathione S-transferase
+tr|A0A0T2ZGV0|A0A0T2ZGV0_9BURK  204   27   46  198    8    222   2e-55 Glutathione S-transferase
+tr|A0A0T5NX76|A0A0T5NX76_9RHOB  200   32   44  198    4    203   1e-49 Glutathione S-transferase
+tr|A0A0T7CRP6|A0A0T7CRP6_BORP1  203   26   44  196    7    221   3e-55 Uncharacterized protein  
+tr|A0A0U1QAZ3|A0A0U1QAZ3_9BURK  203   25   45  197    7    220   1e-54 Glutathione S-transferase
+tr|A0A0U2XFA2|A0A0U2XFA2_9BURK  203   28   47  197    6    222   1e-55 Glutathione S-transferase
+tr|A0A0U3F4J0|A0A0U3F4J0_9BURK  209   24   43  196   13    220   7e-55 Glutathione S-transferase
+tr|A0A0U3JZZ1|A0A0U3JZZ1_9BURK  204   26   44  198    6    222   2e-55 Glutathione S-transferase
+tr|A0A0U3LRI1|A0A0U3LRI1_9BURK  210   26   43  196   13    217   6e-54 Glutathione S transferase
+tr|A0A0U4DDW1|A0A0U4DDW1_BURCE  204   26   47  198    6    229   2e-57 Glutathione S-transferase
+tr|A0A0U5MG15|A0A0U5MG15_9PROT  201   30   47  197    4    207   7e-51 Uncharacterized GST-like 
+tr|A0A0W0N900|A0A0W0N900_9PSED  209   33   45  198    5    205   3e-50 Glutathione S-transferase
+tr|A0A0W0NC38|A0A0W0NC38_9PSED  209   33   44  198    5    204   7e-50 Glutathione S-transferase
+tr|A0A0W0P1S4|A0A0W0P1S4_9PSED  209   31   44  198    5    202   3e-49 Glutathione S-transferase
+tr|A0A0W0QYJ6|A0A0W0QYJ6_PSEFL  209   31   43  198    5    208   3e-51 Glutathione S-transferase
+tr|A0A0X1SL67|A0A0X1SL67_9RHIZ  203   29   42  196    7    206   1e-50 Glutathione S-transferase
+tr|A0A0X3TBV0|A0A0X3TBV0_9RHOB  203   32   47  197    4    204   4e-50 Uncharacterized protein O
+tr|A0A0X8L4N8|A0A0X8L4N8_9BURK  205   25   45  197    6    224   4e-56 Glutathione S-transferase
+tr|A0A0X8P1V6|A0A0X8P1V6_ALCXX  201   28   45  198    4    207   7e-51 Glutathione S-transferase
+tr|A0A100HQQ3|A0A100HQQ3_9RALS  202   30   46  198    6    226   1e-56 Glutathione S-transferase
+tr|A0A103E448|A0A103E448_9BURK  203   25   45  198    6    232   2e-58 Glutathione S-transferase
+tr|A0A103ERK7|A0A103ERK7_9BURK  203   25   45  198    6    232   1e-58 Glutathione S-transferase
+tr|A0A103KDX0|A0A103KDX0_9BURK  204   26   46  198    6    228   3e-57 Glutathione S-transferase
+tr|A0A103LFP6|A0A103LFP6_9BURK  204   25   47  198    6    226   2e-56 Glutathione S-transferase
+tr|A0A104ATJ0|A0A104ATJ0_BURCE  203   26   47  198    6    228   3e-57 Glutathione S-transferase
+tr|A0A104C839|A0A104C839_9BURK  204   26   47  198    6    229   1e-57 Glutathione S-transferase
+tr|A0A104M8R1|A0A104M8R1_9BURK  203   25   46  198    6    220   6e-55 Glutathione S-transferase
+tr|A0A104PG31|A0A104PG31_9BURK  203   26   46  198    6    229   1e-57 Glutathione S-transferase
+tr|A0A105AYK9|A0A105AYK9_9BURK  204   25   45  198    6    222   1e-55 Glutathione S-transferase
+tr|A0A105YLT6|A0A105YLT6_9BURK  204   25   45  198    6    222   2e-55 Glutathione S-transferase
+tr|A0A106P2U4|A0A106P2U4_9BURK  204   25   46  198    6    230   7e-58 Glutathione S-transferase
+tr|A0A106WD81|A0A106WD81_9BURK  204   25   45  198    6    223   1e-55 Glutathione S-transferase
+tr|A0A107EF31|A0A107EF31_BURCE  203   26   48  198    6    224   4e-56 Glutathione S-transferase
+tr|A0A107EF52|A0A107EF52_9BURK  204   25   45  198    6    224   4e-56 Glutathione S-transferase
+tr|A0A107NUQ1|A0A107NUQ1_BURCE  203   26   48  198    6    225   2e-56 Glutathione S-transferase
+tr|A0A108CAN4|A0A108CAN4_9BURK  204   25   45  197    6    221   5e-55 Glutathione S-transferase
+tr|A0A108EZC5|A0A108EZC5_9BURK  204   26   47  198    6    226   1e-56 Glutathione S-transferase
+tr|A0A109BPP0|A0A109BPP0_9BURK  203   26   43  197    8    207   5e-51 Glutathione S-transferase
+tr|A0A109PYI2|A0A109PYI2_9PSED  207   31   44  197    7    214   4e-53 Glutathione S-transferase
+tr|A0A109RW72|A0A109RW72_9BURK  203   28   47  196    7    218   2e-54 Glutathione S-transferase
+tr|A0A118E3B5|A0A118E3B5_9BURK  203   25   46  198    6    225   3e-56 Glutathione S-transferase
+tr|A0A118EYR4|A0A118EYR4_BURVI  204   25   46  198    6    226   1e-56 Glutathione S-transferase
+tr|A0A119CW84|A0A119CW84_THIDE  202   28   45  196    7    206   1e-50 Glutathione S-transferase
+tr|A0A120DY62|A0A120DY62_9BURK  203   26   47  198    6    226   9e-57 Glutathione S-transferase
+tr|A0A120FX73|A0A120FX73_PSEFL  209   32   42  198    5    203   8e-50 Putative GST-like protein
+tr|A0A120G8H5|A0A120G8H5_PSEFL  209   33   43  198    5    204   4e-50 Putative GST-like protein
+tr|A0A120LH68|A0A120LH68_ALCXX  203   26   45  197    7    226   1e-56 Glutathione S-transferase
+tr|A0A124K709|A0A124K709_9BURK  203   25   46  198    6    223   1e-55 Glutathione S-transferase
+tr|A0A124NT32|A0A124NT32_9BURK  204   26   47  198    6    229   1e-57 Glutathione S-transferase
+tr|A0A124PI80|A0A124PI80_9BURK  203   25   46  198    6    219   2e-54 Glutathione S-transferase
+tr|A0A124T932|A0A124T932_9BURK  204   26   47  198    6    225   2e-56 Glutathione S-transferase
+tr|A0A124UVV0|A0A124UVV0_BURPY  204   25   46  198    6    227   5e-57 Glutathione S-transferase
+tr|A0A126SB43|A0A126SB43_PSEPU  204   30   45  197    7    213   1e-52 Glutathione S-transferase
+tr|A0A126YD83|A0A126YD83_9BURK  205   25   45  197    6    224   4e-56 Glutathione S-transferase
+tr|A0A126ZEJ7|A0A126ZEJ7_9BURK  203   28   45  197    8    220   6e-55 Glutathione S-transferase
+tr|A0A127HTA7|A0A127HTA7_PSEAZ  209   31   45  198    5    204   6e-50 Glutathione S-transferase
+tr|A0A127JSY7|A0A127JSY7_9BURK  205   32   49  197    9    224   7e-56 Glutathione S-transferase
+tr|A0A127P8I3|A0A127P8I3_9BURK  202   26   46  198    6    227   6e-57 Glutathione S-transferase
+tr|A0A127QEQ7|A0A127QEQ7_9BURK  202   25   46  198    6    227   5e-57 Glutathione S-transferase
+tr|A0A127QSU0|A0A127QSU0_9BURK  202   26   45  198    6    232   1e-58 Glutathione S-transferase
+tr|A0A127RYV9|A0A127RYV9_RALSL  202   30   47  198    6    227   6e-57 Glutathione S-transferase
+tr|A0A132CJH1|A0A132CJH1_9BURK  203   25   46  198    6    220   8e-55 Glutathione S-transferase
+tr|A0A132CM04|A0A132CM04_9BURK  203   25   47  198    6    224   5e-56 Glutathione S-transferase
+tr|A0A132DGC8|A0A132DGC8_BURVI  204   25   46  198    6    227   4e-57 Glutathione S-transferase
+tr|A0A132EC63|A0A132EC63_9BURK  203   26   47  198    6    231   3e-58 Glutathione S-transferase
+tr|A0A132F6C3|A0A132F6C3_9BURK  203   25   46  198    6    228   3e-57 Glutathione S-transferase
+tr|A0A132G4X8|A0A132G4X8_9GAMM  207   31   42  197    7    205   3e-50 Glutathione S-transferase
+tr|A0A132HEP9|A0A132HEP9_9BURK  204   29   48  197    6    205   2e-50 Putative GST-like protein
+tr|A0A133XHJ5|A0A133XHJ5_9RHOO  202   28   43  197    7    220   8e-55 Glutathione S-transferase
+tr|A0A136QHZ5|A0A136QHZ5_9PSED  207   30   43  197    7    210   7e-52 Glutathione S-transferase
+tr|A0A142IW99|A0A142IW99_PSEAC  205   29   44  197    6    203   1e-49 Glutathione S-transferase
+tr|A0A142JNV0|A0A142JNV0_9BURK  204   28   47  197    6    213   1e-52 Glutathione S-transferase
+tr|A0A142PIG7|A0A142PIG7_9BURK  204   26   47  198    6    232   2e-58 Glutathione S-transferase
+tr|A0A142YWV4|A0A142YWV4_9BURK  202   26   45  196    6    220   7e-55 Glutathione S-transferase
+tr|A0A143GA98|A0A143GA98_PSEFL  209   33   45  198    5    203   1e-49 Glutathione S-transferase
+tr|A0A147FS66|A0A147FS66_9RHIZ  201   27   41  197    7    204   4e-50 Glutathione S-transferase
+tr|A0A147GKK9|A0A147GKK9_9PSED  207   30   43  198    7    205   2e-50 Glutathione S-transferase
+tr|A0A147GRI2|A0A147GRI2_9BURK  204   28   43  197    8    213   8e-53 Glutathione S-transferase
+tr|A0A149PZL8|A0A149PZL8_9BURK  204   25   44  198    6    226   1e-56 Glutathione S-transferase
+tr|A0A149Q052|A0A149Q052_9BURK  202   26   46  197    6    233   7e-59 Glutathione S-transferase
+tr|A0A149VY63|A0A149VY63_9PROT  202   25   44  196    7    202   2e-49 Putative GST-like protein
+tr|A0A154NTK8|A0A154NTK8_9RHIZ  201   28   41  196    8    209   2e-51 Putative GST-like protein
+tr|A0A157JW96|A0A157JW96_9BORD  202   28   45  198    5    207   5e-51 Glutathione S-transferase
+tr|A0A157QB21|A0A157QB21_9BORD  203   26   45  197    7    224   3e-56 Glutathione S-transferase
+tr|A0A157S5C1|A0A157S5C1_9BORD  201   29   43  197    4    205   3e-50 Glutathione S-transferase
+tr|A0A157STE4|A0A157STE4_9BORD  204   26   43  196    7    213   1e-52 Glutathione S-transferase
+tr|A0A157Z2D8|A0A157Z2D8_9BURK  203   25   46  197    6    222   1e-55 Glutathione S-transferase
+tr|A0A157Z4K2|A0A157Z4K2_9BURK  203   26   45  197    6    233   1e-58 Glutathione S-transferase
+tr|A0A157ZAI7|A0A157ZAI7_9BURK  202   26   46  197    6    232   2e-58 Glutathione S-transferase
+tr|A0A157ZFG3|A0A157ZFG3_9BURK  203   24   46  197    6    229   2e-57 Glutathione S-transferase
+tr|A0A158A2G2|A0A158A2G2_9BURK  202   26   45  197    6    233   1e-58 Glutathione S-transferase
+tr|A0A158A859|A0A158A859_9BURK  203   25   46  197    6    231   6e-58 Glutathione S-transferase
+tr|A0A158B483|A0A158B483_9BURK  240   25   46  197    6    231   3e-58 Glutathione S-transferase
+tr|A0A158B611|A0A158B611_9BURK  203   27   46  197    6    232   1e-58 Glutathione S-transferase
+tr|A0A158BJR8|A0A158BJR8_9BURK  203   24   46  197    6    224   4e-56 Glutathione S-transferase
+tr|A0A158ESQ3|A0A158ESQ3_9BURK  203   25   46  197    6    234   5e-59 Glutathione S-transferase
+tr|A0A158EY02|A0A158EY02_9BURK  203   25   45  197    6    229   1e-57 Glutathione S-transferase
+tr|A0A158F2Y5|A0A158F2Y5_9BURK  203   25   45  197    6    224   4e-56 Glutathione S-transferase
+tr|A0A158F3I1|A0A158F3I1_9BURK  203   27   47  197    6    227   8e-57 Glutathione S-transferase
+tr|A0A158G9W4|A0A158G9W4_9BURK  204   24   47  197    6    219   2e-54 Glutathione S-transferase
+tr|A0A158GAF5|A0A158GAF5_9BURK  203   26   46  197    6    231   3e-58 Glutathione S-transferase
+tr|A0A158IKA8|A0A158IKA8_9BURK  203   24   45  197    6    227   4e-57 Glutathione S-transferase
+tr|A0A158J736|A0A158J736_9BURK  203   25   46  197    6    231   4e-58 Glutathione S-transferase
+tr|A0A158JXR3|A0A158JXR3_9BURK  203   24   44  197    6    229   2e-57 Glutathione S-transferase
+tr|A0A158K4D4|A0A158K4D4_9BURK  202   25   45  197    6    231   3e-58 Glutathione S-transferase
+tr|A0A158KFT0|A0A158KFT0_9BURK  223   24   44  197    6    228   3e-57 Glutathione S-transferase
+tr|A0A158M2N2|A0A158M2N2_9BORD  202   26   43  196    7    209   1e-51 Glutathione S-transferase
+tr|A0A160GTM6|A0A160GTM6_PSEPU  204   29   44  197    7    203   1e-49 Glutathione S-transferase
+tr|A0A160ISY9|A0A160ISY9_PSEPU  207   31   44  197    7    209   2e-51 Glutathione S-transferase
+tr|A0A161I2L6|A0A161I2L6_9BURK  205   26   44  197    6    224   4e-56 Glutathione S-transferase
+tr|A0A161SFM9|A0A161SFM9_9NEIS  203   32   46  196    7    212   2e-52 Glutathione S-transferase
+tr|A0A161YDR3|A0A161YDR3_PSEPU  207   31   43  197    7    207   6e-51 Glutathione S-transferase
+tr|A0A162J3F1|A0A162J3F1_9RHOB  202   26   40  198    3    203   9e-50 Glutathione S-transferase
+tr|A0A162NID3|A0A162NID3_9BURK  199   26   44  197    4    212   2e-52 Glutathione S-transferase
+tr|A0A162VM00|A0A162VM00_9BURK  204   28   45  198    8    217   7e-54 Glutathione S-transferase
+tr|A0A162X698|A0A162X698_9BURK  202   26   45  196    7    221   5e-55 Glutathione S-transferase
+tr|A0A165LC52|A0A165LC52_9BURK  204   27   44  197    8    216   1e-53 Glutathione S-transferase
+tr|A0A168J8L6|A0A168J8L6_9BURK  203   27   45  197    6    230   9e-58 Glutathione S-transferase
+tr|A0A170NYD9|A0A170NYD9_9BURK  206   26   46  197    8    220   9e-55 Glutathione S-transferase
+tr|A0A171JWV0|A0A171JWV0_BORPT  203   26   44  196    7    221   3e-55 Glutathione S-transferase
+tr|A0A172Z9A4|A0A172Z9A4_9PSED  209   33   45  198    5    207   8e-51 S-transferase OS=Pseudomo
+tr|A0A173HLH7|A0A173HLH7_9PSED  207   31   44  197    7    211   3e-52 Glutathione S-transferase
+tr|A0A173JAY5|A0A173JAY5_9PSED  221   29   45  199    5    203   9e-50 Glutathione S-transferase
+tr|A0A176V658|A0A176V658_9PSED  209   31   43  198    5    202   1e-49 Glutathione S-transferase
+tr|A0A176XKZ6|A0A176XKZ6_ALCXX  199   25   43  197    4    202   2e-49 Glutathione S-transferase
+tr|A0A176XUZ5|A0A176XUZ5_ALCXX  203   27   45  197    7    222   1e-55 Glutathione S-transferase
+tr|A0A177KBB2|A0A177KBB2_9PSED  207   32   46  197    7    213   1e-52 Glutathione S-transferase
+tr|A0A177RSX3|A0A177RSX3_RALSL  202   30   45  197    6    223   8e-56 Glutathione S-transferase
+tr|A0A177SGK4|A0A177SGK4_PSEPU  206   29   44  198    5    209   1e-51 Glutathione S-transferase
+tr|A0A177X4V6|A0A177X4V6_PSEMA  209   32   45  198    5    204   5e-50 Glutathione S-transferase
+tr|A0A177YRI6|A0A177YRI6_PSEPU  207   30   44  198    7    211   3e-52 Glutathione S-transferase
+tr|A0A177Z5D5|A0A177Z5D5_VARPD  203   23   41  197    8    209   1e-51 Glutathione S-transferase
+tr|A0A178MCR0|A0A178MCR0_9PROT  201   33   49  198    4    212   2e-52 Glutathione S-transferase
+tr|A0A178MUC9|A0A178MUC9_9PROT  201   29   46  198    4    210   1e-51 Glutathione S-transferase
+tr|A0A179RBB4|A0A179RBB4_PSEPU  207   30   43  197    7    208   4e-51 Glutathione S-transferase
+tr|A0A179TB57|A0A179TB57_ALCXX  201   28   45  198    4    206   1e-50 Glutathione S-transferase
+tr|A0A179TPI8|A0A179TPI8_ALCXX  203   26   46  197    7    229   2e-57 Glutathione S-transferase
+tr|A0A191UHI6|A0A191UHI6_9BURK  204   30   47  197    6    217   5e-54 Glutathione S-transferase
+tr|A0A191ZZW7|A0A191ZZW7_9RALS  202   30   46  198    6    225   2e-56 Glutathione S-transferase
+tr|A0A193G4D7|A0A193G4D7_9BORD  203   27   44  196    7    222   1e-55 Glutathione S-transferase
+tr|A0A193GM57|A0A193GM57_9BORD  203   25   44  196    7    219   1e-54 Glutathione S-transferase
+tr|A0A1A5X1M7|A0A1A5X1M7_9BURK  203   25   43  198    6    228   2e-57 Glutathione S-transferase
+tr|A0A1A6DX69|A0A1A6DX69_9BURK  207   30   47  197    8    219   1e-54 Glutathione S-transferase
+tr|A0A1A7C3J2|A0A1A7C3J2_9BURK  204   28   45  198    8    235   3e-59 Glutathione S-transferase
+tr|A0A1A8XJ07|A0A1A8XJ07_9RHOO  202   29   46  197    7    227   7e-57 Uncharacterized GST-like 
+tr|A0A1A8XPB2|A0A1A8XPB2_9PROT  202   27   45  197    7    215   2e-53 Uncharacterized GST-like 
+tr|A0A1A9F086|A0A1A9F086_9GAMM  208   29   44  200    7    204   6e-50 Glutathione S-transferase
+tr|A0A1A9HRI6|A0A1A9HRI6_9BURK  210   25   42  196   13    217   8e-54 Glutathione S-transferase
+tr|A0A1A9JM15|A0A1A9JM15_9PSED  209   29   43  199    5    203   8e-50 Glutathione S-transferase
+tr|A0A1A9NG46|A0A1A9NG46_9BURK  206   27   45  197    6    216   2e-53 Glutathione S-transferase
+tr|A0A1A9NH38|A0A1A9NH38_9PROT  204   27   43  197    6    217   8e-54 Glutathione S-transferase
+tr|A0A1A9T067|A0A1A9T067_9PROT  203   25   43  196    7    204   4e-50 Glutathione S-transferase
+tr|A0A1B1YVG9|A0A1B1YVG9_9GAMM  200   32   44  196    4    204   3e-50 Uncharacterized protein  
+tr|A0A1B2FDS7|A0A1B2FDS7_PSEPU  207   32   47  197    7    214   4e-53 Putative GST-like protein
+tr|A0A1B2R4Z8|A0A1B2R4Z8_9BORD  204   27   45  196    7    224   5e-56 Glutathione S-transferase
+tr|A0A1B3CZK6|A0A1B3CZK6_PSEFL  209   31   43  198    5    202   2e-49 Glutathione S-transferase
+tr|A0A1B3LRE9|A0A1B3LRE9_9PROT  202   31   45  196    7    212   2e-52 Uncharacterized protein  
+tr|A0A1B3LYN8|A0A1B3LYN8_9BURK  204   29   47  198    8    224   5e-56 Uncharacterized protein  
+tr|A0A1B3PLE2|A0A1B3PLE2_9BURK  204   26   45  197    8    220   7e-55 Uncharacterized protein  
+tr|A0A1B4AFW8|A0A1B4AFW8_9BURK  203   25   46  198    6    228   3e-57 Glutathione S-transferase
+tr|A0A1B4AR18|A0A1B4AR18_9BURK  203   25   45  198    6    225   2e-56 Glutathione S-transferase
+tr|A0A1B4BW88|A0A1B4BW88_9BURK  203   25   47  198    6    224   7e-56 Glutathione S-transferase
+tr|A0A1B4DF17|A0A1B4DF17_9BURK  204   26   47  198    6    229   1e-57 Glutathione S-transferase
+tr|A0A1B4DY15|A0A1B4DY15_BURCE  203   26   48  198    6    225   2e-56 Glutathione S-transferase
+tr|A0A1B4HQY0|A0A1B4HQY0_9BURK  204   25   47  198    6    227   5e-57 Glutathione S-transferase
+tr|A0A1B4I9A6|A0A1B4I9A6_BURL3  204   26   47  198    6    232   2e-58 Glutathione S-transferase
+tr|A0A1B4JYR9|A0A1B4JYR9_BURTH  203   25   46  198    6    223   7e-56 Glutathione S-transferase
+tr|A0A1B4MFQ0|A0A1B4MFQ0_9BURK  203   25   46  198    6    221   3e-55 Glutathione S-transferase
+tr|A0A1B4MYC4|A0A1B4MYC4_9BURK  203   25   46  198    6    230   9e-58 Glutathione S-transferase
+tr|A0A1B4NPJ8|A0A1B4NPJ8_9BURK  204   25   47  198    6    226   1e-56 Glutathione S-transferase
+tr|A0A1B4PWA7|A0A1B4PWA7_BURCE  203   25   47  198    6    226   1e-56 Glutathione S-transferase
+tr|A0A1B4QRC2|A0A1B4QRC2_9BURK  203   25   45  198    6    232   2e-58 Glutathione S-transferase
+tr|A0A1B4S5L9|A0A1B4S5L9_9BURK  203   25   47  198    6    222   2e-55 Glutathione S-transferase
+tr|A0A1B5CQS8|A0A1B5CQS8_9PSED  209   31   45  198    5    202   2e-49 Putative GST-like protein
+tr|A0A1B5D071|A0A1B5D071_9PSED  209   31   42  198    5    204   7e-50 Putative GST-like protein
+tr|A0A1B5DYJ7|A0A1B5DYJ7_9PSED  209   31   44  198    5    203   8e-50 Putative GST-like protein
+tr|A0A1B6B3W5|A0A1B6B3W5_ALCFA  203   30   46  196    7    222   1e-55 Glutathione S-transferase
+tr|A0A1C0XED9|A0A1C0XED9_RALPI  202   29   47  198    6    221   5e-55 Glutathione S-transferase
+tr|A0A1C1ARA1|A0A1C1ARA1_PSEPU  204   30   44  197    7    206   1e-50 Glutathione S-transferase
+tr|A0A1C1WEW4|A0A1C1WEW4_9PSED  209   31   44  198    5    204   3e-50 Glutathione S-transferase
+tr|A0A1C2ZCM3|A0A1C2ZCM3_ALCXX  201   28   44  198    4    208   4e-51 Glutathione S-transferase
+tr|A0A1C3BTX4|A0A1C3BTX4_ALCXX  203   26   45  197    7    227   4e-57 Glutathione S-transferase
+tr|A0A1C3K1J7|A0A1C3K1J7_9BURK  203   26   41  196    7    216   1e-53 Glutathione S-transferase
+tr|A0A1C3RDV9|A0A1C3RDV9_9RHIZ  201   30   47  198    4    214   5e-53 Glutathione S-transferase
+tr|A0A1C3TWJ9|A0A1C3TWJ9_9BURK  204   27   46  197    6    211   3e-52 Glutathione S-transferase
+tr|A0A1C6MH93|A0A1C6MH93_9NEIS  204   31   46  196    8    215   3e-53 Glutathione S-transferase
+tr|A0A1C6R2M4|A0A1C6R2M4_9BURK  203   24   42  197    8    211   4e-52 Glutathione S-transferase
+tr|A0A1C7L6Q3|A0A1C7L6Q3_9BURK  206   27   41  197    8    208   3e-51 Glutathione S-transferase
+tr|A0A1C9VLW8|A0A1C9VLW8_9BURK  205   26   45  197    8    212   2e-52 Glutathione S-transferase
+tr|A0A1D2PKW1|A0A1D2PKW1_9BURK  205   26   46  198    7    224   6e-56 Glutathione S-transferase
+tr|A0A1D2S6W9|A0A1D2S6W9_9BURK  206   29   46  197    8    212   2e-52 Glutathione S-transferase
+tr|A0A1D2SJD2|A0A1D2SJD2_9BURK  202   27   46  197    6    216   9e-54 Glutathione S-transferase
+tr|A0A1D2TJE8|A0A1D2TJE8_9BURK  202   29   46  197    6    226   9e-57 Glutathione S-transferase
+tr|A0A1D2U6M4|A0A1D2U6M4_9BURK  206   28   44  197    8    213   9e-53 Glutathione S-transferase
+tr|A0A1D2USU5|A0A1D2USU5_9BURK  206   26   46  197    8    222   2e-55 Glutathione S-transferase
+tr|A0A1D7ZHT1|A0A1D7ZHT1_9BURK  203   25   47  198    6    227   4e-57 Glutathione S-transferase
+tr|A0A1D8I6H0|A0A1D8I6H0_9BURK  203   26   45  197    7    227   4e-57 Glutathione S-transferase
+tr|A0A1D8IGP0|A0A1D8IGP0_9BURK  201   28   45  198    4    206   1e-50 Glutathione S-transferase
+tr|A0A1D9BD45|A0A1D9BD45_9NEIS  203   25   42  196    7    208   3e-51 Glutathione S-transferase
+tr|A0A1D9GZ16|A0A1D9GZ16_9BURK  204   28   47  197    6    214   5e-53 Glutathione S-transferase
+tr|A0A1D9LEW3|A0A1D9LEW3_9NEIS  203   29   45  196    7    226   1e-56 Glutathione S-transferase
+tr|A0A1E1G5D8|A0A1E1G5D8_9PSED  209   33   45  198    5    202   2e-49 Glutathione S-transferase
+tr|A0A1E3LL68|A0A1E3LL68_9BURK  214   27   45  197    6    232   1e-58 Glutathione S-transferase
+tr|A0A1E3Z2Y2|A0A1E3Z2Y2_9BURK  204   26   44  197    8    214   3e-53 Glutathione S-transferase
+tr|A0A1E3ZAJ6|A0A1E3ZAJ6_9BORD  204   26   43  197    6    220   8e-55 Glutathione S-transferase
+tr|A0A1E4IJ14|A0A1E4IJ14_9BURK  205   27   44  196    9    205   2e-50 Glutathione S-transferase
+tr|A0A1E4IQK2|A0A1E4IQK2_9PROT  202   26   43  196    7    204   4e-50 Glutathione S-transferase
+tr|A0A1E4IXS9|A0A1E4IXS9_9BURK  203   25   43  197    8    211   4e-52 Glutathione S-transferase
+tr|A0A1E4L204|A0A1E4L204_9PROT  202   27   44  196    7    209   1e-51 Glutathione S-transferase
+tr|A0A1E4LTV8|A0A1E4LTV8_9BURK  206   28   46  197    9    222   1e-55 Glutathione S-transferase
+tr|A0A1E4NEG6|A0A1E4NEG6_9PROT  202   26   43  196    7    207   5e-51 Glutathione S-transferase
+tr|A0A1E4P417|A0A1E4P417_9PROT  204   28   44  196    9    205   2e-50 Glutathione S-transferase
+tr|A0A1E4PN86|A0A1E4PN86_9BURK  205   27   43  196    9    215   2e-53 Glutathione S-transferase
+tr|A0A1E4QU88|A0A1E4QU88_9BURK  204   27   47  197    6    209   2e-51 Glutathione S-transferase
+tr|A0A1E4XGF4|A0A1E4XGF4_9PSED  209   32   45  198    5    204   4e-50 Glutathione S-transferase
+tr|A0A1E4Z1V6|A0A1E4Z1V6_9BURK  203   26   46  198    6    230   8e-58 Glutathione S-transferase
+tr|A0A1E7TY80|A0A1E7TY80_9BURK  203   24   43  197    8    210   7e-52 Glutathione S-transferase
+tr|A0A1E7UK70|A0A1E7UK70_9BURK  204   28   45  198    8    228   4e-57 Putative GST-like protein
+tr|A0A1E7VEE2|A0A1E7VEE2_9BURK  204   28   45  198    8    227   5e-57 Putative GST-like protein
+tr|A0A1E7VL10|A0A1E7VL10_9BURK  202   28   50  198    6    224   6e-56 Putative GST-like protein
+tr|A0A1E7VYQ1|A0A1E7VYQ1_9BURK  204   28   44  198    8    227   5e-57 Putative GST-like protein
+tr|A0A1E7WJJ6|A0A1E7WJJ6_9BURK  202   27   47  196    7    214   3e-53 Putative GST-like protein
+tr|A0A1E7WL69|A0A1E7WL69_9BURK  202   28   50  198    6    222   2e-55 Putative GST-like protein
+tr|A0A1E8P8U2|A0A1E8P8U2_9PSED  209   30   45  199    5    202   2e-49 Glutathione S-transferase
+tr|A0A1E8PSH2|A0A1E8PSH2_9BURK  204   28   44  198    8    226   2e-56 Glutathione S-transferase
+tr|A0A1F1QE19|A0A1F1QE19_9PSED  207   32   47  197    7    212   2e-52 Glutathione S-transferase
+tr|A0A1F3X3X7|A0A1F3X3X7_9PROT  203   27   42  198    6    224   6e-56 Glutathione S-transferase
+tr|A0A1F3Y9K9|A0A1F3Y9K9_9PROT  203   24   42  197    8    212   2e-52 Glutathione S-transferase
+tr|A0A1F3YDQ1|A0A1F3YDQ1_9PROT  202   25   39  197    7    210   6e-52 Glutathione S-transferase
+tr|A0A1F4A6T7|A0A1F4A6T7_9PROT  203   23   39  196    7    205   2e-50 Glutathione S-transferase
+tr|A0A1F4ANM3|A0A1F4ANM3_9PROT  202   25   39  197    7    210   6e-52 Glutathione S-transferase
+tr|A0A1F4B550|A0A1F4B550_9PROT  203   24   42  196    8    205   2e-50 Glutathione S-transferase
+tr|A0A1F4BJH2|A0A1F4BJH2_9PROT  203   25   41  196    8    217   6e-54 Glutathione S-transferase
+tr|A0A1F4BLD0|A0A1F4BLD0_9PROT  204   26   42  197    6    205   2e-50 Glutathione S-transferase
+tr|A0A1F4C150|A0A1F4C150_9PROT  202   27   43  196    7    221   4e-55 Glutathione S-transferase
+tr|A0A1F4C8H7|A0A1F4C8H7_9PROT  206   28   46  196    7    207   7e-51 Glutathione S-transferase
+tr|A0A1F4CXN3|A0A1F4CXN3_9PROT  202   25   39  197    7    210   6e-52 Glutathione S-transferase
+tr|A0A1F4E0U9|A0A1F4E0U9_9PROT  203   25   40  196    7    217   4e-54 Glutathione S-transferase
+tr|A0A1F4E2K8|A0A1F4E2K8_9PROT  203   24   39  196    7    212   1e-52 Glutathione S-transferase
+tr|A0A1F4EM94|A0A1F4EM94_9PROT  202   25   44  197    8    209   2e-51 Glutathione S-transferase
+tr|A0A1F4ERG0|A0A1F4ERG0_9BURK  204   27   44  197    8    214   4e-53 Glutathione S-transferase
+tr|A0A1F4FGQ3|A0A1F4FGQ3_9PROT  206   27   42  197    8    209   2e-51 Glutathione S-transferase
+tr|A0A1F4G860|A0A1F4G860_9BURK  206   26   44  197    8    224   4e-56 Glutathione S-transferase
+tr|A0A1F4GNZ5|A0A1F4GNZ5_9BURK  204   27   45  197    8    216   2e-53 Glutathione S-transferase
+tr|A0A1F4H3N5|A0A1F4H3N5_9BURK  204   27   46  198    8    215   2e-53 Glutathione S-transferase
+tr|A0A1F4HHH2|A0A1F4HHH2_9PROT  202   27   43  196    7    220   7e-55 Glutathione S-transferase
+tr|A0A1F4HU44|A0A1F4HU44_9BURK  217   28   46  198    8    215   2e-53 Glutathione S-transferase
+tr|A0A1F4I2J6|A0A1F4I2J6_9BURK  203   27   41  196    8    217   7e-54 Glutathione S-transferase
+tr|A0A1F4IP69|A0A1F4IP69_9BURK  204   27   45  197    8    216   2e-53 Glutathione S-transferase
+tr|A0A1F4J489|A0A1F4J489_9BURK  204   28   47  198    8    215   2e-53 Glutathione S-transferase
+tr|A0A1F4JWH8|A0A1F4JWH8_9BURK  202   26   47  198    6    232   1e-58 Glutathione S-transferase
+tr|A0A1F4KL64|A0A1F4KL64_9BURK  204   29   45  197    8    219   1e-54 Glutathione S-transferase
+tr|A0A1F4LI05|A0A1F4LI05_9BURK  204   27   45  197    8    229   2e-57 Glutathione S-transferase
+tr|A0A1F4MRY9|A0A1F4MRY9_9BURK  206   28   46  197    8    230   8e-58 Glutathione S-transferase
+tr|A0A1F4NGW6|A0A1F4NGW6_9BURK  205   27   41  197    8    204   4e-50 Glutathione S-transferase
+tr|A0A1F8VD99|A0A1F8VD99_9BURK  204   30   45  197    8    221   5e-55 Glutathione S-transferase
+tr|A0A1F8VN93|A0A1F8VN93_9BURK  204   28   44  196    8    219   2e-54 Glutathione S-transferase
+tr|A0A1G0NBZ6|A0A1G0NBZ6_9PROT  202   28   44  196    7    203   1e-49 Glutathione S-transferase
+tr|A0A1G1AM11|A0A1G1AM11_9PROT  201   30   45  197    4    218   3e-54 Glutathione S-transferase
+tr|A0A1G3CT78|A0A1G3CT78_9BURK  204   30   47  197    6    220   8e-55 Glutathione S-transferase
+tr|A0A1G3FBI1|A0A1G3FBI1_9GAMM  209   32   45  198    5    204   4e-50 Glutathione S-transferase
+tr|A0A1G3FLY8|A0A1G3FLY8_9RHOB  203   27   43  198    3    202   1e-49 Glutathione S-transferase
+tr|A0A1G3FWR4|A0A1G3FWR4_9RHOB  203   27   43  198    3    202   1e-49 Glutathione S-transferase
+tr|A0A1G3H7H2|A0A1G3H7H2_9RHOO  202   28   43  197    7    216   1e-53 Glutathione S-transferase
+tr|A0A1G3HM92|A0A1G3HM92_9RHOO  202   27   44  197    7    225   2e-56 Glutathione S-transferase
+tr|A0A1G3HT97|A0A1G3HT97_9RHOO  203   27   40  196    7    223   1e-55 Glutathione S-transferase
+tr|A0A1G3YBC4|A0A1G3YBC4_9PROT  202   27   44  196    7    205   2e-50 Glutathione S-transferase
+tr|A0A1G4WEK8|A0A1G4WEK8_9PROT  204   26   44  195    9    205   2e-50 Glutathione S-transferase
+tr|A0A1G5NGQ0|A0A1G5NGQ0_BURVI  203   25   46  198    6    227   4e-57 Glutathione S-transferase
+tr|A0A1G6F765|A0A1G6F765_PSEPU  209   28   45  199    5    203   7e-50 Glutathione S-transferase
+tr|A0A1G6W7I0|A0A1G6W7I0_9PSED  209   29   44  199    5    202   3e-49 Glutathione S-transferase
+tr|A0A1H0EFF8|A0A1H0EFF8_POLSJ  205   27   45  197    8    222   2e-55 Glutathione S-transferase
+tr|A0A1H1E6U0|A0A1H1E6U0_9BURK  204   27   45  197    6    221   5e-55 Glutathione S-transferase
+tr|A0A1H1FFD4|A0A1H1FFD4_9PROT  202   27   42  196    7    212   2e-52 Glutathione S-transferase
+tr|A0A1H1Q0L1|A0A1H1Q0L1_9PSED  209   32   46  198    5    203   1e-49 Glutathione S-transferase
+tr|A0A1H2ATK5|A0A1H2ATK5_PSECE  209   33   44  198    5    207   5e-51 Glutathione S-transferase
+tr|A0A1H2BHT0|A0A1H2BHT0_9PSED  209   30   45  199    5    202   2e-49 Glutathione S-transferase
+tr|A0A1H2H921|A0A1H2H921_9PSED  209   33   45  198    5    203   1e-49 Glutathione S-transferase
+tr|A0A1H2I4P7|A0A1H2I4P7_9PSED  209   29   43  199    5    202   2e-49 Glutathione S-transferase
+tr|A0A1H2NNL0|A0A1H2NNL0_9PSED  209   28   43  198    5    203   8e-50 Glutathione S-transferase
+tr|A0A1H2NZP3|A0A1H2NZP3_9PSED  209   30   44  198    5    204   5e-50 Glutathione S-transferase
+tr|A0A1H3FCX2|A0A1H3FCX2_9BURK  206   28   42  197    8    210   1e-51 Glutathione S-transferase
+tr|A0A1H5VXS1|A0A1H5VXS1_9RHIZ  201   28   41  196    8    208   3e-51 Glutathione S-transferase
+tr|A0A1H5WTW0|A0A1H5WTW0_9BURK  203   25   42  197    8    215   3e-53 Glutathione S-transferase
+tr|A0A1H6AGH9|A0A1H6AGH9_9BURK  202   24   39  196    7    204   5e-50 Glutathione S-transferase
+tr|A0A1H6ARP4|A0A1H6ARP4_9RHOB  201   26   43  198    4    206   1e-50 Glutathione S-transferase
+tr|A0A1H6HD66|A0A1H6HD66_PHAFV  201   28   44  197    4    212   2e-52 Glutathione S-transferase
+tr|A0A1H8EL12|A0A1H8EL12_9PROT  202   26   43  197    7    216   2e-53 Glutathione S-transferase
+tr|A0A1H9Y7M9|A0A1H9Y7M9_9PROT  202   26   43  197    7    219   2e-54 Glutathione S-transferase
+tr|A0A1I0B064|A0A1I0B064_NITER  204   27   44  194    9    212   2e-52 Glutathione S-transferase
+tr|A0A1I1CMQ1|A0A1I1CMQ1_9BURK  206   27   41  197    8    208   3e-51 Glutathione S-transferase
+tr|A0A1I4R9B2|A0A1I4R9B2_9PROT  205   28   43  197   10    204   4e-50 Glutathione S-transferase
+tr|A0A1I5CTY7|A0A1I5CTY7_9PROT  202   28   42  196    7    211   4e-52 Glutathione S-transferase
+tr|A0A1I7FKF3|A0A1I7FKF3_9BURK  206   29   47  197    9    227   8e-57 Glutathione S-transferase
+tr|A0A1I7H5T3|A0A1I7H5T3_9PROT  204   26   44  195    9    210   7e-52 Glutathione S-transferase
+tr|A0A1I7HBW4|A0A1I7HBW4_9PROT  202   26   43  196    7    217   6e-54 Glutathione S-transferase
+tr|A0A1I9Y4U8|A0A1I9Y4U8_9BURK  204   29   45  198    8    227   4e-57 Glutathione S-transferase
+tr|A0A1I9YK32|A0A1I9YK32_9BURK  204   26   44  198    6    217   4e-54 Glutathione S-transferase
+tr|A0A1J0D905|A0A1J0D905_9BURK  204   28   45  197    6    217   5e-54 Glutathione S-transferase
+tr|A0A1J4S1H5|A0A1J4S1H5_9BURK  204   28   45  197    8    213   1e-52 Glutathione S-transferase
+tr|A0A1J5B9P4|A0A1J5B9P4_9PROT  203   27   43  196    7    217   7e-54 Glutathione S-transferase
+tr|A0A1J5BWK5|A0A1J5BWK5_9BURK  204   29   46  197    8    215   3e-53 Glutathione S-transferase
+tr|A0A1J5CFL3|A0A1J5CFL3_9BURK  204   28   45  197    8    213   9e-53 Glutathione S-transferase
+tr|A0A1J5CQ14|A0A1J5CQ14_9BURK  204   28   46  197    8    215   3e-53 Glutathione S-transferase
+tr|A0A1J5Q268|A0A1J5Q268_9ZZZZ  204   34   50  197    6    216   2e-53 Putative GST-like protein
+tr|A0A1J5Q9V7|A0A1J5Q9V7_9ZZZZ  206   27   46  197    8    223   8e-56 Putative GST-like protein
+tr|A0A1J5QGT0|A0A1J5QGT0_9ZZZZ  206   28   46  197    8    217   5e-54 Putative GST-like protein
+tr|A0A1J5R0T6|A0A1J5R0T6_9ZZZZ  206   26   43  197    8    222   2e-55 Putative GST-like protein
+tr|A0A1J5S696|A0A1J5S696_9ZZZZ  202   30   44  197    7    231   4e-58 Putative GST-like protein
+tr|A0A1J5SHK9|A0A1J5SHK9_9ZZZZ  202   31   45  199    3    205   2e-50 Putative GST-like protein
+tr|A0A1K0JMQ7|A0A1K0JMQ7_CUPNE  204   27   47  197    6    211   3e-52 Uncharacterized GST-like 
+tr|A0A1K1LMD4|A0A1K1LMD4_9PROT  201   26   43  197    7    207   5e-51 Glutathione S-transferase
+tr|A0A1K1MEB9|A0A1K1MEB9_9BURK  203   25   47  198    6    228   3e-57 Glutathione S-transferase
+tr|A0A1K1ZUI9|A0A1K1ZUI9_9PSED  209   33   43  198    5    206   1e-50 Glutathione S-transferase
+tr|A0A1K2HN90|A0A1K2HN90_9BURK  202   29   46  197    7    219   2e-54 Glutathione S-transferase
+tr|A0A1L1PTE2|A0A1L1PTE2_HYDIT  205   26   45  197    8    212   2e-52 Glutathione S-transferase
+tr|A0A1L3DB31|A0A1L3DB31_RALSL  202   29   46  198    6    224   6e-56 Glutathione S-transferase
+tr|A0A1L5PM99|A0A1L5PM99_9PSED  207   30   43  197    7    208   3e-51 Glutathione S-transferase
+tr|A0A1L6I0B2|A0A1L6I0B2_9BURK  203   25   48  196    6    229   2e-57 Glutathione S-transferase
+tr|A0A1L6YB67|A0A1L6YB67_9RHIZ  201   28   42  196    8    208   3e-51 Stress Response OS=Methyl
+tr|A0A1L7N646|A0A1L7N646_PSEPU  207   31   45  197    7    207   6e-51 Glutathione S-transferase
+tr|A0A1L9GPS1|A0A1L9GPS1_9BURK  204   28   46  197    6    215   2e-53 Glutathione S-transferase
+tr|A0A1M3BXV3|A0A1M3BXV3_9BURK  206   27   44  197    8    213   1e-52 Glutathione S-transferase
+tr|A0A1M3HL00|A0A1M3HL00_9PROT  202   27   44  196    7    205   2e-50 Glutathione S-transferase
+tr|A0A1M3JSA8|A0A1M3JSA8_9BURK  205   27   46  197    8    225   2e-56 Glutathione S-transferase
+tr|A0A1M3JV07|A0A1M3JV07_9BURK  206   28   46  197    9    222   1e-55 Glutathione S-transferase
+tr|A0A1M3LM54|A0A1M3LM54_9PROT  201   29   45  198    4    206   9e-51 Glutathione S-transferase
+tr|A0A1M5C2C0|A0A1M5C2C0_9RHOB  204   25   41  199    2    203   1e-49 Glutathione S-transferase
+tr|A0A1M5NM27|A0A1M5NM27_9BURK  204   26   44  197    6    223   1e-55 Glutathione S-transferase
+tr|A0A1M5NVZ9|A0A1M5NVZ9_9RHOB  214   27   48  197    6    201   3e-49 Glutathione S-transferase
+tr|A0A1M5TZF2|A0A1M5TZF2_9BURK  202   29   46  198    6    232   2e-58 Glutathione S-transferase
+tr|A0A1M6PAU3|A0A1M6PAU3_9BURK  204   26   45  197    6    222   2e-55 Glutathione S-transferase
+tr|A0A1M7BH68|A0A1M7BH68_9PROT  202   29   43  196    7    219   1e-54 Glutathione S-transferase
+tr|A0A1M7Q0P7|A0A1M7Q0P7_9BURK  202   30   50  198    6    226   1e-56 Glutathione S-transferase
+tr|A0A1M7QS43|A0A1M7QS43_9BURK  205   27   43  196    9    222   2e-55 Glutathione S-transferase
+tr|A0A1M9CGN8|A0A1M9CGN8_9MYCO  203   26   43  196    7    222   2e-55 Stringent starvation prot
+tr|A0A1N6E060|A0A1N6E060_9BURK  204   25   44  197    6    219   2e-54 Glutathione S-transferase
+tr|A0A1N6HVP9|A0A1N6HVP9_9BURK  204   25   44  197    6    217   6e-54 Glutathione S-transferase
+tr|A0A1N6JX80|A0A1N6JX80_9RHOB  201   29   44  197    4    207   6e-51 Glutathione S-transferase
+tr|A0A1N6LID9|A0A1N6LID9_9BURK  204   24   43  197    6    218   2e-54 Glutathione S-transferase
+tr|A0A1N6P136|A0A1N6P136_PSEAC  205   29   44  198    6    206   1e-50 Glutathione S-transferase
+tr|A0A1N6RP71|A0A1N6RP71_9BURK  204   29   44  197    8    223   8e-56 Glutathione S-transferase
+tr|A0A1N7BM07|A0A1N7BM07_9PSED  209   30   45  199    5    202   2e-49 Glutathione S-transferase
+tr|A0A1N7DIQ7|A0A1N7DIQ7_9BURK  204   28   44  198    8    230   9e-58 Glutathione S-transferase
+tr|A0A1N7ECM7|A0A1N7ECM7_9RHOB  200   29   45  198    4    210   8e-52 Glutathione S-transferase
+tr|A0A1N7NIM6|A0A1N7NIM6_9RHOB  202   30   41  198    4    212   2e-52 Glutathione S-transferase
+tr|A0A1N7PZ70|A0A1N7PZ70_9BURK  199   25   43  197    4    202   1e-49 Glutathione S-transferase
+tr|A0A1N7QWK5|A0A1N7QWK5_9BURK  203   26   45  197    7    228   3e-57 Glutathione S-transferase
+tr|A0A1N7SA58|A0A1N7SA58_9BURK  204   26   45  197    6    218   3e-54 Glutathione S-transferase
+tr|A0A1N7SUS1|A0A1N7SUS1_9BURK  202   27   45  196    6    223   8e-56 Uncharacterized GST-like 
+tr|A0A1N7UA78|A0A1N7UA78_9PSED  209   31   44  198    5    202   2e-49 Glutathione S-transferase
+tr|A0A1P8K2M3|A0A1P8K2M3_9BURK  204   26   45  197    8    210   7e-52 Glutathione S-transferase
+tr|A0A1P8KEM9|A0A1P8KEM9_9BURK  204   29   46  197    8    215   3e-53 Glutathione S-transferase
+tr|A0A1P8MY57|A0A1P8MY57_9RHOB  200   29   41  197    5    202   2e-49 Glutathione S-transferase
+tr|A0A1P8QRJ1|A0A1P8QRJ1_METEX  203   29   42  196    7    204   5e-50 Glutathione S-transferase
+tr|A0A1P9XRN4|A0A1P9XRN4_9BURK  203   25   46  197    6    234   6e-59 Glutathione S-transferase
+tr|A0A1Q3HZ79|A0A1Q3HZ79_9PSED  209   30   45  199    5    204   6e-50 Glutathione S-transferase
+tr|A0A1Q3J2W7|A0A1Q3J2W7_9BURK  199   26   44  193    8    208   4e-51 Glutathione S-transferase
+tr|A0A1Q3KDH3|A0A1Q3KDH3_9PROT  200   29   45  197    6    205   2e-50 Glutathione S-transferase
+tr|A0A1Q3KLB1|A0A1Q3KLB1_9PROT  203   30   46  196    7    203   1e-49 Glutathione S-transferase
+tr|A0A1Q3R6A9|A0A1Q3R6A9_9BURK  206   27   42  197   10    205   2e-50 Glutathione S-transferase
+tr|A0A1Q3R8K4|A0A1Q3R8K4_9BURK  204   26   45  197    8    212   2e-52 Glutathione S-transferase
+tr|A0A1Q3VUL0|A0A1Q3VUL0_9PROT  202   30   45  197    7    228   2e-57 Glutathione S-transferase
+tr|A0A1Q3XLP0|A0A1Q3XLP0_9BURK  204   26   43  197    8    212   1e-52 Glutathione S-transferase
+tr|A0A1Q3XMR7|A0A1Q3XMR7_9BURK  204   26   43  197    6    220   8e-55 Glutathione S-transferase
+tr|A0A1Q3YC44|A0A1Q3YC44_9PROT  202   27   44  196    7    205   2e-50 Glutathione S-transferase
+tr|A0A1Q3YEF8|A0A1Q3YEF8_9BURK  206   28   44  197    8    213   9e-53 Glutathione S-transferase
+tr|A0A1Q3YL21|A0A1Q3YL21_9BURK  202   25   46  198    6    218   3e-54 Glutathione S-transferase
+tr|A0A1Q4C115|A0A1Q4C115_9PROT  203   26   42  196    7    206   9e-51 Glutathione S-transferase
+tr|A0A1Q4CIE8|A0A1Q4CIE8_9BURK  203   28   45  197    6    231   5e-58 Glutathione S-transferase
+tr|A0A1Q4EFQ1|A0A1Q4EFQ1_9PROT  204   28   44  196    9    205   2e-50 Glutathione S-transferase
+tr|A0A1Q4G5K8|A0A1Q4G5K8_9PROT  204   26   46  196    9    202   2e-49 Glutathione S-transferase
+tr|A0A1Q4LL24|A0A1Q4LL24_RALSL  202   29   45  197    6    221   4e-55 Glutathione S-transferase
+tr|A0A1Q5SBZ3|A0A1Q5SBZ3_9BRAD  203   26   41  195    7    202   2e-49 Glutathione S-transferase
+tr|A0A1Q5WV88|A0A1Q5WV88_PSEFL  209   33   45  198    5    205   2e-50 Glutathione S-transferase
+tr|A0A1Q7IWJ0|A0A1Q7IWJ0_9PROT  203   30   41  196    7    222   2e-55 Glutathione S-transferase
+tr|A0A1Q8IT10|A0A1Q8IT10_9BURK  206   26   44  197    6    221   4e-55 Glutathione S-transferase
+tr|A0A1Q8YIG5|A0A1Q8YIG5_9BURK  205   28   45  197    8    209   2e-51 Glutathione S-transferase
+tr|A0A1Q9RAV0|A0A1Q9RAV0_PSEPU  206   29   45  198    5    207   4e-51 Uncharacterized protein  
+tr|A0A1Q9XFC8|A0A1Q9XFC8_ALCXX  199   25   43  197    4    210   9e-52 Glutathione S-transferase
+tr|A0A1R0HDU6|A0A1R0HDU6_9BURK  204   28   47  197    6    219   2e-54 Glutathione S-transferase
+tr|A0A1R0MBT7|A0A1R0MBT7_9NEIS  203   30   45  196    7    227   4e-57 Glutathione S-transferase
+tr|A0A1R0MXX9|A0A1R0MXX9_9NEIS  203   31   46  196    7    222   2e-55 Glutathione S-transferase
+tr|A0A1R1I050|A0A1R1I050_9RHOO  202   28   43  197    7    221   3e-55 Glutathione S-transferase
+tr|A0A1R1JUT5|A0A1R1JUT5_ALCXX  203   26   45  197    7    228   2e-57 Glutathione S-transferase
+tr|A0A1R1K090|A0A1R1K090_ALCXX  201   28   44  198    4    207   8e-51 Glutathione S-transferase
+tr|A0A1R3VVE5|A0A1R3VVE5_9BURK  203   24   45  198    6    216   1e-53 Glutathione S-transferase
+tr|A0A1R3WL79|A0A1R3WL79_9BURK  203   24   45  198    6    214   3e-53 Glutathione S-transferase
+tr|A0A1S1UDV3|A0A1S1UDV3_9BURK  204   29   44  198    8    230   9e-58 Glutathione S-transferase
+tr|A0A1S1UZW9|A0A1S1UZW9_9PSED  209   29   43  198    5    206   1e-50 Glutathione S-transferase
+tr|A0A1S1X2A9|A0A1S1X2A9_9NEIS  203   30   45  196    7    223   1e-55 Glutathione S-transferase
+tr|A0A1S1XBQ8|A0A1S1XBQ8_9NEIS  203   28   44  196    7    222   3e-55 Glutathione S-transferase
+tr|A0A1S2NCB7|A0A1S2NCB7_9BURK  204   29   45  197    6    222   2e-55 Uncharacterized protein O
+tr|A0A1S2UXE7|A0A1S2UXE7_9PSED  209   31   44  198    5    207   6e-51 Glutathione S-transferase
+tr|A0A1S6FD96|A0A1S6FD96_9BURK  204   28   45  198    8    228   2e-57 Glutathione S-transferase
+tr|A0A1S8FMX5|A0A1S8FMX5_9BURK  208   28   45  197   12    218   4e-54 Glutathione S-transferase
+tr|A0A1S8FUI8|A0A1S8FUI8_9BURK  204   27   45  197    8    219   2e-54 Glutathione S-transferase
+tr|A0A1S8HAL5|A0A1S8HAL5_9PSED  209   29   43  199    5    202   2e-49 Glutathione S-transferase
+tr|A0A1S9AA61|A0A1S9AA61_9BURK  204   29   43  197    6    231   3e-58 Glutathione S-transferase
+tr|A0A1T1AST1|A0A1T1AST1_RHOFE  204   28   44  197    8    220   7e-55 Glutathione S-transferase
+tr|A0A1T2XRU0|A0A1T2XRU0_PSEFL  209   31   44  198    5    201   3e-49 Glutathione S-transferase
+tr|A0A1T2YWI2|A0A1T2YWI2_PSEFL  209   30   43  199    5    202   2e-49 Glutathione S-transferase
+tr|A0A1T3A9U8|A0A1T3A9U8_PSEFL  209   32   44  198    5    204   6e-50 Glutathione S-transferase
+tr|A0A1T4QLN4|A0A1T4QLN4_9PROT  206   32   48  196    7    207   7e-51 Glutathione S-transferase
+tr|A0A1U9JM18|A0A1U9JM18_9NEIS  203   27   45  196    7    214   4e-53 Glutathione S-transferase
+tr|A0A1U9K2P8|A0A1U9K2P8_9BURK  208   29   43  198    7    212   1e-52 Glutathione S-transferase
+tr|A0A1U9M1C5|A0A1U9M1C5_9PSED  209   33   43  198    5    206   1e-50 Glutathione S-transferase
+tr|A0A1U9MUJ3|A0A1U9MUJ3_9BURK  204   27   47  197    6    223   7e-56 Glutathione S-transferase
+tr|A0A1U9Q4P4|A0A1U9Q4P4_PSEAZ  209   31   45  198    5    202   1e-49 Glutathione S-transferase
+tr|A0A1U9UTL8|A0A1U9UTL8_CUPNE  204   27   46  197    6    208   2e-51 Glutathione S-transferase
+tr|A0A1U9VK48|A0A1U9VK48_9RALS  202   30   47  198    6    227   5e-57 Glutathione S-transferase
+tr|A0A1V0ERC4|A0A1V0ERC4_PSETO  209   32   44  198    5    207   7e-51 Glutathione S-transferase
+tr|A0A1V0WA51|A0A1V0WA51_9BURK  203   26   47  198    6    232   2e-58 Glutathione S-transferase
+tr|A0A1V1ZZZ3|A0A1V1ZZZ3_9BURK  203   27   46  197    7    227   4e-57 Glutathione S-transferase
+tr|A0A1V2A0U5|A0A1V2A0U5_9BURK  199   25   43  197    4    203   8e-50 Glutathione S-transferase
+tr|A0A1V2K2H2|A0A1V2K2H2_PSECE  209   33   44  198    5    207   5e-51 Glutathione S-transferase
+tr|A0A1V2VG67|A0A1V2VG67_9BURK  204   27   45  198    6    222   2e-55 Glutathione S-transferase
+tr|A0A1V3SK12|A0A1V3SK12_9BURK  204   28   46  197    8    217   8e-54 Glutathione S-transferase
+tr|A0A1V3T2F8|A0A1V3T2F8_9PSED  209   29   44  199    5    205   3e-50 Glutathione S-transferase
+tr|A0A1V4CJD1|A0A1V4CJD1_9BURK  204   28   45  197    8    211   4e-52 Glutathione S-transferase
+tr|A0A1V5QWL0|A0A1V5QWL0_9PROT  202   29   46  196    7    228   2e-57 Putative GST-like protein
+tr|A0A1V6FMW1|A0A1V6FMW1_9PROT  205   28   47  197    8    211   4e-52 Putative GST-like protein
+tr|A0A1W0BYD5|A0A1W0BYD5_CHRVL  203   30   45  196    7    227   4e-57 Glutathione S-transferase
+tr|A0A1W0CBS3|A0A1W0CBS3_9NEIS  203   29   46  196    7    216   2e-53 Glutathione S-transferase
+tr|A0A1W0CT55|A0A1W0CT55_9NEIS  203   29   47  196    7    211   5e-52 Glutathione S-transferase
+tr|A0A1W0DB42|A0A1W0DB42_9NEIS  203   29   47  196    7    212   2e-52 Glutathione S-transferase
+tr|A0A1W1XY33|A0A1W1XY33_9NEIS  204   30   46  196    7    225   2e-56 Glutathione S-transferase
+tr|A0A1W1YJ16|A0A1W1YJ16_9BURK  204   29   44  197    7    205   2e-50 Glutathione S-transferase
+tr|A0A1W2E4V2|A0A1W2E4V2_9PSED  207   30   44  197    7    210   6e-52 Glutathione S-transferase
+tr|A0A1W6CTJ2|A0A1W6CTJ2_9PROT  201   30   47  197    4    207   7e-51 Glutathione S-transferase
+tr|A0A1W6L3N2|A0A1W6L3N2_9BURK  204   27   47  196    9    208   3e-51 Glutathione S-transferase
+tr|A0A1W6RQ51|A0A1W6RQ51_9RHIZ  203   30   42  196    7    204   4e-50 Glutathione S-transferase
+tr|A0A1W6SSS3|A0A1W6SSS3_9PROT  202   27   42  196    7    209   2e-51 Glutathione S-transferase
+tr|A0A1W6Y864|A0A1W6Y864_9BORD  203   26   44  196    7    222   3e-55 Glutathione S-transferase
+tr|A0A1W6YN96|A0A1W6YN96_9BORD  204   28   46  196    7    216   1e-53 Glutathione S-transferase
+tr|A0A1W6YYL5|A0A1W6YYL5_9BORD  204   27   44  196    7    220   6e-55 Glutathione S-transferase
+tr|A0A1W6ZCT6|A0A1W6ZCT6_9BORD  200   30   45  198    4    211   5e-52 Glutathione S-transferase
+tr|A0A1W6ZDV6|A0A1W6ZDV6_9BORD  203   29   45  196    7    221   3e-55 Glutathione S-transferase
+tr|A0A1W7BCA4|A0A1W7BCA4_OXAFO  201   28   43  196    7    231   5e-58 Putative GST-like protein
+tr|A0A1W7DQM6|A0A1W7DQM6_OXAFO  202   28   43  196    7    230   6e-58 Glutathione S-transferase
+tr|A0A1W9JFE6|A0A1W9JFE6_9PROT  202   24   39  196    7    207   6e-51 Glutathione S-transferase
+tr|A0A1W9KTZ5|A0A1W9KTZ5_9BURK  204   28   45  197    8    217   7e-54 Glutathione S-transferase
+tr|A0A1X0MM04|A0A1X0MM04_9BURK  206   26   45  197    6    222   2e-55 Glutathione S-transferase
+tr|A0A1X0ZIN0|A0A1X0ZIN0_PSEPU  207   31   42  197    7    205   3e-50 Glutathione S-transferase
+tr|A0A1X0ZXI5|A0A1X0ZXI5_PSEPU  207   31   46  197    7    211   5e-52 Glutathione S-transferase
+tr|A0A1X1ACZ9|A0A1X1ACZ9_PSEPU  207   31   44  197    7    209   2e-51 Glutathione S-transferase
+tr|A0A1X1NY50|A0A1X1NY50_9PSED  204   30   45  197    7    213   1e-52 Glutathione S-transferase
+tr|A0A1X1PAW9|A0A1X1PAW9_9BURK  204   25   47  198    6    231   5e-58 Glutathione S-transferase
+tr|A0A1X7CBS6|A0A1X7CBS6_9BURK  226   23   46  196    6    222   2e-55 Glutathione S-transferase
+tr|A0A1X7FAA2|A0A1X7FAA2_9PSED  207   32   45  197    7    207   4e-51 Glutathione S-transferase
+tr|A0A1X7FK44|A0A1X7FK44_9PSED  209   31   44  198    5    204   6e-50 Glutathione S-transferase
+tr|A0A1X7FP97|A0A1X7FP97_9PSED  207   30   44  197    7    211   6e-52 Glutathione S-transferase
+tr|A0A1X7LUJ4|A0A1X7LUJ4_9BURK  204   25   44  196    6    219   2e-54 Glutathione S-transferase
+tr|A0A1Y0ESC4|A0A1Y0ESC4_9BURK  205   30   43  198    9    214   5e-53 Glutathione S-transferase
+tr|A0A1Y0NA63|A0A1Y0NA63_9BURK  204   27   44  197    8    214   5e-53 Putative GST-like protein
+tr|A0A1Y1BND2|A0A1Y1BND2_9BURK  203   25   48  198    6    227   6e-57 Glutathione S-transferase
+tr|A0A1Y1J6Y4|A0A1Y1J6Y4_COMTE  205   29   44  198    9    202   1e-49 Glutathione S-transferase
+tr|A0A1Y1PXD5|A0A1Y1PXD5_ALCFA  203   30   46  196    7    221   6e-55 Glutathione S-transferase
+tr|A0A1Y2Q6T6|A0A1Y2Q6T6_9BURK  204   27   47  197    8    223   1e-55 Glutathione S-transferase
+tr|A0A1Y2QSI4|A0A1Y2QSI4_9BURK  204   28   46  197    8    217   6e-54 Glutathione S-transferase
+tr|A0A1Y3L4Z1|A0A1Y3L4Z1_PSEPU  207   32   44  197    7    208   2e-51 Glutathione S-transferase
+tr|A0A1Y5E3D1|A0A1Y5E3D1_9PROT  202   28   44  197    4    209   2e-51 Uncharacterized protein  
+tr|A0A1Y5FMH2|A0A1Y5FMH2_9PROT  205   29   46  199    2    207   8e-51 Uncharacterized protein  
+tr|A0A1Y5KTW4|A0A1Y5KTW4_PSEPU  207   31   44  197    7    211   3e-52 Glutathione S-transferase
+tr|A0A1Y5R7C2|A0A1Y5R7C2_9RHOB  203   29   41  198    3    203   9e-50 Putative GST-like protein
+tr|A0A1Y6BDS5|A0A1Y6BDS5_9NEIS  203   30   46  196    7    226   2e-56 Glutathione S-transferase
+tr|A0A1Y9SMT4|A0A1Y9SMT4_9BURK  203   25   47  198    6    222   2e-55 Glutathione S-transferase
+tr|A0A1Z3J3C0|A0A1Z3J3C0_ALCFA  203   30   46  196    7    221   4e-55 Glutathione S-transferase
+tr|A0A212QPP8|A0A212QPP8_9PSED  207   31   43  198    7    206   1e-50 Glutathione S-transferase
+tr|A1TW65|A1TW65_ACIAC        204   25   44  197    8    221   5e-55 Glutathione S-transferase
+tr|A1VU81|A1VU81_POLNA        204   27   43  194    8    210   7e-52 Glutathione S-transferase
+tr|A1WD04|A1WD04_ACISJ        204   27   45  197    8    216   1e-53 Glutathione S-transferase
+tr|A1WH24|A1WH24_VEREI        206   27   44  198    8    212   1e-52 Glutathione S-transferase
+tr|A2S5A3|A2S5A3_BURM9        203   25   46  198    6    222   1e-55 Glutathione S-transferase
+tr|A2SLY7|A2SLY7_METPP        206   28   46  197    8    219   1e-54 Putative glutathione S-tr
+tr|A2VSU7|A2VSU7_9BURK        209   27   47  197    6    224   6e-56 Glutathione S-transferase
+tr|A2WCL0|A2WCL0_9BURK        204   24   47  198    6    224   6e-56 Glutathione S-transferase
+tr|A3JXD0|A3JXD0_9RHOB        201   26   40  197    4    203   8e-50 Glutathione S-transferase
+tr|A3NDE6|A3NDE6_BURP6        203   25   46  198    6    222   1e-55 Glutathione S-transferase
+tr|A3NZ58|A3NZ58_BURP0        203   25   46  198    6    222   1e-55 Glutathione S-transferase
+tr|A4G202|A4G202_HERAR        202   25   44  198    6    228   4e-57 Putative glutathione S-tr
+tr|A4JBM0|A4JBM0_BURVG        203   25   46  198    6    227   4e-57 Glutathione S-transferase
+tr|A4SZU4|A4SZU4_POLAQ        221   28   45  197    6    218   3e-54 Glutathione S-transferase
+tr|A4TYA8|A4TYA8_9PROT        201   29   45  198    4    206   1e-50 Glutathione S-transferase
+tr|A4XNT4|A4XNT4_PSEMY        201   32   46  197    5    214   5e-53 Glutathione S-transferase
+tr|A5VXC3|A5VXC3_PSEP1        207   31   44  197    7    208   2e-51 Glutathione S-transferase
+tr|A6GPT9|A6GPT9_9BURK        203   25   46  198    7    203   9e-50 Glutathione S-transferase
+tr|A6SUV3|A6SUV3_JANMA        203   26   43  197    6    227   5e-57 Glutathione S-transferase
+tr|A8EI77|A8EI77_BURPE        203   25   46  198    6    222   1e-55 Glutathione S-transferase
+tr|A9BQ87|A9BQ87_DELAS        206   27   41  197    8    206   1e-50 Glutathione S-transferase
+tr|A9IQJ8|A9IQJ8_BORPD        258   25   44  196    7    224   4e-56 Putative glutathione S-tr
+tr|A9W7R6|A9W7R6_METEP        203   29   42  196    7    202   1e-49 Glutathione S-transferase
+tr|B0KJ24|B0KJ24_PSEPG        207   32   45  197    7    212   2e-52 Glutathione S-transferase
+tr|B0U902|B0U902_METS4        200   33   44  197    4    207   7e-51 Glutathione S-transferase
+tr|B1FFA5|B1FFA5_9BURK        203   26   47  197    6    224   5e-56 Glutathione S-transferase
+tr|B1G200|B1G200_9BURK        204   25   45  197    6    219   1e-54 Glutathione S-transferase
+tr|B1HB72|B1HB72_BURPE        203   25   46  198    6    222   1e-55 Glutathione S-transferase
+tr|B1JE83|B1JE83_PSEPW        207   30   43  197    7    206   1e-50 Glutathione S-transferase
+tr|B1JVW1|B1JVW1_BURCC        205   27   47  197    6    223   8e-56 Glutathione S-transferase
+tr|B1M5E9|B1M5E9_METRJ        201   28   41  196    8    209   2e-51 Glutathione S-transferase
+tr|B1T8H8|B1T8H8_9BURK        203   26   47  198    6    222   1e-55 Glutathione S-transferase
+tr|B1XRW5|B1XRW5_POLNS        210   28   44  197    6    224   5e-56 Glutathione S-transferase
+tr|B1XW67|B1XW67_LEPCP        206   28   45  197    8    209   2e-51 Glutathione S-transferase
+tr|B1YTE7|B1YTE7_BURA4        203   25   46  197    6    222   2e-55 Glutathione S-transferase
+tr|B2IGM6|B2IGM6_BEII9        199   32   45  193    6    204   4e-50 Glutathione S-transferase
+tr|B2JGT6|B2JGT6_PARP8        202   25   45  195    6    224   6e-56 Glutathione S-transferase
+tr|B2SYJ2|B2SYJ2_PARPJ        204   25   43  197    6    223   1e-55 Glutathione S-transferase
+tr|B2UC83|B2UC83_RALPJ        202   30   47  198    6    222   2e-55 Glutathione S-transferase
+tr|B3R6P9|B3R6P9_CUPTR        204   28   47  197    6    213   8e-53 Putative glutathione S-tr
+tr|B4EE52|B4EE52_BURCJ        203   26   47  198    6    232   2e-58 Putative glutathione S-tr
+tr|B5WHS2|B5WHS2_9BURK        203   27   44  197    6    224   5e-56 Glutathione S-transferase
+tr|B6IWW4|B6IWW4_RHOCS        203   31   49  198    3    212   2e-52 Glutathione S-transferase
+tr|B7KX52|B7KX52_METC4        203   30   42  196    7    204   5e-50 Glutathione S-transferase
+tr|B7RMK5|B7RMK5_9RHOB        203   28   40  198    3    204   5e-50 Glutathione S-transferase
+tr|B7X280|B7X280_COMTK        205   28   43  198    9    203   9e-50 Glutathione S-transferase
+tr|B8IKB7|B8IKB7_METNO        200   33   45  197    4    208   2e-51 Glutathione S-transferase
+tr|B9BCZ9|B9BCZ9_9BURK        203   25   46  198    6    230   9e-58 Glutathione S-transferase
+tr|B9C0F6|B9C0F6_9BURK        203   25   46  198    6    230   9e-58 Glutathione S-transferase
+tr|B9MHU3|B9MHU3_ACIET        204   27   45  197    8    214   6e-53 Glutathione S-transferase
+tr|B9Z1J5|B9Z1J5_9NEIS        203   29   46  196    7    226   1e-56 Glutathione S-transferase
+tr|C1DD29|C1DD29_LARHH        202   31   48  195    8    202   1e-49 Probable glutathione S-tr
+tr|C3K386|C3K386_PSEFS        204   32   45  198    5    202   2e-49 Putative glutathione S-tr
+tr|C3X561|C3X561_OXAFO        201   26   40  197    7    228   3e-57 Uncharacterized protein O
+tr|C3XBD6|C3XBD6_OXAFO        201   28   43  196    7    231   5e-58 Glutathione S-transferase
+tr|C4AT93|C4AT93_BURML        203   25   46  198    6    222   1e-55 Glutathione S-transferase
+tr|C4KUM9|C4KUM9_BURPE        203   25   46  198    6    222   1e-55 Glutathione S-transferase
+tr|C5AB37|C5AB37_BURGB        204   29   47  198    6    226   1e-56 Glutathione S-transferase
+tr|C5AZ79|C5AZ79_METEA        203   29   42  196    7    204   5e-50 Putative glutathione S-tr
+tr|C5CR92|C5CR92_VARPS        203   26   44  197    8    213   1e-52 Glutathione S-transferase
+tr|C5T410|C5T410_ACIDE        204   27   47  197    8    219   1e-54 Glutathione S-transferase
+tr|C6BDP1|C6BDP1_RALP1        202   29   47  198    6    220   6e-55 Glutathione S-transferase
+tr|C6X9P0|C6X9P0_METGS        203   26   43  196    7    221   4e-55 Glutathione S-transferase
+tr|C7CDX0|C7CDX0_METED        203   29   42  196    7    204   5e-50 Putative glutathione S-tr
+tr|C7RRY8|C7RRY8_ACCPU        202   30   45  197    7    227   6e-57 Glutathione S-transferase
+tr|C9YD32|C9YD32_9BURK        204   27   44  197    8    213   7e-53 Uncharacterized protein O
+tr|D0IY99|D0IY99_COMT2        205   28   44  198    9    203   1e-49 Glutathione S-transferase
+tr|D0LY28|D0LY28_HALO1        203   32   44  197    6    217   5e-54 Glutathione S-transferase
+tr|D4X3X3|D4X3X3_9BURK        202   29   46  196    7    204   5e-50 Glutathione S-transferase
+tr|D4XA43|D4XA43_9BURK        203   26   45  197    7    222   1e-55 Glutathione S-transferase
+tr|D5WD26|D5WD26_BURSC        203   26   45  198    6    227   8e-57 Glutathione S-transferase
+tr|D5X308|D5X308_THIK1        206   26   46  197    8    220   9e-55 Glutathione S-transferase
+tr|D6CQH8|D6CQH8_THIA3        206   28   47  197    8    225   3e-56 Putative Glutathione S-tr
+tr|D8D7H7|D8D7H7_COMTE        205   29   44  198    9    203   9e-50 Glutathione S-transferase
+tr|D8IZ86|D8IZ86_HERSS        204   25   44  198    6    221   4e-55 Glutathione S-transferase
+tr|D8N6U1|D8N6U1_RALSL        202   29   46  198    6    224   4e-56 Putative glutathione S-tr
+tr|D8NNY2|D8NNY2_RALSL        202   30   45  197    6    223   8e-56 Putative glutathione S-tr
+tr|D8NYM0|D8NYM0_RALSL        202   30   47  198    6    227   5e-57 Putative glutathione S-tr
+tr|E1T8V2|E1T8V2_BURSG        206   25   45  196    6    214   4e-53 Glutathione S-transferase
+tr|E3HFG6|E3HFG6_ACHXA        201   27   45  196    7    221   5e-55 Glutathione S-transferase
+tr|E3HVL3|E3HVL3_ACHXA        199   24   42  197    4    209   1e-51 Glutathione S-transferase
+tr|E6PJN2|E6PJN2_9ZZZZ        208   27   44  197    8    211   5e-52 Putative Glutathione S-tr
+tr|E6UYR4|E6UYR4_VARPE        203   25   43  197    8    213   1e-52 Glutathione S-transferase
+tr|E6V3A8|E6V3A8_VARPE        203   24   38  196    7    203   1e-49 Glutathione S-transferase
+tr|E8TX45|E8TX45_ALIDB        204   26   43  197    8    214   3e-53 Glutathione S-transferase
+tr|E8YPV6|E8YPV6_9BURK        204   25   44  197    6    222   3e-55 Glutathione S-transferase
+tr|F0FZW0|F0FZW0_9BURK        203   25   46  198    6    227   4e-57 Glutathione S-transferase
+tr|F0QAY9|F0QAY9_ACIAP        204   25   44  197    8    222   2e-55 Glutathione S-transferase
+tr|F1W154|F1W154_9BURK        202   29   47  198    6    224   5e-56 Glutathione S-transferase
+tr|F2L7Q5|F2L7Q5_BURGS        204   26   47  198    6    227   4e-57 Glutathione S-transferase
+tr|F3KWN8|F3KWN8_9BURK        204   27   43  197    8    215   2e-53 Glutathione S-transferase
+tr|F3LMP3|F3LMP3_9BURK        205   25   42  196    9    220   6e-55 Glutathione S-transferase
+tr|F4GAV1|F4GAV1_ALIDK        204   26   43  197    8    214   3e-53 Glutathione S-transferase
+tr|F4GW54|F4GW54_PUSST        229   27   43  197    6    226   1e-56 Putative glutathione S-tr
+tr|F5Y271|F5Y271_RAMTT        204   27   44  197    8    222   2e-55 Glutathione S-transferase
+tr|F6AMU1|F6AMU1_DELSC        206   27   41  197    8    208   3e-51 Glutathione S-transferase
+tr|F6FYK0|F6FYK0_RALS8        580   30   46  197    6    221   3e-55 Glutathione s-transferase
+tr|F7SY61|F7SY61_9BURK        201   28   45  198    4    207   7e-51 Glutathione S-transferase
+tr|F7T4D7|F7T4D7_9BURK        203   26   45  197    7    226   1e-56 Glutathione S-transferase
+tr|F8FYF7|F8FYF7_PSEP6        207   31   45  197    7    207   8e-51 Glutathione S-transferase
+tr|G0AI20|G0AI20_COLFT        202   27   46  198    6    227   4e-57 Putative Glutathione S-tr
+tr|G0EVW6|G0EVW6_CUPNN        204   27   46  197    6    212   2e-52 Glutathione S-transferase
+tr|G2E6N3|G2E6N3_9GAMM        201   30   43  197    4    202   1e-49 Glutathione S-transferase
+tr|G2IYQ8|G2IYQ8_PSEUL        203   29   46  196    7    224   3e-56 Glutathione S-transferase
+tr|G2ZRC5|G2ZRC5_9RALS        202   30   47  198    6    227   5e-57 Putative glutathione S-tr
+tr|G3A1B2|G3A1B2_9RALS        202   30   47  198    6    226   2e-56 Putative glutathione S-tr
+tr|G4M7H8|G4M7H8_9BURK        222   26   47  197    6    226   1e-56 Glutathione S-transferase
+tr|G8ANV9|G8ANV9_AZOBR        349   32   48  196    5    206   1e-50 Uncharacterized protein O
+tr|G8M424|G8M424_9BURK        203   25   46  197    6    234   5e-59 Glutathione S-transferase
+tr|G8QJY3|G8QJY3_DECSP        202   28   44  197    7    225   2e-56 Glutathione S-transferase
+tr|H0BUS1|H0BUS1_9BURK        204   27   44  197    8    217   4e-54 Glutathione S-transferase
+tr|H0F9A2|H0F9A2_9BURK        203   27   45  197    7    226   1e-56 Glutathione S-transferase
+tr|H0FDA1|H0FDA1_9BURK        199   24   43  197    4    208   3e-51 Glutathione S-transferase
+tr|H1KLH0|H1KLH0_METEX        203   29   42  196    7    204   5e-50 Glutathione S-transferase
+tr|H1RJF8|H1RJF8_COMTE        205   29   44  198    9    203   1e-49 Glutathione S-transferase
+tr|H5WEZ7|H5WEZ7_RALSL        202   30   45  197    6    223   8e-56 Putative glutathione S-tr
+tr|H5WSH9|H5WSH9_9BURK        204   25   44  196    8    219   1e-54 Glutathione S-transferase
+tr|H8FQR7|H8FQR7_PHAMO        201   29   46  197    4    216   1e-53 Putative Glutathione S-tr
+tr|I0HXZ1|I0HXZ1_RUBGI        205   24   42  196    9    218   3e-54 Glutathione S transferase
+tr|I2DJZ6|I2DJZ6_9BURK        203   25   46  198    6    227   4e-57 Glutathione S-transferase
+tr|I2IG68|I2IG68_9BURK        206   25   43  197    6    220   7e-55 Glutathione S-transferase
+tr|I3CZ64|I3CZ64_9BURK        204   26   44  198    6    213   9e-53 Glutathione S-transferase
+tr|I3UWH7|I3UWH7_PSEPU        207   31   44  197    7    208   2e-51 Glutathione S-transferase
+tr|I4L9F0|I4L9F0_9PSED        209   31   43  198    5    207   8e-51 Glutathione S-transferase
+tr|I5CNG2|I5CNG2_9BURK        202   26   44  196    6    215   3e-53 Glutathione S-transferase
+tr|I7CBV5|I7CBV5_PSEPT        207   31   44  197    7    211   3e-52 Glutathione S-transferase
+tr|I9BUF3|I9BUF3_9RALS        204   29   45  197    6    219   1e-54 Putative glutathione S-tr
+tr|I9LLT9|I9LLT9_9RHIZ        201   28   41  197    6    204   5e-50 Glutathione S-transferase
+tr|J0UPA0|J0UPA0_ALCFA        203   31   46  196    7    216   1e-53 Glutathione S-transferase
+tr|J1EA12|J1EA12_9BURK        204   26   45  197    8    213   7e-53 Glutathione S-transferase
+tr|J2PI71|J2PI71_9PSED        209   28   44  199    5    204   6e-50 Glutathione S-transferase
+tr|J2ULZ7|J2ULZ7_9PSED        209   31   43  199    5    202   2e-49 Glutathione S-transferase
+tr|J2YFF0|J2YFF0_9PSED        209   29   45  199    5    205   3e-50 Glutathione S-transferase
+tr|J3C4F2|J3C4F2_9BURK        204   29   46  197    6    220   1e-54 Glutathione S-transferase
+tr|J3CW63|J3CW63_9BURK        203   25   43  197    8    215   2e-53 Glutathione S-transferase
+tr|J3D1B9|J3D1B9_9BURK        205   27   45  197    8    222   2e-55 Glutathione S-transferase
+tr|J3E7E9|J3E7E9_9PSED        209   29   44  199    5    204   6e-50 Glutathione S-transferase
+tr|J3FB78|J3FB78_9PSED        209   29   44  199    5    204   6e-50 Glutathione S-transferase
+tr|J3IUY3|J3IUY3_9PSED        207   30   45  197    7    207   8e-51 Glutathione S-transferase
+tr|J4QRH4|J4QRH4_9BURK        203   26   45  197    7    219   1e-54 Glutathione S-transferase
+tr|J4YBL6|J4YBL6_9BURK        199   24   43  196    6    212   2e-52 Glutathione S-transferase
+tr|J5C9Q9|J5C9Q9_9BURK        203   25   46  198    6    230   9e-58 Glutathione S-transferase
+tr|J7J5C6|J7J5C6_BURCE        203   25   48  198    6    227   4e-57 Glutathione S-transferase
+tr|J8UZJ0|J8UZJ0_PSEPU        207   31   45  197    7    208   4e-51 Glutathione S-transferase
+tr|K0DUW7|K0DUW7_9BURK        206   25   44  197    6    220   8e-55 Glutathione S-transferase
+tr|K0HYT4|K0HYT4_9BURK        204   27   44  197    8    221   5e-55 Glutathione S-transferase
+tr|K0MH78|K0MH78_BORPB        203   26   43  196    7    222   2e-55 Uncharacterized protein O
+tr|K0WLG7|K0WLG7_PSEFL        209   30   43  199    5    202   2e-49 Glutathione S-transferase
+tr|K1ZY90|K1ZY90_9ZZZZ        203   26   42  198    3    205   3e-50 Glutathione S-transferase
+tr|K2JTU8|K2JTU8_9PROT        203   27   38  197    6    213   8e-53 Glutathione S-transferase
+tr|K2P204|K2P204_9RHIZ        203   31   47  199    4    212   1e-52 Glutathione S-transferase
+tr|K8R782|K8R782_9BURK        202   26   47  197    6    232   2e-58 Glutathione S-transferase
+tr|K9E265|K9E265_9BURK        204   29   45  197    6    222   2e-55 Uncharacterized protein O
+tr|L0FDQ0|L0FDQ0_PSEPU        207   30   43  197    7    210   7e-52 Uncharacterized protein O
+tr|L1LVT8|L1LVT8_PSEPU        203   29   45  198    5    209   2e-51 Glutathione S-transferase
+tr|L2ENF1|L2ENF1_9BURK        204   29   48  197    6    204   4e-50 Glutathione S-transferase
+tr|L8MHH6|L8MHH6_PSEPS        207   28   41  196    6    204   5e-50 Glutathione S-transferase
+tr|L9PHR6|L9PHR6_9BURK        202   28   50  198    6    224   6e-56 Putative glutathione S-tr
+tr|M1SQQ1|M1SQQ1_9PROT        204   30   47  197    6    221   3e-55 Glutathione S-transferase
+tr|M2ZAW3|M2ZAW3_9PROT        201   31   47  197    4    207   7e-51 Glutathione S-transferase
+tr|M4UIZ0|M4UIZ0_RALSL        202   29   46  198    6    224   6e-56 Glutathione S-transferase
+tr|M7YUC3|M7YUC3_9RHIZ        201   31   42  197    6    210   9e-52 Glutathione S-transferase
+tr|N9UDM0|N9UDM0_PSEPU        207   31   44  197    7    211   3e-52 Glutathione S-transferase
+tr|Q0AIY4|Q0AIY4_NITEC        204   26   44  195    9    205   2e-50 Glutathione S-transferase
+tr|Q0BI75|Q0BI75_BURCM        204   26   47  197    6    224   4e-56 Glutathione S-transferase
+tr|Q0K721|Q0K721_CUPNH        204   28   47  197    6    212   1e-52 Glutathione S-transferase
+tr|Q122J8|Q122J8_POLSJ        204   28   45  197    8    218   3e-54 Glutathione S-transferase
+tr|Q13UC9|Q13UC9_PARXL        206   25   43  197    6    222   2e-55 Glutathione S-transferase
+tr|Q1GZF4|Q1GZF4_METFK        203   25   43  196    7    211   3e-52 Glutathione S-transferase
+tr|Q1I3K9|Q1I3K9_PSEE4        204   31   46  197    7    214   3e-53 Putative glutathione S-tr
+tr|Q1LJ46|Q1LJ46_CUPMC        204   29   48  197    6    205   2e-50 Glutathione S-transferase
+tr|Q21R55|Q21R55_RHOFT        204   27   45  197    8    219   2e-54 Glutathione S-transferase
+tr|Q2KZ75|Q2KZ75_BORA1        202   27   45  196    7    219   1e-54 Glutathione transferase O
+tr|Q2SZ47|Q2SZ47_BURTA        203   25   46  198    6    223   7e-56 Glutathione S-transferase
+tr|Q2Y6T7|Q2Y6T7_NITMU        202   26   43  197    7    219   2e-54 Glutathione S-transferase
+tr|Q39JI3|Q39JI3_BURL3        204   26   46  198    6    226   9e-57 Glutathione S-transferase
+tr|Q3JNT4|Q3JNT4_BURP1        202   25   46  198    6    223   1e-55 Glutathione S-transferase
+tr|Q3K5M5|Q3K5M5_PSEPF        221   29   45  199    5    202   1e-49 Putative glutathione S-tr
+tr|Q3SKI2|Q3SKI2_THIDA        202   27   44  196    7    204   4e-50 Probable glutathione S-tr
+tr|Q46XF2|Q46XF2_CUPNJ        204   27   47  197    6    207   6e-51 Glutathione S-transferase
+tr|Q47AW2|Q47AW2_DECAR        202   28   44  197    7    221   3e-55 Glutathione S-transferase
+tr|Q4K4R5|Q4K4R5_PSEF5        209   33   43  198    5    206   1e-50 Glutathione S-transferase
+tr|Q5LX57|Q5LX57_RUEPO        203   26   39  198    3    202   2e-49 Glutathione S-transferase
+tr|Q63QY3|Q63QY3_BURPS        202   25   46  198    6    223   1e-55 Putative glutathione S-tr
+tr|Q7NSW3|Q7NSW3_CHRVO        203   30   45  196    7    227   4e-57 Probable glutathione S-tr
+tr|Q7VV19|Q7VV19_BORPE        203   26   44  196    7    221   3e-55 Uncharacterized protein O
+tr|Q7W7L0|Q7W7L0_BORPA        203   26   43  196    7    222   2e-55 Uncharacterized protein O
+tr|Q82TE5|Q82TE5_NITEU        204   27   44  194    9    212   2e-52 Putative glutathione S-tr
+tr|Q88QZ9|Q88QZ9_PSEPK        207   31   44  197    7    211   4e-52 Glutathione S-transferase
+tr|Q8XVV6|Q8XVV6_RALSO        202   29   46  198    6    222   1e-55 Probable glutathione s-tr
+tr|R0E2J6|R0E2J6_RALPI        204   30   47  198    6    222   2e-55 Glutathione S-transferase
+tr|R0FXE6|R0FXE6_9BURK        204   27   45  198    6    222   2e-55 Glutathione S-transferase
+tr|R4WF87|R4WF87_9BURK        204   24   46  197    6    221   3e-55 Glutathione S-transferase
+tr|R7X2L9|R7X2L9_9BURK        202   28   45  197    6    225   2e-56 Glutathione S-transferase
+tr|R7X978|R7X978_9RALS        204   28   47  197    6    212   1e-52 Glutathione S-transferase
+tr|R9UY12|R9UY12_PSEPU        207   31   44  197    7    208   3e-51 Glutathione S-transferase
+tr|S2K0E8|S2K0E8_9PSED        207   29   43  197    7    205   2e-50 Glutathione S-transferase
+tr|S2WE71|S2WE71_DELAC        206   28   42  197    8    210   1e-51 Glutathione S-transferase
+tr|S2WU26|S2WU26_DELAC        206   28   42  197    8    210   1e-51 Glutathione S-transferase
+tr|S6B1S8|S6B1S8_9PROT        203   27   41  196    7    214   6e-53 Glutathione S-transferase
+tr|S9RRX6|S9RRX6_9RALS        202   30   46  198    6    226   1e-56 Glutathione S-transferase
+tr|S9SAF5|S9SAF5_PHAFV        201   29   46  197    4    218   3e-54 Glutathione S-transferase
+tr|T1XJA0|T1XJA0_VARPD        203   26   45  197    8    215   3e-53 Putative glutathione S-tr
+tr|U0ZYJ2|U0ZYJ2_9NEIS        203   29   45  196    7    226   1e-56 Glutathione S-transferase
+tr|U1T796|U1T796_PSEME        201   35   48  197    5    204   6e-50 Glutathione S-transferase
+tr|U1TQ87|U1TQ87_PSEFL        209   31   43  198    5    202   3e-49 Glutathione S-transferase
+tr|U2H3C8|U2H3C8_9BURK        203   26   48  198    6    225   2e-56 Glutathione S-transferase
+tr|U2ZK17|U2ZK17_PSEA4        205   29   43  197    6    202   3e-49 Glutathione S-transferase
+tr|U3AAT1|U3AAT1_9RHOB        201   30   45  197    4    202   2e-49 Glutathione S-transferase
+tr|U3GIR1|U3GIR1_9RALS        204   29   47  198    6    220   6e-55 Uncharacterized protein O
+tr|U3HKG9|U3HKG9_PSEAC        201   32   43  197    5    202   3e-49 Uncharacterized protein O
+tr|U3QLM4|U3QLM4_RALPI        204   27   47  197    6    210   7e-52 Glutathione S-transferase
+tr|U5VKG8|U5VKG8_9PSED        207   30   45  197    7    202   2e-49 Glutathione S-transferase
+tr|U7U9G7|U7U9G7_9BURK        203   30   46  196    7    221   6e-55 Glutathione S-transferase
+tr|V2G790|V2G790_9BURK        204   27   47  197    6    204   4e-50 Glutathione S-transferase
+tr|V4YL47|V4YL47_9PROT        206   26   43  196    8    201   3e-49 Putative GST-like protein
+tr|V4ZVP3|V4ZVP3_9BURK        203   26   48  198    6    225   2e-56 Glutathione S-transferase
+tr|V5PV88|V5PV88_9BURK        203   27   45  197    6    228   3e-57 Glutathione S-transferase
+tr|V5UGX4|V5UGX4_9BURK        203   27   45  197    6    230   9e-58 Glutathione S-transferase
+tr|V6F6B1|V6F6B1_9PROT        201   29   45  198    4    206   1e-50 Uncharacterized GST-like 
+tr|V8R025|V8R025_9PSED        215   30   45  199    5    204   5e-50 Glutathione S-transferase
+tr|V9R534|V9R534_9PSED        209   31   43  198    5    202   2e-49 Glutathione S-transferase
+tr|V9V8H0|V9V8H0_9PSED        207   31   45  197    7    207   8e-51 Glutathione S-transferase
+tr|V9W0P3|V9W0P3_9RHOB        200   26   40  195    6    203   1e-49 Glutathione S-transferase
+tr|V9WRN7|V9WRN7_9PSED        207   29   43  197    7    208   3e-51 Glutathione S-transferase
+tr|W0SL35|W0SL35_9PROT        203   27   44  196    7    219   2e-54 Glutathione S-transferase
+tr|W0UZF1|W0UZF1_9BURK        203   28   44  198    7    227   5e-57 Glutathione S-transferase
+tr|W2DJE3|W2DJE3_9PSED        204   28   43  198    5    203   1e-49 Glutathione S-transferase
+tr|W2DX69|W2DX69_9PSED        209   31   45  198    5    202   2e-49 Glutathione S-transferase
+tr|W4HGN3|W4HGN3_9RHOB        201   31   45  198    4    210   7e-52 Putative glutathione S-tr
+tr|W6WNN1|W6WNN1_9BURK        202   26   44  196    6    215   3e-53 Glutathione S-transferase
+tr|W7WLS9|W7WLS9_9BURK        206   28   46  197    8    219   1e-54 Putative GST-like protein
+tr|W7X3J7|W7X3J7_9BURK        204   27   46  198    8    217   6e-54 Putative GST-like protein
+tr|W8X340|W8X340_CASDE        204   27   38  197    6    215   3e-53 Glutathione S-transferase
+tr|W9GY57|W9GY57_9PROT        200   31   46  196    4    209   2e-51 Glutathione S-transferase
+tr|X6KUZ0|X6KUZ0_9RHOB        201   27   43  198    4    209   2e-51 Contig3, whole genome sho
+---
+--- PSI-BLAST ALIGNMENT 
+
+References
+PredictProtein: B Rost,G Yachdav and J Liu (2004) The PredictProtein Server. Nucleic Acids Research 32(Web Server issue):W321-W326.
+Author: B Rost
+Contact: help@predictprotein.org
+URL: PredictProtein Homepage
+Description: PredictProtein is the acronym for all prediction programs run.
+PROFphd: B Rost (1996) Methods in Enzymology, 266:525-539
+Author: B Rost
+Description: PROF is a suite of programs predicting 1D structure (secondary structure, solvent accessibility) from multiple sequence alignments.PHDhtm predicts the location and topology of transmembrane helices from multiple sequence alignments.
+URL: PROFphd Information Page
+PSI-Blast: Altschul SF, Madden TL, Schaffer AA, Zhang J, Zhang Z, Miller W, Lipman DJ. (1997) Nucleic Acids Res. 25(17):3389-402.
+Description: blastpgp performs gapped blastp searches and can be used to perform iterative searches in psi-blast and phi-blast mode.
+PROSITE: A Bairoch, P Bucher ∧ K Hofmann (1997) Nucleic Acids Research, 25:217-221
+Author: A Bairoch, bairoch@cmu.unige.ch P Bucher ∧ K Hofmann
+URL: http://www.expasy.ch/prosite
+Description: PROSITE is a database of functional motifs. ScanProsite, finds all functional motifs in your sequence that are annotated in the ProSite db.
+SEG: J C Wootton ∧ S Federhen (1996) Methods in Enzymology, 266:554-571
+Author: J C Wootton ∧ S Federhen,
+Description: SEG divides sequences into regions of low-, and high-complexity. Low-complexity regions typically correspond to 'simple sequences' or 'compositionally-biased' regions.
+GLOBE: B Rost (1998) unpublished
+Author: B Rost
+Description: GLOBE predicts the globularity of a protein
+DISULFIND: A.Ceroni, P.Frasconi, A.Passerini and A.Vullo (2004) Bioinformatics, 20, 653-659, 2004
+Author: A.Ceroni, P.Frasconi, A.Passerini and A.Vullo
+URL: DISULfind Information Page
+Version: 2.0
+Description: DISULFIND is a disulphide bridges predictor based on a two steps process.
+A conformational switch prediction program: Young et al. Protein Science(1999) 8:1752-64.
+Author: Young M, Kirshenbaum K, Dill KA and Highsmith S.
+Description: ASP finds regions that are most likely to behave as switches in proteins known to exhibit this behavior
+HMMPFAM: Bateman et al. Nucleic Acids Research 2004 32:D138-D141.
+Author: Bateman A, Coin L, Durbin R, Finn RD, Hollich V, Griffiths-Jones S, Khanna A, Marshall M, Moxon S, Sonnhammer EL, Studholme DJ, Yeats C, Eddy SR.
+Version: 2.2g
+Description: Search one or more sequences against HMM database
+NORS: Liu J, Rost B (2003) NORSp: predictions of long regions without regular secondary structure. Nucleic Acids Research 31(13):3833-3835
+Author: J. Liu
+URL: NORSp Information Page
+Description: NORSp is a predictor of NOn-Regular Secondary Structure.
+CHOP: Liu J ∧ Rost B (2004) CHOP proteins into structural domain-like fragments. Proteins, 55(3):678-688
+Author: J. Liu
+URL: CHOP Information Page
+Description: CHOP is a method of dissecting proteins into domain-like fragments based on sequence homology.
+ISIS: Yanay Ofran and Burkhard Rost (2007). ISIS: Interaction Sites Identified from Sequence. Bioinformatics. 23 (2), e13-e16
+Author: Y. Ofran
+URL: ISIS Information Page
+Description: Prediction of residues involved in external protein-protein interactions.
+DISIS: Yanay Ofran and Venkatesh Mysore and Burkhard Rost (2007). Prediction of DNA-binding residues from sequence. Bioinformatics. 23 (13), i347-i353
+Author: Y. Ofran
+URL: DISIS Information Page
+Description: Prediction of residues involved in DNA binding.
+NORSnet: Avner Schlessinger and Jinfeng Liu and Burkhard Rost (2007). Natively unstructured loops differ from other loops. PLoS Computational Biology. 3 (7), e140.
+Author: A. Schlessinger
+URL: Norsnet Information Page
+Description: Identifies unstructured loops from sequence.
+PROFbval: Avner Schlessinger and Guy Yachdav and Burkhard Rost (2006). PROFbval: predict flexible and rigid residues in proteins. Bioinformatics. 22 891-893.
+Author: A. Schlessinger
+URL: PROFbval Information Page
+Description: Prediction of protein flexibility and rigidity prediction from sequence.
+METADISORDER: A. Schlessinger and M. Punta and G. Yachdav and L. Kajan and B. Rost (2009). Improved disorder prediction by combination of orthogonal approaches. PLoS One. 4 (2), e4433.
+Author: A. Schlessinger
+URL: METADISORDER Information Page
+Description: Protein disorder prediction based on orthogonal sources of information.
+PROFtmb: Henry Bigelow and Burkhard Rost (2006). PROFtmb: a web server for predicting bacterial transmembrane beta barrel proteins. Nucleic Acids Research. 34 (Web Server issue), W186-188.
+Author: H. Bigelow
+URL: PROFtmb Information Page
+Description: per-residue prediction of bacterial transmembrane beta barrels.
+LOCtree: Rajesh Nair and Burkhard Rost (2005). Mimicking cellular sorting improves prediction of subcellular localization. Journal of Molecular Biology. 348 (1), 85-100
+Author: R. Nair
+URL: LOCtree Information Page
+Description: predict the subcellular localization of proteins.
+PredictNLS:
+Author: R. Nair
+URL: PredictNLS Information Page
+Description:analysis and determination of Nuclear Localization Signals (NLS).
