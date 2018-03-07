@@ -1,8 +1,8 @@
 1.  基因全长序列分析：对于给定的DNA序列进行分子生物学分析。通过NCBI的Open Reading Frame Finder（http://www.ncbi.nlm.nih.gov/gorf/gorf.html）分析可知：给定的基因序列全长，及能编码氨基酸数量。
 2.  蛋白理化性质预测与分析：根据在线服务系统ExPASy中的ProtParam工具(http://www.expasy.org/tools/protparam.html)和Proscale工具(http://webexpasy.org/ cgi-bin/protscale/protscale.pl)进一步对目的基因蛋白氨基酸序列的基本理化性质进行综合预测分析，结果比较可靠。预测的理化性质有：蛋白分子量(Molecular weight)、理论等电点(Theoretical pI)、氨基酸组成(Amino acid composition)、电荷分布(negatively charged residues, positively charged residues)、原子构成(Atomic composition )、消光系数( Extinction coefficients )、半衰期(Estimated half-life)、不稳定系数(Instability index)，脂肪系数(Aliphatic index)、总平均疏水性(Grand average of hydropathicity, GRAVY )等。
 3.  磷酸化位点预测与分析：磷酸化和去磷酸化是细胞内信号传导的重要方式，应用在线服务NetPhos 2.0 Serve(http://www.cbs.dtu.dk/services/NetPhos/)对目的基因的磷酸化位点进行预测与分析，对蛋白序列中的Ser、Thr和Tyr三种氨基酸残基可能成为的磷酸化位点作出预测。
-4.  蛋白卷曲螺旋结构的预测与分析：利用在线服务Coils分析工具(http://embnet. vital-it.ch/software/COILS_form.html)对目的基因蛋白序列形成卷曲螺旋的倾向性进行预测，以window=14，21和28为实验参数，按照几率>50%就可形成螺旋的规则，比较不同权重情况下的分析结果。
-5.  蛋白质二级结构预测与分析：蛋白质二级结构主要有α-螺旋、β-折叠、β-转角等几种形式，它们是构成蛋白质高级结构的基本要素。应用JPred（http://www.compbio.dundee.ac.uk/jpred/）和PredictProtein (www.predictprotein. org/)预测服务器对目的基因蛋白进行二级结构预测。
+4.  蛋白卷曲螺旋结构的预测与分析：利用在线服务Coils分析工具(http://embnet.vital-it.ch/software/COILS_form.html)对目的基因蛋白序列形成卷曲螺旋的倾向性进行预测，以window=14，21和28为实验参数，按照几率>50%就可形成螺旋的规则，比较不同权重情况下的分析结果。
+5.  蛋白质二级结构预测与分析：蛋白质二级结构主要有α-螺旋、β-折叠、β-转角等几种形式，它们是构成蛋白质高级结构的基本要素。应用JPred（http://www.compbio.dundee.ac.uk/jpred/）和PredictProtein (www.predictprotein.org/)预测服务器对目的基因蛋白进行二级结构预测。
 6.  蛋白的跨膜结构预测与分析：跨膜结构域的预测和分析，对正确认识和理解蛋白质的功能、结构、分类、方位及细胞中作用部位均有着重要的指示意义。应用在线服务TMHMM (http://www.cbs.dtu.dk/services/TMHMM/)和Tmpred (http://www.ch.embnet.org/software/TMPRED_form.html)对目的基因蛋白的跨膜结构进行预测及分析。红色表示跨膜区，蓝色即在膜内部，相反紫色细线表示在膜外的概率。
 7.  信号肽的预测和分析：预测和分析信号肽有助于蛋白质功能域的划分和蛋白质细胞定位。应用在线服务SignaIP 4.1 Server(http://www.cbs.dtu.dk/services/SignalP/)对目的基因的信号肽进行预测与分析。
 8.  亚细胞定位预测与分析：亚细胞定位与蛋白质的功能存在着非常重要的联系，可以通过氨基酸组成进行亚细胞定位的预测。应用PSORT(http://psort.nibb.ac.jp/)软件对目的基因蛋白的亚细胞内定位进行预测。[这个网站需要翻墙才能登陆，可以试一下，不一定能打开。]
